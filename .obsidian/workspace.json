@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown-sample.md",
+                "file": "test4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown-sample.md",
+                "file": "test4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown-sample.md",
+                "file": "test4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown-sample.md"
+                "file": "test4.md"
               }
             }
           }
@@ -146,28 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b77cc1c7cd3c5bd",
+  "active": "1cbd81d064643cf6",
   "lastOpenFiles": [
-    ".git/objects/32",
-    ".git/objects/32/8ef1c17fb053e9dd86ac72962a56e1538a78bc",
-    ".obsidian/plugins/obsidian-git/styles.css",
-    ".obsidian/plugins/obsidian-git/main.js",
-    ".obsidian/plugins/obsidian-git/manifest.json",
-    ".obsidian/plugins/obsidian-git",
-    ".private/priv-test.md",
-    ".obsidian/plugins/obsidian-minimal-settings/data.json",
-    ".obsidian/plugins/obsidian-minimal-settings/styles.css",
-    ".obsidian/plugins/obsidian-minimal-settings/main.js",
-    ".obsidian/plugins/obsidian-minimal-settings/manifest.json",
-    ".obsidian/plugins/obsidian-minimal-settings",
+    ".git/objects/85",
+    ".git/objects/85/354ba034a19dcc7377375e686a8e39c6cdff94",
+    ".git/objects/64/e8e62af764b456c3e4366d37966faf0cbd748d",
+    ".git/objects/64",
+    ".git/objects/c9",
+    ".git/objects/c9/4e37366eb89789539abf442a5523712b57a9d5",
+    ".git/objects/ac/f4039b2076f9e4620792dce0eb11c2c4e3d0dc",
+    ".git/objects/b9",
+    ".git/objects/b9/4a15251f7462bc7987ea18103ff88c518a116e",
+    ".git/objects/c1",
+    ".git/objects/c1/80e8462137e0d3f2026bdeae9d010676b768f7",
+    "test3.md",
     "test2.md",
+    "markdown-sample3.md",
+    "markdown-sample.md",
+    ".private/priv-test.md",
     "test.md",
     ".private/README.md",
-    "markdown-sample3.md",
     "private/priv-test.md",
     "priv/README.md",
-    "priv/priv-test.md",
-    "markdown-sample.md",
-    "test3.md"
+    "priv/priv-test.md"
   ]
 }
