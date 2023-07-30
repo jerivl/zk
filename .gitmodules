@@ -1,3 +1,3 @@
-[submodule "priv"]
-	path = priv
+[submodule ".private"]
+	path = .private
 	url = git@github.com:jerivl/zk-private.git

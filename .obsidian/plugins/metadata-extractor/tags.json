@@ -1,0 +1,23 @@
+[
+  {
+    "tag": "tag1",
+    "tagCount": 1,
+    "relativePaths": [
+      "markdown-sample3.md"
+    ]
+  },
+  {
+    "tag": "tag2",
+    "tagCount": 1,
+    "relativePaths": [
+      "markdown-sample3.md"
+    ]
+  },
+  {
+    "tag": "tag-test",
+    "tagCount": 1,
+    "relativePaths": [
+      "markdown-sample3.md"
+    ]
+  }
+]

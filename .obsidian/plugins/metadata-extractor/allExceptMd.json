@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "LICENSE",
+      "basename": "LICENSE",
+      "relativePath": "LICENSE"
+    },
+    {
+      "name": "metadata.json",
+      "basename": "metadata",
+      "relativePath": "metadata.json"
+    }
+  ]
+}

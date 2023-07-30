@@ -1,0 +1,9 @@
+{
+  "errorNoticeTimeout": 0,
+  "language": "",
+  "lastReadChangelogVersion": "2.1.2",
+  "noticeTimeout": 5,
+  "openChangelogOnUpdate": true,
+  "recovery": {},
+  "showHiddenFiles": true
+}
