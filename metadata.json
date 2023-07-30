@@ -4,6 +4,29 @@
     "relativePath": "test3.md"
   },
   {
+    "fileName": "markdown-sample3",
+    "relativePath": "markdown-sample3.md",
+    "tags": [
+      "tag1",
+      "tag2",
+      "tag-test"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 44
+        }
+      }
+    }
+  },
+  {
     "fileName": "test2",
     "relativePath": "test2.md",
     "links": [
@@ -31,27 +54,14 @@
     ]
   },
   {
-    "fileName": "markdown-sample3",
-    "relativePath": "markdown-sample3.md",
-    "tags": [
-      "tag1",
-      "tag2",
-      "tag-test"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 44
-        }
+    "fileName": "README",
+    "relativePath": "priv/README.md",
+    "headings": [
+      {
+        "heading": "zk-private",
+        "level": 1
       }
-    }
+    ]
   },
   {
     "fileName": "markdown-sample",
