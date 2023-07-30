@@ -1,28 +1,34 @@
 [
   {
-    "fileName": "test",
-    "relativePath": "test.md",
+    "fileName": "priv-test",
+    "relativePath": ".private/priv-test.md",
     "headings": [
       {
-        "heading": "test",
+        "heading": "linking to public file",
         "level": 1
       }
     ],
-    "backlinks": [
-      {
-        "fileName": "test2",
-        "link": "test",
-        "relativePath": "test2.md"
-      }
-    ]
-  },
-  {
-    "fileName": "test2",
-    "relativePath": "test2.md",
     "links": [
       {
         "link": "test",
         "relativePath": "test.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "test4",
+        "link": "priv-test",
+        "relativePath": "test4.md"
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": ".private/README.md",
+    "headings": [
+      {
+        "heading": "zk-private",
+        "level": 1
       }
     ]
   },
@@ -37,13 +43,46 @@
     ],
     "links": [
       {
-        "link": "priv-test"
+        "link": "priv-test",
+        "relativePath": ".private/priv-test.md"
       }
     ]
   },
   {
     "fileName": "test3",
     "relativePath": "test3.md"
+  },
+  {
+    "fileName": "test2",
+    "relativePath": "test2.md",
+    "links": [
+      {
+        "link": "test",
+        "relativePath": "test.md"
+      }
+    ]
+  },
+  {
+    "fileName": "test",
+    "relativePath": "test.md",
+    "headings": [
+      {
+        "heading": "test",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "priv-test",
+        "link": "test",
+        "relativePath": ".private/priv-test.md"
+      },
+      {
+        "fileName": "test2",
+        "link": "test",
+        "relativePath": "test2.md"
+      }
+    ]
   },
   {
     "fileName": "markdown-sample3",

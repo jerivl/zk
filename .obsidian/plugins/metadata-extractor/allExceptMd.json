@@ -3,6 +3,362 @@
     {
       "name": "",
       "relativePath": "/"
+    },
+    {
+      "name": ".obsidian",
+      "relativePath": ".obsidian"
+    },
+    {
+      "name": ".git",
+      "relativePath": ".git"
+    },
+    {
+      "name": ".private",
+      "relativePath": ".private"
+    },
+    {
+      "name": ".github",
+      "relativePath": ".github"
+    },
+    {
+      "name": "plugins",
+      "relativePath": ".obsidian/plugins"
+    },
+    {
+      "name": "hooks",
+      "relativePath": ".git/hooks"
+    },
+    {
+      "name": "logs",
+      "relativePath": ".git/logs"
+    },
+    {
+      "name": "info",
+      "relativePath": ".git/info"
+    },
+    {
+      "name": "objects",
+      "relativePath": ".git/objects"
+    },
+    {
+      "name": ".git",
+      "relativePath": ".private/.git"
+    },
+    {
+      "name": "refs",
+      "relativePath": ".git/refs"
+    },
+    {
+      "name": "workflows",
+      "relativePath": ".github/workflows"
+    },
+    {
+      "name": "metadata-extractor",
+      "relativePath": ".obsidian/plugins/metadata-extractor"
+    },
+    {
+      "name": "show-hidden-files",
+      "relativePath": ".obsidian/plugins/show-hidden-files"
+    },
+    {
+      "name": "refs",
+      "relativePath": ".git/logs/refs"
+    },
+    {
+      "name": "info",
+      "relativePath": ".private/.git/info"
+    },
+    {
+      "name": "objects",
+      "relativePath": ".private/.git/objects"
+    },
+    {
+      "name": "hooks",
+      "relativePath": ".private/.git/hooks"
+    },
+    {
+      "name": "refs",
+      "relativePath": ".private/.git/refs"
+    },
+    {
+      "name": "heads",
+      "relativePath": ".git/refs/heads"
+    },
+    {
+      "name": "tags",
+      "relativePath": ".git/refs/tags"
+    },
+    {
+      "name": "remotes",
+      "relativePath": ".git/refs/remotes"
+    },
+    {
+      "name": "logs",
+      "relativePath": ".private/.git/logs"
+    },
+    {
+      "name": "06",
+      "relativePath": ".git/objects/06"
+    },
+    {
+      "name": "10",
+      "relativePath": ".git/objects/10"
+    },
+    {
+      "name": "0b",
+      "relativePath": ".git/objects/0b"
+    },
+    {
+      "name": "16",
+      "relativePath": ".git/objects/16"
+    },
+    {
+      "name": "14",
+      "relativePath": ".git/objects/14"
+    },
+    {
+      "name": "26",
+      "relativePath": ".git/objects/26"
+    },
+    {
+      "name": "49",
+      "relativePath": ".git/objects/49"
+    },
+    {
+      "name": "17",
+      "relativePath": ".git/objects/17"
+    },
+    {
+      "name": "36",
+      "relativePath": ".git/objects/36"
+    },
+    {
+      "name": "43",
+      "relativePath": ".git/objects/43"
+    },
+    {
+      "name": "1d",
+      "relativePath": ".git/objects/1d"
+    },
+    {
+      "name": "5c",
+      "relativePath": ".git/objects/5c"
+    },
+    {
+      "name": "53",
+      "relativePath": ".git/objects/53"
+    },
+    {
+      "name": "66",
+      "relativePath": ".git/objects/66"
+    },
+    {
+      "name": "4a",
+      "relativePath": ".git/objects/4a"
+    },
+    {
+      "name": "75",
+      "relativePath": ".git/objects/75"
+    },
+    {
+      "name": "58",
+      "relativePath": ".git/objects/58"
+    },
+    {
+      "name": "2f",
+      "relativePath": ".git/objects/2f"
+    },
+    {
+      "name": "6a",
+      "relativePath": ".git/objects/6a"
+    },
+    {
+      "name": "6e",
+      "relativePath": ".git/objects/6e"
+    },
+    {
+      "name": "7c",
+      "relativePath": ".git/objects/7c"
+    },
+    {
+      "name": "96",
+      "relativePath": ".git/objects/96"
+    },
+    {
+      "name": "83",
+      "relativePath": ".git/objects/83"
+    },
+    {
+      "name": "94",
+      "relativePath": ".git/objects/94"
+    },
+    {
+      "name": "98",
+      "relativePath": ".git/objects/98"
+    },
+    {
+      "name": "b7",
+      "relativePath": ".git/objects/b7"
+    },
+    {
+      "name": "a1",
+      "relativePath": ".git/objects/a1"
+    },
+    {
+      "name": "ac",
+      "relativePath": ".git/objects/ac"
+    },
+    {
+      "name": "a4",
+      "relativePath": ".git/objects/a4"
+    },
+    {
+      "name": "9e",
+      "relativePath": ".git/objects/9e"
+    },
+    {
+      "name": "c8",
+      "relativePath": ".git/objects/c8"
+    },
+    {
+      "name": "be",
+      "relativePath": ".git/objects/be"
+    },
+    {
+      "name": "ad",
+      "relativePath": ".git/objects/ad"
+    },
+    {
+      "name": "bb",
+      "relativePath": ".git/objects/bb"
+    },
+    {
+      "name": "cc",
+      "relativePath": ".git/objects/cc"
+    },
+    {
+      "name": "cf",
+      "relativePath": ".git/objects/cf"
+    },
+    {
+      "name": "e2",
+      "relativePath": ".git/objects/e2"
+    },
+    {
+      "name": "d3",
+      "relativePath": ".git/objects/d3"
+    },
+    {
+      "name": "d7",
+      "relativePath": ".git/objects/d7"
+    },
+    {
+      "name": "bf",
+      "relativePath": ".git/objects/bf"
+    },
+    {
+      "name": "df",
+      "relativePath": ".git/objects/df"
+    },
+    {
+      "name": "f3",
+      "relativePath": ".git/objects/f3"
+    },
+    {
+      "name": "f2",
+      "relativePath": ".git/objects/f2"
+    },
+    {
+      "name": "eb",
+      "relativePath": ".git/objects/eb"
+    },
+    {
+      "name": "da",
+      "relativePath": ".git/objects/da"
+    },
+    {
+      "name": "fa",
+      "relativePath": ".git/objects/fa"
+    },
+    {
+      "name": "info",
+      "relativePath": ".git/objects/info"
+    },
+    {
+      "name": "fb",
+      "relativePath": ".git/objects/fb"
+    },
+    {
+      "name": "pack",
+      "relativePath": ".git/objects/pack"
+    },
+    {
+      "name": "heads",
+      "relativePath": ".git/logs/refs/heads"
+    },
+    {
+      "name": "remotes",
+      "relativePath": ".git/logs/refs/remotes"
+    },
+    {
+      "name": "69",
+      "relativePath": ".private/.git/objects/69"
+    },
+    {
+      "name": "1a",
+      "relativePath": ".private/.git/objects/1a"
+    },
+    {
+      "name": "9f",
+      "relativePath": ".private/.git/objects/9f"
+    },
+    {
+      "name": "info",
+      "relativePath": ".private/.git/objects/info"
+    },
+    {
+      "name": "pack",
+      "relativePath": ".private/.git/objects/pack"
+    },
+    {
+      "name": "heads",
+      "relativePath": ".private/.git/refs/heads"
+    },
+    {
+      "name": "remotes",
+      "relativePath": ".private/.git/refs/remotes"
+    },
+    {
+      "name": "tags",
+      "relativePath": ".private/.git/refs/tags"
+    },
+    {
+      "name": "origin",
+      "relativePath": ".git/refs/remotes/origin"
+    },
+    {
+      "name": "refs",
+      "relativePath": ".private/.git/logs/refs"
+    },
+    {
+      "name": "origin",
+      "relativePath": ".git/logs/refs/remotes/origin"
+    },
+    {
+      "name": "origin",
+      "relativePath": ".private/.git/refs/remotes/origin"
+    },
+    {
+      "name": "heads",
+      "relativePath": ".private/.git/logs/refs/heads"
+    },
+    {
+      "name": "remotes",
+      "relativePath": ".private/.git/logs/refs/remotes"
+    },
+    {
+      "name": "origin",
+      "relativePath": ".private/.git/logs/refs/remotes/origin"
     }
   ],
   "nonMdFiles": [
@@ -15,6 +371,686 @@
       "name": "metadata.json",
       "basename": "metadata",
       "relativePath": "metadata.json"
+    },
+    {
+      "name": ".gitmodules",
+      "basename": ".gitmodules",
+      "relativePath": ".gitmodules"
+    },
+    {
+      "name": "app.json",
+      "basename": "app",
+      "relativePath": ".obsidian/app.json"
+    },
+    {
+      "name": "graph.json",
+      "basename": "graph",
+      "relativePath": ".obsidian/graph.json"
+    },
+    {
+      "name": "community-plugins.json",
+      "basename": "community-plugins",
+      "relativePath": ".obsidian/community-plugins.json"
+    },
+    {
+      "name": "hotkeys.json",
+      "basename": "hotkeys",
+      "relativePath": ".obsidian/hotkeys.json"
+    },
+    {
+      "name": "core-plugins.json",
+      "basename": "core-plugins",
+      "relativePath": ".obsidian/core-plugins.json"
+    },
+    {
+      "name": "appearance.json",
+      "basename": "appearance",
+      "relativePath": ".obsidian/appearance.json"
+    },
+    {
+      "name": "core-plugins-migration.json",
+      "basename": "core-plugins-migration",
+      "relativePath": ".obsidian/core-plugins-migration.json"
+    },
+    {
+      "name": "workspace.json",
+      "basename": "workspace",
+      "relativePath": ".obsidian/workspace.json"
+    },
+    {
+      "name": "COMMIT_EDITMSG",
+      "basename": "COMMIT_EDITMSG",
+      "relativePath": ".git/COMMIT_EDITMSG"
+    },
+    {
+      "name": "HEAD",
+      "basename": "HEAD",
+      "relativePath": ".git/HEAD"
+    },
+    {
+      "name": "FETCH_HEAD",
+      "basename": "FETCH_HEAD",
+      "relativePath": ".git/FETCH_HEAD"
+    },
+    {
+      "name": "config",
+      "basename": "config",
+      "relativePath": ".git/config"
+    },
+    {
+      "name": "ORIG_HEAD",
+      "basename": "ORIG_HEAD",
+      "relativePath": ".git/ORIG_HEAD"
+    },
+    {
+      "name": "description",
+      "basename": "description",
+      "relativePath": ".git/description"
+    },
+    {
+      "name": "index",
+      "basename": "index",
+      "relativePath": ".git/index"
+    },
+    {
+      "name": "packed-refs",
+      "basename": "packed-refs",
+      "relativePath": ".git/packed-refs"
+    },
+    {
+      "name": "HEAD",
+      "basename": "HEAD",
+      "relativePath": ".git/logs/HEAD"
+    },
+    {
+      "name": "HEAD",
+      "basename": "HEAD",
+      "relativePath": ".private/.git/HEAD"
+    },
+    {
+      "name": "exclude",
+      "basename": "exclude",
+      "relativePath": ".git/info/exclude"
+    },
+    {
+      "name": "config",
+      "basename": "config",
+      "relativePath": ".private/.git/config"
+    },
+    {
+      "name": "COMMIT_EDITMSG",
+      "basename": "COMMIT_EDITMSG",
+      "relativePath": ".private/.git/COMMIT_EDITMSG"
+    },
+    {
+      "name": "index",
+      "basename": "index",
+      "relativePath": ".private/.git/index"
+    },
+    {
+      "name": "description",
+      "basename": "description",
+      "relativePath": ".private/.git/description"
+    },
+    {
+      "name": "packed-refs",
+      "basename": "packed-refs",
+      "relativePath": ".private/.git/packed-refs"
+    },
+    {
+      "name": "main.yml",
+      "basename": "main",
+      "relativePath": ".github/workflows/main.yml"
+    },
+    {
+      "name": "applypatch-msg.sample",
+      "basename": "applypatch-msg",
+      "relativePath": ".git/hooks/applypatch-msg.sample"
+    },
+    {
+      "name": "commit-msg.sample",
+      "basename": "commit-msg",
+      "relativePath": ".git/hooks/commit-msg.sample"
+    },
+    {
+      "name": "fsmonitor-watchman.sample",
+      "basename": "fsmonitor-watchman",
+      "relativePath": ".git/hooks/fsmonitor-watchman.sample"
+    },
+    {
+      "name": "pre-commit.sample",
+      "basename": "pre-commit",
+      "relativePath": ".git/hooks/pre-commit.sample"
+    },
+    {
+      "name": "pre-applypatch.sample",
+      "basename": "pre-applypatch",
+      "relativePath": ".git/hooks/pre-applypatch.sample"
+    },
+    {
+      "name": "pre-push.sample",
+      "basename": "pre-push",
+      "relativePath": ".git/hooks/pre-push.sample"
+    },
+    {
+      "name": "pre-rebase.sample",
+      "basename": "pre-rebase",
+      "relativePath": ".git/hooks/pre-rebase.sample"
+    },
+    {
+      "name": "pre-merge-commit.sample",
+      "basename": "pre-merge-commit",
+      "relativePath": ".git/hooks/pre-merge-commit.sample"
+    },
+    {
+      "name": "post-update.sample",
+      "basename": "post-update",
+      "relativePath": ".git/hooks/post-update.sample"
+    },
+    {
+      "name": "push-to-checkout.sample",
+      "basename": "push-to-checkout",
+      "relativePath": ".git/hooks/push-to-checkout.sample"
+    },
+    {
+      "name": "prepare-commit-msg.sample",
+      "basename": "prepare-commit-msg",
+      "relativePath": ".git/hooks/prepare-commit-msg.sample"
+    },
+    {
+      "name": "pre-receive.sample",
+      "basename": "pre-receive",
+      "relativePath": ".git/hooks/pre-receive.sample"
+    },
+    {
+      "name": "sendemail-validate.sample",
+      "basename": "sendemail-validate",
+      "relativePath": ".git/hooks/sendemail-validate.sample"
+    },
+    {
+      "name": "update.sample",
+      "basename": "update",
+      "relativePath": ".git/hooks/update.sample"
+    },
+    {
+      "name": "main.js",
+      "basename": "main",
+      "relativePath": ".obsidian/plugins/show-hidden-files/main.js"
+    },
+    {
+      "name": "manifest.json",
+      "basename": "manifest",
+      "relativePath": ".obsidian/plugins/show-hidden-files/manifest.json"
+    },
+    {
+      "name": "styles.css",
+      "basename": "styles",
+      "relativePath": ".obsidian/plugins/show-hidden-files/styles.css"
+    },
+    {
+      "name": "exclude",
+      "basename": "exclude",
+      "relativePath": ".private/.git/info/exclude"
+    },
+    {
+      "name": "allExceptMd.json",
+      "basename": "allExceptMd",
+      "relativePath": ".obsidian/plugins/metadata-extractor/allExceptMd.json"
+    },
+    {
+      "name": "data.json",
+      "basename": "data",
+      "relativePath": ".obsidian/plugins/metadata-extractor/data.json"
+    },
+    {
+      "name": "main.js",
+      "basename": "main",
+      "relativePath": ".obsidian/plugins/metadata-extractor/main.js"
+    },
+    {
+      "name": "manifest.json",
+      "basename": "manifest",
+      "relativePath": ".obsidian/plugins/metadata-extractor/manifest.json"
+    },
+    {
+      "name": "commit-msg.sample",
+      "basename": "commit-msg",
+      "relativePath": ".private/.git/hooks/commit-msg.sample"
+    },
+    {
+      "name": "pre-applypatch.sample",
+      "basename": "pre-applypatch",
+      "relativePath": ".private/.git/hooks/pre-applypatch.sample"
+    },
+    {
+      "name": "fsmonitor-watchman.sample",
+      "basename": "fsmonitor-watchman",
+      "relativePath": ".private/.git/hooks/fsmonitor-watchman.sample"
+    },
+    {
+      "name": "post-update.sample",
+      "basename": "post-update",
+      "relativePath": ".private/.git/hooks/post-update.sample"
+    },
+    {
+      "name": "tags.json",
+      "basename": "tags",
+      "relativePath": ".obsidian/plugins/metadata-extractor/tags.json"
+    },
+    {
+      "name": "pre-commit.sample",
+      "basename": "pre-commit",
+      "relativePath": ".private/.git/hooks/pre-commit.sample"
+    },
+    {
+      "name": "canvas.json",
+      "basename": "canvas",
+      "relativePath": ".obsidian/plugins/metadata-extractor/canvas.json"
+    },
+    {
+      "name": "applypatch-msg.sample",
+      "basename": "applypatch-msg",
+      "relativePath": ".private/.git/hooks/applypatch-msg.sample"
+    },
+    {
+      "name": "pre-push.sample",
+      "basename": "pre-push",
+      "relativePath": ".private/.git/hooks/pre-push.sample"
+    },
+    {
+      "name": "pre-rebase.sample",
+      "basename": "pre-rebase",
+      "relativePath": ".private/.git/hooks/pre-rebase.sample"
+    },
+    {
+      "name": "pre-merge-commit.sample",
+      "basename": "pre-merge-commit",
+      "relativePath": ".private/.git/hooks/pre-merge-commit.sample"
+    },
+    {
+      "name": "push-to-checkout.sample",
+      "basename": "push-to-checkout",
+      "relativePath": ".private/.git/hooks/push-to-checkout.sample"
+    },
+    {
+      "name": "prepare-commit-msg.sample",
+      "basename": "prepare-commit-msg",
+      "relativePath": ".private/.git/hooks/prepare-commit-msg.sample"
+    },
+    {
+      "name": "sendemail-validate.sample",
+      "basename": "sendemail-validate",
+      "relativePath": ".private/.git/hooks/sendemail-validate.sample"
+    },
+    {
+      "name": "pre-receive.sample",
+      "basename": "pre-receive",
+      "relativePath": ".private/.git/hooks/pre-receive.sample"
+    },
+    {
+      "name": "update.sample",
+      "basename": "update",
+      "relativePath": ".private/.git/hooks/update.sample"
+    },
+    {
+      "name": "main",
+      "basename": "main",
+      "relativePath": ".git/refs/heads/main"
+    },
+    {
+      "name": "HEAD",
+      "basename": "HEAD",
+      "relativePath": ".private/.git/logs/HEAD"
+    },
+    {
+      "name": "37a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
+      "basename": "37a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
+      "relativePath": ".git/objects/06/37a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
+    },
+    {
+      "name": "9ba3fc26f70553b6a1a62cd11c7cb48c4ac83b",
+      "basename": "9ba3fc26f70553b6a1a62cd11c7cb48c4ac83b",
+      "relativePath": ".git/objects/14/9ba3fc26f70553b6a1a62cd11c7cb48c4ac83b"
+    },
+    {
+      "name": "6faf9e4de13284652627e6a95034827648e1f2",
+      "basename": "6faf9e4de13284652627e6a95034827648e1f2",
+      "relativePath": ".git/objects/0b/6faf9e4de13284652627e6a95034827648e1f2"
+    },
+    {
+      "name": "c1146792e1ea6b181e0ed0c2ad184c36aeb84d",
+      "basename": "c1146792e1ea6b181e0ed0c2ad184c36aeb84d",
+      "relativePath": ".git/objects/49/c1146792e1ea6b181e0ed0c2ad184c36aeb84d"
+    },
+    {
+      "name": "ae815dd82eb3a81c22fa50bbe18e804911bdd4",
+      "basename": "ae815dd82eb3a81c22fa50bbe18e804911bdd4",
+      "relativePath": ".git/objects/26/ae815dd82eb3a81c22fa50bbe18e804911bdd4"
+    },
+    {
+      "name": "5117ad493b0ec3f71afd77140b2915541381b3",
+      "basename": "5117ad493b0ec3f71afd77140b2915541381b3",
+      "relativePath": ".git/objects/16/5117ad493b0ec3f71afd77140b2915541381b3"
+    },
+    {
+      "name": "b7b200f5924a113bac43582f33d296dc9c8ebd",
+      "basename": "b7b200f5924a113bac43582f33d296dc9c8ebd",
+      "relativePath": ".git/objects/17/b7b200f5924a113bac43582f33d296dc9c8ebd"
+    },
+    {
+      "name": "ea5225335634223a12702de8ac75a182304efb",
+      "basename": "ea5225335634223a12702de8ac75a182304efb",
+      "relativePath": ".git/objects/36/ea5225335634223a12702de8ac75a182304efb"
+    },
+    {
+      "name": "cd1d4f1018b2faa337443012912974e2ba3b96",
+      "basename": "cd1d4f1018b2faa337443012912974e2ba3b96",
+      "relativePath": ".git/objects/43/cd1d4f1018b2faa337443012912974e2ba3b96"
+    },
+    {
+      "name": "0810ddadee1efb80ff2edbac0fc76afd9c145d",
+      "basename": "0810ddadee1efb80ff2edbac0fc76afd9c145d",
+      "relativePath": ".git/objects/1d/0810ddadee1efb80ff2edbac0fc76afd9c145d"
+    },
+    {
+      "name": "f71da1cd2afe82c1ef18f8cbd99ce0714cb0bd",
+      "basename": "f71da1cd2afe82c1ef18f8cbd99ce0714cb0bd",
+      "relativePath": ".git/objects/53/f71da1cd2afe82c1ef18f8cbd99ce0714cb0bd"
+    },
+    {
+      "name": "a521afd9268987d587ad5fccd7927ab872528e",
+      "basename": "a521afd9268987d587ad5fccd7927ab872528e",
+      "relativePath": ".git/objects/4a/a521afd9268987d587ad5fccd7927ab872528e"
+    },
+    {
+      "name": "4ad1ed3030a13d9e096e9a671f46599ef3c0fe",
+      "basename": "4ad1ed3030a13d9e096e9a671f46599ef3c0fe",
+      "relativePath": ".git/objects/75/4ad1ed3030a13d9e096e9a671f46599ef3c0fe"
+    },
+    {
+      "name": "13490222138a9d52e50f4782969284fd43e8ce",
+      "basename": "13490222138a9d52e50f4782969284fd43e8ce",
+      "relativePath": ".git/objects/5c/13490222138a9d52e50f4782969284fd43e8ce"
+    },
+    {
+      "name": "42cd02b2539d22e6b73a9769b7b2534352f5fc",
+      "basename": "42cd02b2539d22e6b73a9769b7b2534352f5fc",
+      "relativePath": ".git/objects/6e/42cd02b2539d22e6b73a9769b7b2534352f5fc"
+    },
+    {
+      "name": "442f6fec4cb481319f12e9e1357c88b3ff356f",
+      "basename": "442f6fec4cb481319f12e9e1357c88b3ff356f",
+      "relativePath": ".git/objects/2f/442f6fec4cb481319f12e9e1357c88b3ff356f"
+    },
+    {
+      "name": "78bfd0b5e6f33c21266a6b85146fdf265904c8",
+      "basename": "78bfd0b5e6f33c21266a6b85146fdf265904c8",
+      "relativePath": ".git/objects/6a/78bfd0b5e6f33c21266a6b85146fdf265904c8"
+    },
+    {
+      "name": "1fcfde1ae60a54a587ab76d579cd20f7e9fda0",
+      "basename": "1fcfde1ae60a54a587ab76d579cd20f7e9fda0",
+      "relativePath": ".git/objects/58/1fcfde1ae60a54a587ab76d579cd20f7e9fda0"
+    },
+    {
+      "name": "bb0cea01ec39f40018865dfa7086d9e4ae3e42",
+      "basename": "bb0cea01ec39f40018865dfa7086d9e4ae3e42",
+      "relativePath": ".git/objects/7c/bb0cea01ec39f40018865dfa7086d9e4ae3e42"
+    },
+    {
+      "name": "c831f0b085c70509b1fbb0a0131a9a32e691ac",
+      "basename": "c831f0b085c70509b1fbb0a0131a9a32e691ac",
+      "relativePath": ".git/objects/83/c831f0b085c70509b1fbb0a0131a9a32e691ac"
+    },
+    {
+      "name": "a0fee682c582484641ce15a9b6e7589aae2a4f",
+      "basename": "a0fee682c582484641ce15a9b6e7589aae2a4f",
+      "relativePath": ".git/objects/58/a0fee682c582484641ce15a9b6e7589aae2a4f"
+    },
+    {
+      "name": "930979cb22edae65dd09bd41d719dab2c55ee1",
+      "basename": "930979cb22edae65dd09bd41d719dab2c55ee1",
+      "relativePath": ".git/objects/98/930979cb22edae65dd09bd41d719dab2c55ee1"
+    },
+    {
+      "name": "05bfdc224d3e5dfe9fe6116a4fd2955ab10a72",
+      "basename": "05bfdc224d3e5dfe9fe6116a4fd2955ab10a72",
+      "relativePath": ".git/objects/94/05bfdc224d3e5dfe9fe6116a4fd2955ab10a72"
+    },
+    {
+      "name": "77d42963e26820d85a75d5ddce174cb57bf376",
+      "basename": "77d42963e26820d85a75d5ddce174cb57bf376",
+      "relativePath": ".git/objects/ac/77d42963e26820d85a75d5ddce174cb57bf376"
+    },
+    {
+      "name": "b1cc2480134251dcd873648a643e5bef484e11",
+      "basename": "b1cc2480134251dcd873648a643e5bef484e11",
+      "relativePath": ".git/objects/b7/b1cc2480134251dcd873648a643e5bef484e11"
+    },
+    {
+      "name": "a64857ed54ccfb9ef776fb8678e09fd3aa996d",
+      "basename": "a64857ed54ccfb9ef776fb8678e09fd3aa996d",
+      "relativePath": ".git/objects/a1/a64857ed54ccfb9ef776fb8678e09fd3aa996d"
+    },
+    {
+      "name": "c4fcfa7b90dac08827109c5ac11c0f8ff76503",
+      "basename": "c4fcfa7b90dac08827109c5ac11c0f8ff76503",
+      "relativePath": ".git/objects/b7/c4fcfa7b90dac08827109c5ac11c0f8ff76503"
+    },
+    {
+      "name": "c7528ea3a6f5d0681371073a22a5ff39ed05a2",
+      "basename": "c7528ea3a6f5d0681371073a22a5ff39ed05a2",
+      "relativePath": ".git/objects/b7/c7528ea3a6f5d0681371073a22a5ff39ed05a2"
+    },
+    {
+      "name": "371c18d9c75e27ef2b4560be4561a908b9b816",
+      "basename": "371c18d9c75e27ef2b4560be4561a908b9b816",
+      "relativePath": ".git/objects/a4/371c18d9c75e27ef2b4560be4561a908b9b816"
+    },
+    {
+      "name": "c365d89b8b1bad158cba37051fc32cbc784c65",
+      "basename": "c365d89b8b1bad158cba37051fc32cbc784c65",
+      "relativePath": ".git/objects/c8/c365d89b8b1bad158cba37051fc32cbc784c65"
+    },
+    {
+      "name": "26dfeeb6e641a33dae4961196235bdb965b21b",
+      "basename": "26dfeeb6e641a33dae4961196235bdb965b21b",
+      "relativePath": ".git/objects/9e/26dfeeb6e641a33dae4961196235bdb965b21b"
+    },
+    {
+      "name": "64c3a4a1f50e2ba14bfefe84248af63a79711e",
+      "basename": "64c3a4a1f50e2ba14bfefe84248af63a79711e",
+      "relativePath": ".git/objects/be/64c3a4a1f50e2ba14bfefe84248af63a79711e"
+    },
+    {
+      "name": "21fbf784d3ceefcc53d7b3bdb73f7738dd7d0e",
+      "basename": "21fbf784d3ceefcc53d7b3bdb73f7738dd7d0e",
+      "relativePath": ".git/objects/bb/21fbf784d3ceefcc53d7b3bdb73f7738dd7d0e"
+    },
+    {
+      "name": "b54789d6a362dd0c14842bf2a2fc3420b0adbb",
+      "basename": "b54789d6a362dd0c14842bf2a2fc3420b0adbb",
+      "relativePath": ".git/objects/d7/b54789d6a362dd0c14842bf2a2fc3420b0adbb"
+    },
+    {
+      "name": "1a18dc273108270255e8199871dcb9ca35db88",
+      "basename": "1a18dc273108270255e8199871dcb9ca35db88",
+      "relativePath": ".git/objects/e2/1a18dc273108270255e8199871dcb9ca35db88"
+    },
+    {
+      "name": "777437fe4bc6d15c366ea549e9c1ea1a091e9c",
+      "basename": "777437fe4bc6d15c366ea549e9c1ea1a091e9c",
+      "relativePath": ".git/objects/cf/777437fe4bc6d15c366ea549e9c1ea1a091e9c"
+    },
+    {
+      "name": "ec105e4e066a9138baf26e49a29d09a1a2b230",
+      "basename": "ec105e4e066a9138baf26e49a29d09a1a2b230",
+      "relativePath": ".git/objects/ad/ec105e4e066a9138baf26e49a29d09a1a2b230"
+    },
+    {
+      "name": "2f4493427e9f2984bd52ed35b6b68b8a79affe",
+      "basename": "2f4493427e9f2984bd52ed35b6b68b8a79affe",
+      "relativePath": ".git/objects/d3/2f4493427e9f2984bd52ed35b6b68b8a79affe"
+    },
+    {
+      "name": "545334fa9fea8c9395a04c805444a242380a46",
+      "basename": "545334fa9fea8c9395a04c805444a242380a46",
+      "relativePath": ".git/objects/f3/545334fa9fea8c9395a04c805444a242380a46"
+    },
+    {
+      "name": "b7e26f53d66242fb0762ad83b4da0a3a3d097e",
+      "basename": "b7e26f53d66242fb0762ad83b4da0a3a3d097e",
+      "relativePath": ".git/objects/96/b7e26f53d66242fb0762ad83b4da0a3a3d097e"
+    },
+    {
+      "name": "90ca233926314939c05d744ff1f7acd81ca1e1",
+      "basename": "90ca233926314939c05d744ff1f7acd81ca1e1",
+      "relativePath": ".git/objects/bf/90ca233926314939c05d744ff1f7acd81ca1e1"
+    },
+    {
+      "name": "0a3ca6d7e6a2c88bd4c24fd1466782359ad381",
+      "basename": "0a3ca6d7e6a2c88bd4c24fd1466782359ad381",
+      "relativePath": ".git/objects/f2/0a3ca6d7e6a2c88bd4c24fd1466782359ad381"
+    },
+    {
+      "name": "d064962741146ea37b783bd02673a94afa9ba4",
+      "basename": "d064962741146ea37b783bd02673a94afa9ba4",
+      "relativePath": ".git/objects/df/d064962741146ea37b783bd02673a94afa9ba4"
+    },
+    {
+      "name": "761f273cb6608a69ed3b896a2f250e628fa988",
+      "basename": "761f273cb6608a69ed3b896a2f250e628fa988",
+      "relativePath": ".git/objects/da/761f273cb6608a69ed3b896a2f250e628fa988"
+    },
+    {
+      "name": "52db9305fc41c59db53641180d6e595e5ccd0c",
+      "basename": "52db9305fc41c59db53641180d6e595e5ccd0c",
+      "relativePath": ".git/objects/eb/52db9305fc41c59db53641180d6e595e5ccd0c"
+    },
+    {
+      "name": "21dac809882fff3c3501b293ee1fec59d0a34c",
+      "basename": "21dac809882fff3c3501b293ee1fec59d0a34c",
+      "relativePath": ".git/objects/fb/21dac809882fff3c3501b293ee1fec59d0a34c"
+    },
+    {
+      "name": "pack-89bb6a4da335d841c1a262bd72412ed6a966e86a.idx",
+      "basename": "pack-89bb6a4da335d841c1a262bd72412ed6a966e86a",
+      "relativePath": ".git/objects/pack/pack-89bb6a4da335d841c1a262bd72412ed6a966e86a.idx"
+    },
+    {
+      "name": "fb93a1a6ff6612b830a70e4b713bf0fa896412",
+      "basename": "fb93a1a6ff6612b830a70e4b713bf0fa896412",
+      "relativePath": ".git/objects/fa/fb93a1a6ff6612b830a70e4b713bf0fa896412"
+    },
+    {
+      "name": "pack-89bb6a4da335d841c1a262bd72412ed6a966e86a.pack",
+      "basename": "pack-89bb6a4da335d841c1a262bd72412ed6a966e86a",
+      "relativePath": ".git/objects/pack/pack-89bb6a4da335d841c1a262bd72412ed6a966e86a.pack"
+    },
+    {
+      "name": "pack-89bb6a4da335d841c1a262bd72412ed6a966e86a.rev",
+      "basename": "pack-89bb6a4da335d841c1a262bd72412ed6a966e86a",
+      "relativePath": ".git/objects/pack/pack-89bb6a4da335d841c1a262bd72412ed6a966e86a.rev"
+    },
+    {
+      "name": "a3cfc9817d6d6b3d4e933fc6265c5675c9cb3a",
+      "basename": "a3cfc9817d6d6b3d4e933fc6265c5675c9cb3a",
+      "relativePath": ".git/objects/66/a3cfc9817d6d6b3d4e933fc6265c5675c9cb3a"
+    },
+    {
+      "name": "967b6965a7d5578023a42350b77ee9c6620441",
+      "basename": "967b6965a7d5578023a42350b77ee9c6620441",
+      "relativePath": ".git/objects/cc/967b6965a7d5578023a42350b77ee9c6620441"
+    },
+    {
+      "name": "22390ac9bd01e6830b37f04a94ffd12e579a4a",
+      "basename": "22390ac9bd01e6830b37f04a94ffd12e579a4a",
+      "relativePath": ".git/objects/10/22390ac9bd01e6830b37f04a94ffd12e579a4a"
+    },
+    {
+      "name": "main",
+      "basename": "main",
+      "relativePath": ".git/logs/refs/heads/main"
+    },
+    {
+      "name": "4313b0e6656f5ceaf34d093e2a29505fc51ea9",
+      "basename": "4313b0e6656f5ceaf34d093e2a29505fc51ea9",
+      "relativePath": ".private/.git/objects/69/4313b0e6656f5ceaf34d093e2a29505fc51ea9"
+    },
+    {
+      "name": "b9a57be42703adae716f48cddfcaab5296c9aa",
+      "basename": "b9a57be42703adae716f48cddfcaab5296c9aa",
+      "relativePath": ".private/.git/objects/1a/b9a57be42703adae716f48cddfcaab5296c9aa"
+    },
+    {
+      "name": "6d29217bc9a595ec0b8c4d5414a3d9459375d6",
+      "basename": "6d29217bc9a595ec0b8c4d5414a3d9459375d6",
+      "relativePath": ".private/.git/objects/9f/6d29217bc9a595ec0b8c4d5414a3d9459375d6"
+    },
+    {
+      "name": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.pack",
+      "basename": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055",
+      "relativePath": ".private/.git/objects/pack/pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.pack"
+    },
+    {
+      "name": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.rev",
+      "basename": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055",
+      "relativePath": ".private/.git/objects/pack/pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.rev"
+    },
+    {
+      "name": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.idx",
+      "basename": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055",
+      "relativePath": ".private/.git/objects/pack/pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.idx"
+    },
+    {
+      "name": "main",
+      "basename": "main",
+      "relativePath": ".private/.git/refs/heads/main"
+    },
+    {
+      "name": "main",
+      "basename": "main",
+      "relativePath": ".git/refs/remotes/origin/main"
+    },
+    {
+      "name": "HEAD",
+      "basename": "HEAD",
+      "relativePath": ".git/refs/remotes/origin/HEAD"
+    },
+    {
+      "name": "HEAD",
+      "basename": "HEAD",
+      "relativePath": ".git/logs/refs/remotes/origin/HEAD"
+    },
+    {
+      "name": "main",
+      "basename": "main",
+      "relativePath": ".git/logs/refs/remotes/origin/main"
+    },
+    {
+      "name": "HEAD",
+      "basename": "HEAD",
+      "relativePath": ".private/.git/refs/remotes/origin/HEAD"
+    },
+    {
+      "name": "main",
+      "basename": "main",
+      "relativePath": ".private/.git/logs/refs/heads/main"
+    },
+    {
+      "name": "main",
+      "basename": "main",
+      "relativePath": ".private/.git/refs/remotes/origin/main"
+    },
+    {
+      "name": "main",
+      "basename": "main",
+      "relativePath": ".private/.git/logs/refs/remotes/origin/main"
+    },
+    {
+      "name": "HEAD",
+      "basename": "HEAD",
+      "relativePath": ".private/.git/logs/refs/remotes/origin/HEAD"
     }
   ]
 }

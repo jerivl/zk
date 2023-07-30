@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": ".private/priv-test.md",
+                "file": "markdown-sample.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": ".private/priv-test.md",
+                "file": "markdown-sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": ".private/priv-test.md",
+                "file": "markdown-sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": ".private/priv-test.md"
+                "file": "markdown-sample.md"
               }
             }
           }
@@ -148,20 +148,21 @@
   },
   "active": "7b77cc1c7cd3c5bd",
   "lastOpenFiles": [
-    "test.md",
+    ".git/objects/32",
+    ".git/objects/32/8ef1c17fb053e9dd86ac72962a56e1538a78bc",
+    ".obsidian/plugins/obsidian-git/styles.css",
+    ".obsidian/plugins/obsidian-git/main.js",
+    ".obsidian/plugins/obsidian-git/manifest.json",
+    ".obsidian/plugins/obsidian-git",
     ".private/priv-test.md",
-    ".private/README.md",
-    ".obsidian/graph.json",
+    ".obsidian/plugins/obsidian-minimal-settings/data.json",
+    ".obsidian/plugins/obsidian-minimal-settings/styles.css",
+    ".obsidian/plugins/obsidian-minimal-settings/main.js",
+    ".obsidian/plugins/obsidian-minimal-settings/manifest.json",
+    ".obsidian/plugins/obsidian-minimal-settings",
     "test2.md",
-    ".private/.git/logs/refs/remotes/origin/main",
-    ".private/.git/logs/refs/remotes/origin/HEAD",
-    ".private/.git/refs/remotes/origin/main",
-    ".private/.git/logs/refs/remotes/origin",
-    ".private/.git/refs/remotes/origin/HEAD",
-    ".private/.git/logs/refs/heads/main",
-    ".git/logs/refs/remotes/origin/main",
-    ".git/logs/refs/remotes/origin/HEAD",
-    ".private/.git/refs/heads/main",
+    "test.md",
+    ".private/README.md",
     "markdown-sample3.md",
     "private/priv-test.md",
     "priv/README.md",
