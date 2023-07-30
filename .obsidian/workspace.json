@@ -18,8 +18,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c35a0d8405ddfce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test4.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test4.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test4.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,19 +160,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cbd81d064643cf6",
+  "active": "c35a0d8405ddfce1",
   "lastOpenFiles": [
-    ".git/objects/85",
-    ".git/objects/85/354ba034a19dcc7377375e686a8e39c6cdff94",
-    ".git/objects/64/e8e62af764b456c3e4366d37966faf0cbd748d",
-    ".git/objects/64",
-    ".git/objects/c9",
-    ".git/objects/c9/4e37366eb89789539abf442a5523712b57a9d5",
-    ".git/objects/ac/f4039b2076f9e4620792dce0eb11c2c4e3d0dc",
-    ".git/objects/b9",
-    ".git/objects/b9/4a15251f7462bc7987ea18103ff88c518a116e",
-    ".git/objects/c1",
-    ".git/objects/c1/80e8462137e0d3f2026bdeae9d010676b768f7",
+    ".git/objects/dd",
+    ".git/objects/dd/9e4bd88c5146793b608978532246e48bab2aa4",
+    "test4.md",
+    "README.md",
+    "blog",
+    ".git/objects/06/4b31ec74dd36f44d92c82545f993fd4b2d9946",
+    ".git/objects/cf/0919eac816865d1ce5d6763722001624b5f82d",
+    ".git/objects/0a/d566508da5cf9e99ded05f336c10574720a7b4",
+    ".git/objects/5f",
+    ".git/objects/5f/ee31d8344b968580655b04e87cd0143e4b8c6d",
+    ".git/objects/e2/0348a6f20d69d8141aba57c132c3f2b9caca95",
+    ".git/objects/36/bd889ab1f3c300ec4d641dda837e4f814699be",
+    ".git/objects/92",
     "test3.md",
     "test2.md",
     "markdown-sample3.md",
