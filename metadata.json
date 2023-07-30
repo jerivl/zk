@@ -1,21 +1,21 @@
 [
   {
     "fileName": "test3",
-    "relativePath": "zk/test3.md"
+    "relativePath": "test3.md"
   },
   {
     "fileName": "test2",
-    "relativePath": "zk/test2.md",
+    "relativePath": "test2.md",
     "links": [
       {
         "link": "test",
-        "relativePath": "zk/test.md"
+        "relativePath": "test.md"
       }
     ]
   },
   {
     "fileName": "test",
-    "relativePath": "zk/test.md",
+    "relativePath": "test.md",
     "headings": [
       {
         "heading": "test",
@@ -26,13 +26,13 @@
       {
         "fileName": "test2",
         "link": "test",
-        "relativePath": "zk/test2.md"
+        "relativePath": "test2.md"
       }
     ]
   },
   {
     "fileName": "markdown-sample3",
-    "relativePath": "zk/markdown-sample3.md",
+    "relativePath": "markdown-sample3.md",
     "tags": [
       "tag1",
       "tag2",
@@ -55,7 +55,7 @@
   },
   {
     "fileName": "markdown-sample",
-    "relativePath": "zk/markdown-sample.md",
+    "relativePath": "markdown-sample.md",
     "headings": [
       {
         "heading": "LaTeX",
@@ -92,29 +92,9 @@
       },
       {
         "link": "#Paragraphs",
-        "relativePath": "zk/markdown-sample.md",
+        "relativePath": "markdown-sample.md",
         "cleanLink": "markdown-sample",
         "displayText": "Paragraphs"
-      }
-    ]
-  },
-  {
-    "fileName": "README",
-    "relativePath": "README.md",
-    "headings": [
-      {
-        "heading": "vault",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "README",
-    "relativePath": "priv/README.md",
-    "headings": [
-      {
-        "heading": "zk-private",
-        "level": 1
       }
     ]
   }
