@@ -15,6 +15,7 @@
               "state": {
                 "file": "test4.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -160,21 +161,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c35a0d8405ddfce1",
+  "active": "1cbd81d064643cf6",
   "lastOpenFiles": [
-    ".git/objects/0a/b7336a0f9a0e92df506b4ffbf1062c8deb8446",
+    ".git/objects/36/a6f863896c7117735683d60707dbb99ed4ec9f",
+    ".git/objects/f0/3e9a4f26eaaef6ee9487e877d2297f8ec59896",
+    ".git/objects/5c/d4c2728223be8588a270e0f16efb88127fd6b1",
+    ".git/objects/9e/f7110a6ad866d25d12ffd5662d1e46e8d5e725",
     ".git/index.lock",
-    ".git/objects/ce",
-    ".git/objects/ce/8c8395b1a9a424f8e557edc9d9b65db2cefc67",
-    ".git/objects/39/a3d3e1e671dff0e872599454bbf0a7fc3cf808",
-    ".git/objects/d7/b08063862e4d3cabbe0ad9d4cc22cfabe5c6ee",
-    ".git/objects/53/47079b2b30edb871945a80ffd8079eb34488fb",
-    ".git/objects/dd",
-    ".git/objects/dd/9e4bd88c5146793b608978532246e48bab2aa4",
+    ".git/objects/19",
+    ".git/objects/19/85ae44d96d24b3698ffc065b45a27794a20168",
+    ".git/objects/61",
+    ".git/objects/61/7e1b5dfd61b9ad0b281d09c3b7a8c4e6e56a41",
+    ".git/objects/b8",
+    ".git/objects/b8/e658656c4b3a109649cbf225db025164c76749",
     "test4.md",
     "README.md",
-    "blog",
-    ".git/objects/06/4b31ec74dd36f44d92c82545f993fd4b2d9946",
     "test3.md",
     "test2.md",
     "markdown-sample3.md",

@@ -49,10 +49,6 @@
     ]
   },
   {
-    "fileName": "test3",
-    "relativePath": "test3.md"
-  },
-  {
     "fileName": "test2",
     "relativePath": "test2.md",
     "links": [
@@ -61,6 +57,10 @@
         "relativePath": "test.md"
       }
     ]
+  },
+  {
+    "fileName": "test3",
+    "relativePath": "test3.md"
   },
   {
     "fileName": "test",
@@ -149,6 +149,44 @@
         "relativePath": "markdown-sample.md",
         "cleanLink": "markdown-sample",
         "displayText": "Paragraphs"
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "README.md",
+    "headings": [
+      {
+        "heading": "Jeri's Notes ([notes.jerivl.com](http://notes.jerivl.com))",
+        "level": 1
+      },
+      {
+        "heading": "How to use this site",
+        "level": 1
+      },
+      {
+        "heading": "Folder descriptions",
+        "level": 1
+      },
+      {
+        "heading": "`/blog`",
+        "level": 2
+      },
+      {
+        "heading": "`/literature`",
+        "level": 2
+      },
+      {
+        "heading": "`/atomic`",
+        "level": 2
+      },
+      {
+        "heading": "Recently added",
+        "level": 1
+      },
+      {
+        "heading": "Issues",
+        "level": 1
       }
     ]
   }
