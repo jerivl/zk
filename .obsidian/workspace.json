@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4dc1340cf4df7446",
+        "id": "c9d9df0e5cd79f38",
         "type": "tabs",
         "children": [
           {
-            "id": "7b77cc1c7cd3c5bd",
+            "id": "1aedbe5ca4a0e269",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test4.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c35a0d8405ddfce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,21 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cbd81d064643cf6",
+  "active": "1aedbe5ca4a0e269",
   "lastOpenFiles": [
-    ".git/objects/36/a6f863896c7117735683d60707dbb99ed4ec9f",
-    ".git/objects/f0/3e9a4f26eaaef6ee9487e877d2297f8ec59896",
-    ".git/objects/5c/d4c2728223be8588a270e0f16efb88127fd6b1",
-    ".git/objects/9e/f7110a6ad866d25d12ffd5662d1e46e8d5e725",
-    ".git/index.lock",
-    ".git/objects/19",
-    ".git/objects/19/85ae44d96d24b3698ffc065b45a27794a20168",
-    ".git/objects/61",
-    ".git/objects/61/7e1b5dfd61b9ad0b281d09c3b7a8c4e6e56a41",
-    ".git/objects/b8",
-    ".git/objects/b8/e658656c4b3a109649cbf225db025164c76749",
     "test4.md",
     "README.md",
+    ".obsidian/themes/Atom/manifest.json",
+    ".obsidian/themes/Atom/theme.css",
+    ".obsidian/themes/Atom",
+    ".git/objects/56",
+    ".git/objects/56/5675a815112570b5beae0510be56d0e6ae5862",
+    ".git/objects/0a/ecc01d4c6691cb94480a0cca956e09acf3c43c",
+    ".git/objects/3a",
+    ".git/objects/3a/5b84fcff34c1e8d9dac8a8bcd317d4bb22c627",
+    ".git/objects/70/bd5c9d2722bc5c42057b5cb34188f718bbe3e7",
+    ".git/objects/e7",
     "test3.md",
     "test2.md",
     "markdown-sample3.md",
