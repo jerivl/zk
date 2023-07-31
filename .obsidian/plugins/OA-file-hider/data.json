@@ -1,0 +1,12 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "LICENSE",
+    "metadata.json",
+    ".gitmodules",
+    ".obsidian",
+    ".github",
+    ".git",
+    ".private/.git"
+  ]
+}

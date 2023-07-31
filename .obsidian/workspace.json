@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "blog/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "blog/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "blog/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "blog/README.md"
               }
             }
           }
@@ -149,22 +149,26 @@
   },
   "active": "1aedbe5ca4a0e269",
   "lastOpenFiles": [
-    ".private/priv-test.md",
+    ".git/objects/5a",
+    ".git/objects/5a/4dfb7f55e404053a45eddfa8e0969946b962b3",
+    ".git/objects/d7/33e240811f59fa85e2a1d468feefd4d137f291",
+    ".git/objects/93",
+    ".git/objects/93/2a8ebfc8d8d30c396a4a41e69b15dc467b4dc8",
+    ".git/objects/a8",
+    ".git/objects/a8/b6b599394079c1d18bc6ec418d034403036e50",
+    ".git/index.lock",
+    "atomic/README.md",
     ".private/README.md",
+    "literature/README.md",
+    ".private/priv-test.md",
+    ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    ".git/objects/e6",
+    "blog/README.md",
     "README.md",
-    ".obsidian/plugins/OA-file-hider/data.json",
-    ".obsidian/plugins/OA-file-hider/main.js",
-    ".obsidian/plugins/OA-file-hider/manifest.json",
-    ".obsidian/plugins/OA-file-hider",
+    ".git/objects/8e",
     "test.md",
     "markdown-sample.md",
     "markdown-sample3.md",
-    ".git/objects/60",
-    ".git/objects/60/2bb57453d3777b9dbebb7836d204b4edb21389",
-    ".git/objects/c4",
-    ".git/objects/c4/652ea70721e736f3c1d766dc8d8c27995c2eb0",
-    ".git/objects/1a",
-    ".git/objects/1a/60a7cbf041eeaba61b824333035d02d47721ab",
     "test4.md",
     "test3.md",
     "test2.md",
