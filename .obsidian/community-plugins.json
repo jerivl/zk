@@ -2,5 +2,7 @@
   "metadata-extractor",
   "show-hidden-files",
   "obsidian-minimal-settings",
-  "OA-file-hider"
+  "OA-file-hider",
+  "obsidian-git",
+  "obsidian-linter"
 ]

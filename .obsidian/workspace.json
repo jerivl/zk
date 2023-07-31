@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "atomic/Bochner's Theorem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "atomic/Bochner's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "atomic/Bochner's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "atomic/Bochner's Theorem.md"
               }
             }
           }
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,32 +148,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbaf46fd12f7ae83",
+  "active": "1aedbe5ca4a0e269",
   "lastOpenFiles": [
-    ".private/README.md",
     "atomic/README.md",
-    "blog/README.md",
-    "literature/README.md",
-    "README.md",
-    ".git/objects/51",
-    ".git/objects/51/43762295ce9a1e2547dce888b0e4fef1a6488c",
-    ".git/objects/53/88ee001509a81b492c4f2add872f847dbfa7de",
-    ".git/objects/f9/3e3a1a1525fb5b91020da86e44810c87a2d7bc",
-    ".git/objects/f9",
-    ".git/objects/04/78459018b7e474c14986da2031e0a7dcc4a890",
-    ".git/objects/72",
-    ".git/objects/72/a50c0094975803de90959fbac8b94ee5c9d8dc",
-    ".git/objects/8c",
-    ".git/objects/8c/e3078a67a2091cdf0addad479adc686b4b928f",
-    ".private/priv-test.md",
-    "test.md",
-    "markdown-sample.md",
-    "markdown-sample3.md",
-    "test4.md",
-    "test3.md",
-    "test2.md",
-    "private/priv-test.md",
-    "priv/README.md",
-    "priv/priv-test.md"
+    "atomic/Bochner's Theorem.md",
+    ".obsidian/plugins/note-refactor-obsidian/styles.css",
+    ".obsidian/plugins/note-refactor-obsidian/main.js",
+    ".obsidian/plugins/note-refactor-obsidian/manifest.json",
+    ".obsidian/plugins/note-refactor-obsidian",
+    ".obsidian/plugins/obsidian-linter/data.json",
+    ".obsidian/plugins/obsidian-linter/styles.css",
+    ".obsidian/plugins/obsidian-linter/main.js",
+    ".obsidian/plugins/obsidian-linter/manifest.json",
+    ".obsidian/plugins/obsidian-linter",
+    ".obsidian/plugins/obsidian-git/data.json",
+    ".private/daily/20230218120423.md",
+    ".private/daily/20230120020123.md",
+    ".private/daily/20221217104400.md",
+    ".private/daily/20221201170000.md",
+    ".private/daily/20221106201400.md",
+    ".private/daily/20221029131600.md",
+    ".private/daily/20220916121600.md",
+    ".private/daily/20220801150223.md",
+    ".private/daily/20220716180700.md",
+    ".private/daily/20220716180600.md",
+    ".private/daily/20220711124600.md",
+    ".private/daily/20220523161100.md",
+    ".private/daily/20220517144900.md",
+    ".private/daily/20220511205000.md",
+    ".private/daily/20220511202300.md",
+    ".private/daily/20220511153600.md",
+    ".private/daily/20220509100000.md",
+    ".private/daily/20220304090937.md",
+    ".private/daily/20220303171500.md",
+    ".private/daily/20220229120000.md",
+    ".private/daily/20211216120000.md",
+    ".private/daily/20211016120000.md",
+    ".private/daily/20211116120000.md",
+    ".private/daily/20210916120000.md"
   ]
 }

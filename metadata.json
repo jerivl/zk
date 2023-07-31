@@ -1,5 +1,4159 @@
 [
   {
+    "fileName": "tutorial infiniband",
+    "relativePath": ".private/daily/tutorial infiniband.md"
+  },
+  {
+    "fileName": "using NVIDIA Pytorch docker",
+    "relativePath": ".private/daily/using NVIDIA Pytorch docker.md",
+    "headings": [
+      {
+        "heading": "Develop like a Pro with NVIDIA + Docker + VS Code + PyTorch",
+        "level": 1
+      },
+      {
+        "heading": "Installing Docker for Machine Learning",
+        "level": 3
+      },
+      {
+        "heading": "Installing Nvidia Drivers for Machine Learning",
+        "level": 3
+      },
+      {
+        "heading": "Install Nvidia Docker for GPU-Accelerated Containers",
+        "level": 3
+      },
+      {
+        "heading": "Run GPU Accelerated Containers with PyTorch",
+        "level": 3
+      },
+      {
+        "heading": "Running Code",
+        "level": 3
+      },
+      {
+        "heading": "Develop with VS Code Within the Container",
+        "level": 3
+      },
+      {
+        "heading": "Deployment with Your Machine Learning Environment",
+        "level": 3
+      },
+      {
+        "heading": "Conclusion",
+        "level": 3
+      },
+      {
+        "heading": "Francesco",
+        "level": 3
+      },
+      {
+        "heading": "WE DELIVER",
+        "level": 4
+      },
+      {
+        "heading": "TABLE OF CONTENTS",
+        "level": 6
+      },
+      {
+        "heading": "RECOMMENDED READS",
+        "level": 4
+      },
+      {
+        "heading": "How to Train YOLOv5-Classification on a Custom Dataset",
+        "level": 6
+      },
+      {
+        "heading": "Building Custom Computer Vision Models with NVIDIA TAO Toolkit and Roboflow",
+        "level": 6
+      },
+      {
+        "heading": "YOLOv7 Breakdown",
+        "level": 6
+      },
+      {
+        "heading": "MORE ABOUT",
+        "level": 4
+      },
+      {
+        "heading": "EDUCATION",
+        "level": 4
+      },
+      {
+        "heading": "How to Train YOLOv5-Classification on a Custom Dataset",
+        "level": 5
+      },
+      {
+        "heading": "Building Custom Computer Vision Models with NVIDIA TAO Toolkit and Roboflow",
+        "level": 5
+      },
+      {
+        "heading": "YOLOv7 Breakdown",
+        "level": 5
+      },
+      {
+        "heading": "Using Polygon Annotations for Object Detection in Computer Vision",
+        "level": 5
+      },
+      {
+        "heading": "What is TensorFlow Lite?",
+        "level": 5
+      },
+      {
+        "heading": "Launch: Polygon Annotation and Labeling",
+        "level": 5
+      },
+      {
+        "heading": "For sales inquiries:",
+        "level": 4
+      },
+      {
+        "heading": "PRODUCT",
+        "level": 4
+      },
+      {
+        "heading": "PLANS",
+        "level": 4
+      },
+      {
+        "heading": "DEVELOPERS",
+        "level": 4
+      },
+      {
+        "heading": "RESOURCES",
+        "level": 4
+      },
+      {
+        "heading": "INDUSTRIES",
+        "level": 4
+      },
+      {
+        "heading": "IMAGERY",
+        "level": 4
+      },
+      {
+        "heading": "COMPANY",
+        "level": 2
+      },
+      {
+        "heading": "Search",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "termux-dev-env",
+    "relativePath": ".private/daily/termux-dev-env.md",
+    "headings": [
+      {
+        "heading": "ssh -p 8022 u0_a196@192.168.0.116",
+        "level": 1
+      },
+      {
+        "heading": "This file is executed during VNC server",
+        "level": 2
+      },
+      {
+        "heading": "startup.# Launch terminal emulator Aterm.",
+        "level": 2
+      },
+      {
+        "heading": "Requires package 'aterm'.aterm -geometry 80x24+10+10 -ls &# Launch Tab Window Manager.",
+        "level": 1
+      },
+      {
+        "heading": "Requires package 'xorg-twm'.",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "ssh cheatsheet",
+    "relativePath": ".private/daily/ssh cheatsheet.md",
+    "headings": [
+      {
+        "heading": "Common issues",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "raspberry pi zero w",
+    "relativePath": ".private/daily/raspberry pi zero w.md",
+    "links": [
+      {
+        "link": "Pi-KVM on a Raspberry Pi Zero W - EOL",
+        "relativePath": ".private/daily/Pi-KVM on a Raspberry Pi Zero W - EOL.md"
+      }
+    ]
+  },
+  {
+    "fileName": "slow DNS lookup",
+    "relativePath": ".private/daily/slow DNS lookup.md"
+  },
+  {
+    "fileName": "rack mount",
+    "relativePath": ".private/daily/rack mount.md"
+  },
+  {
+    "fileName": "merge folders",
+    "relativePath": ".private/daily/merge folders.md",
+    "tags": [
+      "todo"
+    ],
+    "links": [
+      {
+        "link": "NAS filesystem"
+      }
+    ]
+  },
+  {
+    "fileName": "proxmox zfs",
+    "relativePath": ".private/daily/proxmox zfs.md"
+  },
+  {
+    "fileName": "infiniband backbone",
+    "relativePath": ".private/daily/infiniband backbone.md"
+  },
+  {
+    "fileName": "proxmox disk passthrough",
+    "relativePath": ".private/daily/proxmox disk passthrough.md",
+    "backlinks": [
+      {
+        "fileName": "moving zfs pools",
+        "link": "proxmox disk passthrough",
+        "relativePath": ".private/daily/moving zfs pools.md"
+      }
+    ]
+  },
+  {
+    "fileName": "project management",
+    "relativePath": ".private/daily/project management.md",
+    "headings": [
+      {
+        "heading": "Productivity apps",
+        "level": 1
+      },
+      {
+        "heading": "Project management apps",
+        "level": 1
+      },
+      {
+        "heading": "Current stack",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "point to point infiniband",
+    "relativePath": ".private/daily/point to point infiniband.md",
+    "headings": [
+      {
+        "heading": "1 Answer",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Should you use HDF5?",
+    "relativePath": ".private/daily/Should you use HDF5?.md",
+    "backlinks": [
+      {
+        "fileName": "Data storage and loading ML",
+        "link": "Should you use HDF5?",
+        "relativePath": ".private/daily/Data storage and loading ML.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Self-Hosted RSS Feed",
+    "relativePath": ".private/daily/Self-Hosted RSS Feed.md",
+    "headings": [
+      {
+        "heading": "How to fix it with RSS",
+        "level": 2
+      },
+      {
+        "heading": "Feed Aggregation",
+        "level": 3
+      },
+      {
+        "heading": "Feed Reader",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "openconnect",
+    "relativePath": ".private/daily/openconnect.md",
+    "headings": [
+      {
+        "heading": "Use OpenConnect as a replacement for Cisco AnyConnect VPN client in Mac",
+        "level": 1
+      },
+      {
+        "heading": "Updated guide (2020)",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "ngrok multiple ports on same agent",
+    "relativePath": ".private/daily/ngrok multiple ports on same agent.md",
+    "headings": [
+      {
+        "heading": "WORKING - 202",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "moving zfs pools",
+    "relativePath": ".private/daily/moving zfs pools.md",
+    "links": [
+      {
+        "link": "proxmox disk passthrough",
+        "relativePath": ".private/daily/proxmox disk passthrough.md"
+      }
+    ]
+  },
+  {
+    "fileName": "early learning regularization",
+    "relativePath": ".private/daily/early learning regularization.md",
+    "tags": [
+      "deeplearning",
+      "machinelearning",
+      "learningtheory",
+      "regularization",
+      "noisydata",
+      "talk",
+      "todo"
+    ],
+    "frontmatter": {
+      "people": [
+        "Sheng Liu",
+        "Jonathan Niles-Weed",
+        "Carlos Fernandez-Granda"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 153
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Early Learning Regularization",
+        "level": 1
+      },
+      {
+        "heading": "Stages of Learnining with Label noise",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Liu_2020_Early-Learning"
+      },
+      {
+        "link": "Liu_2020_Early-Learning"
+      },
+      {
+        "link": "early learning regularization",
+        "relativePath": ".private/daily/early learning regularization.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "20220303171500",
+        "link": "early learning regularization",
+        "relativePath": ".private/daily/20220303171500.md"
+      }
+    ]
+  },
+  {
+    "fileName": "cron @reboot",
+    "relativePath": ".private/daily/cron @reboot.md"
+  },
+  {
+    "fileName": "distributed training pytorch k8 cluster",
+    "relativePath": ".private/daily/distributed training pytorch k8 cluster.md"
+  },
+  {
+    "fileName": "Trans and gender-nonconcomforming speech",
+    "relativePath": ".private/daily/Trans and gender-nonconcomforming speech.md",
+    "headings": [
+      {
+        "heading": "Data",
+        "level": 3
+      },
+      {
+        "heading": "want to compile list of pronouns and idenitities (also nationality?) also cite where they mention their affilliation w the lgbt community",
+        "level": 3
+      },
+      {
+        "heading": "Notify creators that they are part of the LGBT set. \"if you have any issues with this, please let me know\"",
+        "level": 3
+      },
+      {
+        "heading": "want to try to get racial and geolocation diversity",
+        "level": 3
+      },
+      {
+        "heading": "should we distribute list of segments, cite original video, link, metadata (duration/uploaded by {MAKE SURE THESE ARE THE OC}). distribute list and how segments are processed.",
+        "level": 3
+      },
+      {
+        "heading": "Check A. Cloninger and D. Neadall paper on reducing bias in data",
+        "level": 3
+      },
+      {
+        "heading": "run ASR and query for LGBT related words and terms to find citations for LGBt affiliation",
+        "level": 3
+      },
+      {
+        "heading": "Qs: audiovisual ASR? does gender info help? compare to historical models that separate speech into M/F and classify",
+        "level": 3
+      },
+      {
+        "heading": "Speaking from Experience: Trans/Non-Binary Requirements for Voice-Activated AI, RINCÓN et al.",
+        "level": 3
+      },
+      {
+        "heading": "Meet Q, the First Genderless AI Voice Assistant",
+        "level": 3
+      },
+      {
+        "heading": "Researchers find conventional voice AI overlooks trans and nonbinary users",
+        "level": 3
+      },
+      {
+        "heading": "List of Popular Trans Identities",
+        "level": 3
+      },
+      {
+        "heading": "there should be a best practices doc somewhere for soliciting gender information",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Summer programs",
+    "relativePath": ".private/daily/Summer programs.md",
+    "headings": [
+      {
+        "heading": "NSF REU - Research Experience for Undergrads",
+        "level": 3
+      },
+      {
+        "heading": "NSF DREU - Distributed Research Experiences for Undergraduates",
+        "level": 3
+      },
+      {
+        "heading": "NSF CREU - Collaborative Research Experiences for Undergraduates",
+        "level": 3
+      },
+      {
+        "heading": "UCSD CSE ERSP - Early Research Scholars Program",
+        "level": 3
+      },
+      {
+        "heading": "Google exploreCSR",
+        "level": 3
+      },
+      {
+        "heading": "High school",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Searching through git",
+    "relativePath": ".private/daily/Searching through git.md"
+  },
+  {
+    "fileName": "SciPy WAV generation",
+    "relativePath": ".private/daily/SciPy WAV generation.md"
+  },
+  {
+    "fileName": "REU - Computational Neuroscience",
+    "relativePath": ".private/daily/REU - Computational Neuroscience.md",
+    "headings": [
+      {
+        "heading": "Noise, adaptive methods: Direction Family 1: Improving Assembly Detection",
+        "level": 3
+      },
+      {
+        "heading": "Noise, adaptive methods: Direction Family 2: Probabilistic Extension of assembly detection",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": ".private/daily/README.md",
+    "headings": [
+      {
+        "heading": "Zettlecasten",
+        "level": 1
+      },
+      {
+        "heading": "jerivl.github.io",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Point Processes",
+    "relativePath": ".private/daily/Point Processes.md",
+    "headings": [
+      {
+        "heading": "Point Processes: Attention sparse signals?",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Pi-KVM on a Raspberry Pi Zero W - EOL",
+    "relativePath": ".private/daily/Pi-KVM on a Raspberry Pi Zero W - EOL.md",
+    "tags": [
+      "todo"
+    ],
+    "headings": [
+      {
+        "heading": "This article is offered without warranty and any support given is at my own discretion. Use at your own risk.",
+        "level": 4
+      },
+      {
+        "heading": "PiKVM installation / Networking setup",
+        "level": 2
+      },
+      {
+        "heading": "Zerotier installation",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "raspberry pi zero w",
+        "link": "Pi-KVM on a Raspberry Pi Zero W - EOL",
+        "relativePath": ".private/daily/raspberry pi zero w.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pedagogy",
+    "relativePath": ".private/daily/Pedagogy.md",
+    "headings": [
+      {
+        "heading": "Project management for academics",
+        "level": 3
+      },
+      {
+        "heading": "Applying to grad school",
+        "level": 3
+      },
+      {
+        "heading": "Tips for research",
+        "level": 3
+      },
+      {
+        "heading": "Yong_2014_Critique-H-Index",
+        "level": 3
+      },
+      {
+        "heading": "Applying to postdocs/faculty positions - Interviewing",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Numerical Linear Algebra",
+    "relativePath": ".private/daily/Numerical Linear Algebra.md",
+    "headings": [
+      {
+        "heading": "GMRES",
+        "level": 3
+      },
+      {
+        "heading": "kylov-subspaces",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "kylov-subspaces"
+      }
+    ]
+  },
+  {
+    "fileName": "NSF-GRFP",
+    "relativePath": ".private/daily/NSF-GRFP.md",
+    "headings": [
+      {
+        "heading": "Application Criterion",
+        "level": 3
+      },
+      {
+        "heading": "Essay 2: Graduate Research Plan Statement (Field/Scientific Merit)",
+        "level": 3
+      },
+      {
+        "heading": "NSF-GRFP Personal essay",
+        "level": 3
+      },
+      {
+        "heading": "NSF-GRFP Research Proposal",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "NSFGRFP-Personal"
+      },
+      {
+        "link": "NSFGRFP-Scientific"
+      },
+      {
+        "link": "NSFGRFP-Personal"
+      }
+    ]
+  },
+  {
+    "fileName": "Move kvm vm",
+    "relativePath": ".private/daily/Move kvm vm.md"
+  },
+  {
+    "fileName": "Libvert fs formats",
+    "relativePath": ".private/daily/Libvert fs formats.md"
+  },
+  {
+    "fileName": "MacOS in KVM",
+    "relativePath": ".private/daily/MacOS in KVM.md"
+  },
+  {
+    "fileName": "Issue - Install Clear Linux to NVMe",
+    "relativePath": ".private/daily/Issue - Install Clear Linux to NVMe.md",
+    "headings": [
+      {
+        "heading": "OMFG: Install clear through terminal \"clr-installer\" on desktop edition",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Install windows 11 vm virt-manager",
+    "relativePath": ".private/daily/Install windows 11 vm virt-manager.md",
+    "headings": [
+      {
+        "heading": "Windows 11 on KVM – How to Install Step by Step?",
+        "level": 1
+      },
+      {
+        "heading": "Prerequisites.",
+        "level": 3
+      },
+      {
+        "heading": "Steps to install Windows 11 on KVM.",
+        "level": 2
+      },
+      {
+        "heading": "1. Configure TPM and Secure-Boot.",
+        "level": 3
+      },
+      {
+        "heading": "2. Create the Windows 11 VM in the KVM.",
+        "level": 3
+      },
+      {
+        "heading": "Choose the Windows 11 image for the installation.",
+        "level": 4
+      },
+      {
+        "heading": "Attach the windows 11 iso.",
+        "level": 4
+      },
+      {
+        "heading": "Configure the Memory and CPU for windows 11.",
+        "level": 4
+      },
+      {
+        "heading": "Create windows 11 virtual hard disk.",
+        "level": 4
+      },
+      {
+        "heading": "Specify the VM properties.",
+        "level": 4
+      },
+      {
+        "heading": "2. Configure the virtual hardware for windows 11 in KVM.",
+        "level": 3
+      },
+      {
+        "heading": "Choose the Virtual hard disk as qemu VirtIO.",
+        "level": 4
+      },
+      {
+        "heading": "Configure the graphics.",
+        "level": 4
+      },
+      {
+        "heading": "Change the network interface as Qemu KVM compatible.",
+        "level": 4
+      },
+      {
+        "heading": "3. Add the windows 11 virtio driver.",
+        "level": 3
+      },
+      {
+        "heading": "4. Change the boot order.",
+        "level": 3
+      },
+      {
+        "heading": "5. Configure the CPU for windows 11.",
+        "level": 3
+      },
+      {
+        "heading": "6. Enable the TPM.",
+        "level": 3
+      },
+      {
+        "heading": "7. Enable Secure-Boot.",
+        "level": 3
+      },
+      {
+        "heading": "8. Begin the Windows 11 installation in KVM.",
+        "level": 3
+      },
+      {
+        "heading": "9. Complete the initial setup wizard.",
+        "level": 3
+      },
+      {
+        "heading": "10. Install QEMU virtio drivers for windows 11.",
+        "level": 3
+      },
+      {
+        "heading": "11. Update the Display adapter.",
+        "level": 3
+      },
+      {
+        "heading": "12. Remove the CDROM from the KVM.",
+        "level": 3
+      },
+      {
+        "heading": "How to enable the audio for windows11 in kvm?",
+        "level": 2
+      },
+      {
+        "heading": "How to start using windows 11 in KVM ?",
+        "level": 2
+      },
+      {
+        "heading": "C**onclusion.**",
+        "level": 3
+      },
+      {
+        "heading": "Recent Posts",
+        "level": 3
+      },
+      {
+        "heading": "ABOUT ME",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Dynamical Systems on Graphs",
+    "relativePath": ".private/daily/Dynamical Systems on Graphs.md",
+    "headings": [
+      {
+        "heading": "Derivative of Infinite Product of Analytic Functions",
+        "level": 3
+      },
+      {
+        "heading": "Def. Not sure where i got this. i think it was some slide deck found from googling \"dynamical systems on graphs\" or something",
+        "level": 3
+      },
+      {
+        "heading": "Coupled Oscillators - Synchrony in more general structures than Koromoto",
+        "level": 3
+      },
+      {
+        "heading": "Varying structure of graph",
+        "level": 3
+      },
+      {
+        "heading": "Deterministic Graphs",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "How Time Series Databases Work—and Where They Don't",
+    "relativePath": ".private/daily/How Time Series Databases Work—and Where They Don't.md",
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      },
+      {
+        "heading": "Pros",
+        "level": 3
+      },
+      {
+        "heading": "Cons",
+        "level": 3
+      },
+      {
+        "heading": "Potential sol: distributed column stores",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Diversity in STEM",
+    "relativePath": ".private/daily/Diversity in STEM.md",
+    "headings": [
+      {
+        "heading": "Men receive more generous evaluations on letters of recommendations than women",
+        "level": 3
+      },
+      {
+        "heading": "college student evaluations skew positively based on gender of professor if gender is dominant within department",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Schmader_2007_Linguistic-comparison-LOR"
+      },
+      {
+        "link": "Diversity in Math"
+      },
+      {
+        "link": "Implicit Bias"
+      },
+      {
+        "link": "Pernilla Wittung-Stafshede"
+      }
+    ]
+  },
+  {
+    "fileName": "Data storage and loading ML",
+    "relativePath": ".private/daily/Data storage and loading ML.md",
+    "headings": [
+      {
+        "heading": "Options for storage / analysis",
+        "level": 2
+      },
+      {
+        "heading": "Articles",
+        "level": 2
+      },
+      {
+        "heading": "Papers",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Jupyter"
+      },
+      {
+        "link": "Should you use HDF5?",
+        "relativePath": ".private/daily/Should you use HDF5?.md"
+      },
+      {
+        "link": "20230218120423",
+        "relativePath": ".private/daily/20230218120423.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Approximation Theory",
+    "relativePath": ".private/daily/Approximation Theory.md",
+    "headings": [
+      {
+        "heading": "Low rank approximation",
+        "level": 3
+      },
+      {
+        "heading": "Parseval Proximal Networks",
+        "level": 3
+      },
+      {
+        "heading": "signed cumulative distribution transform",
+        "level": 3
+      },
+      {
+        "heading": "what is approximation theory",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Aldroubi_2021_Signed-Cumulative-Distribution-Transform"
+      },
+      {
+        "link": "compressed sensing"
+      }
+    ]
+  },
+  {
+    "fileName": "20230724160012",
+    "relativePath": ".private/daily/20230724160012.md"
+  },
+  {
+    "fileName": "20230722144325",
+    "relativePath": ".private/daily/20230722144325.md"
+  },
+  {
+    "fileName": "20230712165349",
+    "relativePath": ".private/daily/20230712165349.md"
+  },
+  {
+    "fileName": "20230629190208",
+    "relativePath": ".private/daily/20230629190208.md"
+  },
+  {
+    "fileName": "20230707000752",
+    "relativePath": ".private/daily/20230707000752.md"
+  },
+  {
+    "fileName": "20230628210018",
+    "relativePath": ".private/daily/20230628210018.md"
+  },
+  {
+    "fileName": "20230625182326",
+    "relativePath": ".private/daily/20230625182326.md",
+    "tags": [
+      "q"
+    ]
+  },
+  {
+    "fileName": "20230607140634",
+    "relativePath": ".private/daily/20230607140634.md",
+    "tags": [
+      "toread"
+    ]
+  },
+  {
+    "fileName": "20230614200426",
+    "relativePath": ".private/daily/20230614200426.md",
+    "tags": [
+      "machinelearning",
+      "books",
+      "metriclearning",
+      "interpretableml"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T12:18:31-05:00",
+      "modified": "2023-06-27T12:18:35-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 137
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "CMU Data mining slides. Good reference for machine learning theory and concepts",
+        "level": 1
+      },
+      {
+        "heading": "CMU Data mining slides. Classical metric learning algos",
+        "level": 1
+      },
+      {
+        "heading": "Neccessary and sufficient conditions for human interpretation. Examples of current algos (2018)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20230606182110",
+    "relativePath": ".private/daily/20230606182110.md",
+    "tags": [
+      "zerotier",
+      "proxmox"
+    ],
+    "frontmatter": {
+      "created": "2023-04-20T02:01:23-05:00",
+      "modified": "2023-06-06T18:21:10-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 101
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230606105400",
+    "relativePath": ".private/daily/20230606105400.md",
+    "tags": [
+      "safety",
+      "trans",
+      "pronouns",
+      "nlp",
+      "toread"
+    ],
+    "frontmatter": {
+      "created": "2023-06-06T10:59:43-05:00",
+      "modified": "2023-06-06T17:44:02-05:00",
+      "people": [
+        "Vincent Ng"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 138
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230515120846",
+    "relativePath": ".private/daily/20230515120846.md",
+    "tags": [
+      "mathbiology",
+      "randomgraphs",
+      "q"
+    ],
+    "frontmatter": {
+      "created": "2023-05-15T12:08:46-05:00",
+      "modified": "2023-06-06T17:44:50-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 109
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230515121012",
+    "relativePath": ".private/daily/20230515121012.md",
+    "tags": [
+      "probability",
+      "heuristicsinlanguage"
+    ],
+    "frontmatter": {
+      "created": "2023-05-15T12:10:12-05:00",
+      "modified": "2023-06-06T17:44:03-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 117
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "Cucker"
+      }
+    ]
+  },
+  {
+    "fileName": "20230508115300",
+    "relativePath": ".private/daily/20230508115300.md",
+    "tags": [
+      "writing"
+    ],
+    "frontmatter": {
+      "created": "2023-05-08T11:54:31-05:00",
+      "modified": "2023-05-12T09:28:43-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 92
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230506142129",
+    "relativePath": ".private/daily/20230506142129.md",
+    "tags": [
+      "deeplearning",
+      "vcdimension",
+      "dropout",
+      "q"
+    ],
+    "frontmatter": {
+      "created": "2023-05-06T14:21:29-05:00",
+      "modified": "2023-06-06T17:45:27-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 117
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230426203900",
+    "relativePath": ".private/daily/20230426203900.md",
+    "tags": [
+      "nix"
+    ],
+    "frontmatter": {
+      "created": "2023-04-26T21:15:04-05:00",
+      "modified": "2023-05-12T09:35:13-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 88
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230427085500",
+    "relativePath": ".private/daily/20230427085500.md",
+    "tags": [
+      "nix",
+      "reproducibility"
+    ],
+    "frontmatter": {
+      "created": "2023-04-27T08:55:28-05:00",
+      "modified": "2023-06-06T17:45:56-05:00",
+      "people": [
+        "Konrad Hinsen"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 130
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230425223200",
+    "relativePath": ".private/daily/20230425223200.md",
+    "tags": [
+      "dynamicalsampling",
+      "neuralprocesses",
+      "speechemotionrecognition"
+    ],
+    "frontmatter": {
+      "created": "2023-04-25T22:32:36-05:00",
+      "modified": "2023-06-06T17:46:05-05:00",
+      "people": "Luz Martinez-Lucas",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 170
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230424213800",
+    "relativePath": ".private/daily/20230424213800.md",
+    "tags": [
+      "it",
+      "security"
+    ],
+    "frontmatter": {
+      "created": "2023-04-24T21:38:21-05:00",
+      "modified": "2023-06-06T17:46:46-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 96
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230422195500",
+    "relativePath": ".private/daily/20230422195500.md",
+    "tags": [
+      "blog",
+      "reproducibility",
+      "computationalscience"
+    ],
+    "frontmatter": {
+      "people": [
+        "Konrad Hinsen"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 81
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230424150100",
+    "relativePath": ".private/daily/20230424150100.md",
+    "tags": [
+      "git",
+      "citation",
+      "doi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 30
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230422132400",
+    "relativePath": ".private/daily/20230422132400.md",
+    "tags": [
+      "openaccess",
+      "medium"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230422125900",
+    "relativePath": ".private/daily/20230422125900.md",
+    "tags": [
+      "vim",
+      "nvim",
+      "keymappings"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230420201050",
+    "relativePath": ".private/daily/20230420201050.md",
+    "tags": [
+      "lean",
+      "coq",
+      "proofassistant",
+      "algorithmictheoremsolvers"
+    ],
+    "frontmatter": {
+      "created": "2023-04-20T02:01:23-05:00",
+      "modified": "2023-06-06T18:47:19-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 134
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230420131300",
+    "relativePath": ".private/daily/20230420131300.md",
+    "tags": [
+      "complexity",
+      "packagemanagement",
+      "devops",
+      "toread"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 56
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230420131200",
+    "relativePath": ".private/daily/20230420131200.md",
+    "tags": [
+      "mbr",
+      "bios",
+      "uefi",
+      "bootprocess",
+      "blog"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 44
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230420021100",
+    "relativePath": ".private/daily/20230420021100.md",
+    "tags": [
+      "tmux",
+      "vim"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 22
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230420020123",
+    "relativePath": ".private/daily/20230420020123.md",
+    "tags": [
+      "networking",
+      "x11",
+      "linux"
+    ],
+    "frontmatter": {
+      "created": "2023-04-20T02:01:23-05:00",
+      "modified": "2023-06-06T18:23:12-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 105
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230418102300",
+    "relativePath": ".private/daily/20230418102300.md",
+    "tags": [
+      "youtube",
+      "toread"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 28
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230417164700",
+    "relativePath": ".private/daily/20230417164700.md",
+    "tags": [
+      "youtube",
+      "talk",
+      "wavelets",
+      "gaborframes"
+    ],
+    "frontmatter": {
+      "people": "Carlo Tomasi",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 68
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230417163700",
+    "relativePath": ".private/daily/20230417163700.md",
+    "tags": [
+      "youtube",
+      "linearalgebra",
+      "symmetricmatrix",
+      "spectraltheory"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 66
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230418121200",
+    "relativePath": ".private/daily/20230418121200.md",
+    "tags": [
+      "git",
+      "github",
+      "standards"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230418121100",
+    "relativePath": ".private/daily/20230418121100.md",
+    "tags": [
+      "github",
+      "jupyter"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 28
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230418110900",
+    "relativePath": ".private/daily/20230418110900.md",
+    "tags": [
+      "github",
+      "resources"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 30
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230418094500",
+    "relativePath": ".private/daily/20230418094500.md",
+    "tags": [
+      "git",
+      "github",
+      "configs"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 32
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230417133100",
+    "relativePath": ".private/daily/20230417133100.md",
+    "tags": [
+      "signalprocessing",
+      "humanphysiology"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 46
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230415011000",
+    "relativePath": ".private/daily/20230415011000.md"
+  },
+  {
+    "fileName": "20230416101700",
+    "relativePath": ".private/daily/20230416101700.md"
+  },
+  {
+    "fileName": "20230413152400",
+    "relativePath": ".private/daily/20230413152400.md",
+    "headings": [
+      {
+        "heading": "Pricing model is bad for weights and biases. only 100gb free for self hosted even. A few alternatives",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20230411153400",
+    "relativePath": ".private/daily/20230411153400.md",
+    "headings": [
+      {
+        "heading": "Baggett’s problem asks whether every Parseval wavelet is ....",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20230411153300",
+    "relativePath": ".private/daily/20230411153300.md",
+    "headings": [
+      {
+        "heading": "Harmonic analysis of iterated function systems with overlap.",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20230408164300",
+    "relativePath": ".private/daily/20230408164300.md",
+    "headings": [
+      {
+        "heading": "Office setup",
+        "level": 1
+      },
+      {
+        "heading": "ISCSI pros",
+        "level": 2
+      },
+      {
+        "heading": "ISCSI cons",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "20230324020123",
+    "relativePath": ".private/daily/20230324020123.md",
+    "tags": [
+      "vim",
+      "safety"
+    ],
+    "frontmatter": {
+      "created": "2023-04-20T02:01:23-05:00",
+      "modified": "2023-06-06T18:31:09-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 95
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20230321162300",
+    "relativePath": ".private/daily/20230321162300.md",
+    "headings": [
+      {
+        "heading": "Quanta 2022 Biggest breakthroughs",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20230317232500",
+    "relativePath": ".private/daily/20230317232500.md",
+    "headings": [
+      {
+        "heading": "Is network speed a bottleneck in DL? https://arxiv.org/pdf/2006.10103.pdf",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20230318131900",
+    "relativePath": ".private/daily/20230318131900.md",
+    "headings": [
+      {
+        "heading": "Hodge theory - Um has conditions for defining a laplacian?",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20230307211200",
+    "relativePath": ".private/daily/20230307211200.md",
+    "headings": [
+      {
+        "heading": "CUDA Book - Has FFT chapter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20230218120423",
+    "relativePath": ".private/daily/20230218120423.md",
+    "tags": [
+      "toread",
+      "deeplearning",
+      "storage",
+      "distributedlearning"
+    ],
+    "frontmatter": {
+      "created": "2023-04-20T02:01:23-05:00",
+      "modified": "2023-06-07T11:57:57-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 132
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "[An analysis of image storage systems for scalable training of deep neural networks](%3Chttps://www.osti.gov/biblio/1335300%3E)",
+        "level": 1
+      },
+      {
+        "heading": "Abstract",
+        "level": 1
+      },
+      {
+        "heading": "Notes:",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Data storage and loading ML",
+        "link": "20230218120423",
+        "relativePath": ".private/daily/Data storage and loading ML.md"
+      }
+    ]
+  },
+  {
+    "fileName": "20221217104400",
+    "relativePath": ".private/daily/20221217104400.md",
+    "tags": [
+      "aisafety",
+      "metrics"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:05:28-05:00",
+      "modified": "2023-06-27T13:05:38-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 180
+        }
+      }
+    },
+    "aliases": [
+      "Vendi Score: A Diversity Evaluation Metric for Machine Learning"
+    ],
+    "headings": [
+      {
+        "heading": "Vendi Score: A Diversity Evaluation Metric for Machine Learning",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20230120020123",
+    "relativePath": ".private/daily/20230120020123.md",
+    "tags": [
+      "virtualization",
+      "kvm",
+      "libvirt"
+    ],
+    "frontmatter": {
+      "created": "2023-04-20T02:01:23-05:00",
+      "modified": "2023-06-06T18:28:24-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 143
+        }
+      }
+    },
+    "aliases": [
+      "Highest voted result"
+    ],
+    "headings": [
+      {
+        "heading": "Solution 1",
+        "level": 2
+      },
+      {
+        "heading": "Solution 2",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "20221201170000",
+    "relativePath": ".private/daily/20221201170000.md",
+    "headings": [
+      {
+        "heading": "Clustering Partially Observed Graphs",
+        "level": 1
+      },
+      {
+        "heading": "Situtation",
+        "level": 4
+      },
+      {
+        "heading": "Noisy Small Worlds",
+        "level": 4
+      },
+      {
+        "heading": "We want to minimize the presense of these spurious connections",
+        "level": 4
+      },
+      {
+        "heading": "Contructing Convex Surrogate",
+        "level": 4
+      },
+      {
+        "heading": "Solving",
+        "level": 4
+      },
+      {
+        "heading": "The authors prove the following facts",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Luz Martinez-Lucas"
+      }
+    ]
+  },
+  {
+    "fileName": "20221106201400",
+    "relativePath": ".private/daily/20221106201400.md",
+    "headings": [
+      {
+        "heading": "Random DL idea: Natural language transformation of images",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20221029131600",
+    "relativePath": ".private/daily/20221029131600.md",
+    "headings": [
+      {
+        "heading": "Unionization of Mathematics Grad Students",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20220801150223",
+    "relativePath": ".private/daily/20220801150223.md",
+    "tags": [
+      "discretedynamics",
+      "quasiperiodicity",
+      "floquetmultipliers"
+    ],
+    "frontmatter": {
+      "created": "2023-04-20T02:01:23-05:00",
+      "modified": "2023-06-06T18:54:33-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 137
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20220916121600",
+    "relativePath": ".private/daily/20220916121600.md",
+    "headings": [
+      {
+        "heading": "Approximation theory of binarized neural networks",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Sinan Gunturk"
+      }
+    ]
+  },
+  {
+    "fileName": "20220716180700",
+    "relativePath": ".private/daily/20220716180700.md",
+    "tags": [
+      "q"
+    ],
+    "headings": [
+      {
+        "heading": "Orientable surfaces misunderstanding",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20220711124600",
+    "relativePath": ".private/daily/20220711124600.md",
+    "tags": [
+      "fieldsmedal",
+      "spherepacking",
+      "fourieranalysis"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 55
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Maryna Viazovska Fields Medal 2022",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20220716180600",
+    "relativePath": ".private/daily/20220716180600.md",
+    "headings": [
+      {
+        "heading": "Polyamory as a simplicial complex",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20220523161100",
+    "relativePath": ".private/daily/20220523161100.md",
+    "tags": [
+      "dynamicalsampling",
+      "signalprocessing",
+      "numericallinearalgebra"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 71
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Krylov subspaces and how they relate to dynamical sampling",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20220517144900",
+    "relativePath": ".private/daily/20220517144900.md",
+    "tags": [
+      "kuramotomodel",
+      "wavelet",
+      "analyticfunctions"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 53
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Inducting on Wavelet?",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20220511202300",
+    "relativePath": ".private/daily/20220511202300.md",
+    "tags": [
+      "kuramotomodel",
+      "hysteresis",
+      "todo",
+      "q",
+      "refactor"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Issues with Proof in Hysteresis",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20220511205000",
+    "relativePath": ".private/daily/20220511205000.md",
+    "tags": [
+      "analyticnumbertheory",
+      "harmonicanalysis",
+      "fourieranalysis",
+      "q"
+    ],
+    "frontmatter": {
+      "created": "2023-04-20T02:01:23-05:00",
+      "modified": "2023-06-27T15:04:06-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 165
+        }
+      }
+    },
+    "aliases": [
+      "Hua's Lemma"
+    ],
+    "headings": [
+      {
+        "heading": "Hua's Lemma",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20220511153600",
+    "relativePath": ".private/daily/20220511153600.md",
+    "headings": [
+      {
+        "heading": "Something about wavelets and multiresolution analysis",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20220304090937",
+    "relativePath": ".private/daily/20220304090937.md",
+    "tags": [
+      "topologicaldataanalysis",
+      "machinelearning",
+      "signalprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:45:20-05:00",
+      "modified": "2023-06-27T13:46:05-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 141
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20220229120000",
+    "relativePath": ".private/daily/20220229120000.md",
+    "tags": [
+      "functionalanalysis",
+      "dynamicalsampling"
+    ],
+    "frontmatter": {
+      "people": [
+        "Akram Aldroubi"
+      ],
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 75
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Beurling density",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20220509100000",
+    "relativePath": ".private/daily/20220509100000.md",
+    "tags": [
+      "talk",
+      "fieldsinstitute2022",
+      "signalprocessing",
+      "approximationtheory"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 75
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "T1: Dynamical Sampling, Orbits of Operators and Model Spaces",
+        "level": 1
+      },
+      {
+        "heading": "Intro",
+        "level": 4
+      },
+      {
+        "heading": "Problem",
+        "level": 4
+      },
+      {
+        "heading": "Finite dimensional case",
+        "level": 4
+      },
+      {
+        "heading": "Infinite dimensional case",
+        "level": 4
+      },
+      {
+        "heading": "Several orbits",
+        "level": 4
+      },
+      {
+        "heading": "General operators & model spaces",
+        "level": 4
+      },
+      {
+        "heading": "Thrm for one orbit (Christensen, Philipp)",
+        "level": 6
+      },
+      {
+        "heading": "Thrm for multiple orbits (C Moller, Suang 2021)",
+        "level": 6
+      },
+      {
+        "heading": "etc.",
+        "level": 4
+      },
+      {
+        "heading": "T2: Approximation with one-bit polynomials and one-bit neural networks",
+        "level": 1
+      },
+      {
+        "heading": "One bit polynomials or one bit NNs",
+        "level": 4
+      },
+      {
+        "heading": "Approximation by polynomials with integer coefficients",
+        "level": 4
+      },
+      {
+        "heading": "Latice interpretation",
+        "level": 4
+      },
+      {
+        "heading": "Coarsening the lattice",
+        "level": 5
+      },
+      {
+        "heading": "Method for quantizing neural network (copy Kantorovich?)",
+        "level": 4
+      },
+      {
+        "heading": "How to round: Sigma-delta modulation",
+        "level": 4
+      },
+      {
+        "heading": "Iterated Bernstein",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "compressed sensing"
+      },
+      {
+        "link": "Müntz–Szász theorem"
+      },
+      {
+        "link": "Bernstein polynomial"
+      }
+    ]
+  },
+  {
+    "fileName": "20220303171500",
+    "relativePath": ".private/daily/20220303171500.md",
+    "headings": [
+      {
+        "heading": "Curriculum Learning: lab presentation",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Liu_2020_Early-Learning"
+      },
+      {
+        "link": "Carlos Busso"
+      },
+      {
+        "link": "early learning regularization",
+        "relativePath": ".private/daily/early learning regularization.md"
+      }
+    ]
+  },
+  {
+    "fileName": "20211216120000",
+    "relativePath": ".private/daily/20211216120000.md"
+  },
+  {
+    "fileName": "20211116120000",
+    "relativePath": ".private/daily/20211116120000.md",
+    "tags": [
+      "todo",
+      "signalprocessing",
+      "harmonicanalysis",
+      "informationgeometry",
+      "informationtheory"
+    ],
+    "frontmatter": {
+      "created": "2023-06-19T18:26:28-05:00",
+      "modified": "2023-06-19T18:27:40-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 161
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20210916120000",
+    "relativePath": ".private/daily/20210916120000.md",
+    "tags": [
+      "todo",
+      "fourier",
+      "signalprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-19T18:23:40-05:00",
+      "modified": "2023-06-19T18:24:40-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 114
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20211016120000",
+    "relativePath": ".private/daily/20211016120000.md",
+    "tags": [
+      "harmonicanalysis",
+      "signalprocessing",
+      "q"
+    ],
+    "frontmatter": {
+      "created": "2023-06-19T18:24:54-05:00",
+      "modified": "2023-06-19T18:25:49-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 120
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20210718200603",
+    "relativePath": ".private/daily/20210718200603.md",
+    "tags": [
+      "contrastivelearning",
+      "todo"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T12:20:40-05:00",
+      "modified": "2023-06-27T12:20:48-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 167
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "What Makes for Good Views for Contrastive Learning?, Tian et al. 2020, NeurIPS.",
+        "level": 1
+      },
+      {
+        "heading": "Supervised Contrastive Learning, P. Khosla et al., 2021, ICLR",
+        "level": 1
+      },
+      {
+        "heading": "Speech Emotion Recognition via Contrastive Loss under Siamese Networks, Z.Lian et al., 2018,ASMMC-MMAC",
+        "level": 1
+      },
+      {
+        "heading": "SPEECH SIMCLR: COMBINING CONTRASTIVE AND RECONSTRUCTION OBJECTIVE FOR SELF-SUPERVISED SPEECH REPRESENTATION LEARNING, Jiang et al., 2020, [unpublished]",
+        "level": 1
+      },
+      {
+        "heading": "Deep Metric Learning: A Survey, M. Kaya and H. Bilge, 2019, Symmetry",
+        "level": 1
+      },
+      {
+        "heading": "Metric Learning and Manifolds: Preserving the Intrinsic Geometry. D. Perrault-Joncas and M. Meila, 2012",
+        "level": 1
+      },
+      {
+        "heading": "Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning, Wang et al. , 2019, CVPR",
+        "level": 1
+      },
+      {
+        "heading": "Metric Learning for Large Scale Image Classification: Generalizing to New Classes at Near-Zero Cost, T. Mensink et al., 2012, ECCV",
+        "level": 1
+      },
+      {
+        "heading": "Fast Similarity Search for Learned Metrics, B. Kulis et al., 2009, IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "level": 1
+      },
+      {
+        "heading": "Calibrated neighborhood aware confidence measure for deep metric learning, M. Karpusha et al., 2020, [unpublished?]",
+        "level": 1
+      },
+      {
+        "heading": "SEMI-SUPERVISED DEEP LEARNING BY METRIC EMBEDDING, E. Hoffer and N. Ailon, 2017, ICLR.",
+        "level": 1
+      },
+      {
+        "heading": "Semi-supervised Learning Using Siamese Networks, Sahito et al., 2019, Australian Joint Conference on Artificial Intelligence",
+        "level": 1
+      },
+      {
+        "heading": "Transductive Semi-Supervised Deep Learning using Min-Max Features, Shi et al., 2018, ECCV",
+        "level": 1
+      },
+      {
+        "heading": "Contrastive learning",
+        "level": 1
+      },
+      {
+        "heading": "SupContrast",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "contrastive learning"
+      }
+    ]
+  },
+  {
+    "fileName": "20210816120000",
+    "relativePath": ".private/daily/20210816120000.md",
+    "tags": [
+      "algebra",
+      "signalprocessing",
+      "complexanalysis",
+      "teaching"
+    ],
+    "frontmatter": {
+      "created": "2023-06-19T18:17:55-05:00",
+      "modified": "2023-06-19T18:19:12-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 135
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20210512145255",
+    "relativePath": ".private/daily/20210512145255.md",
+    "tags": [
+      "teaching",
+      "signalprocessing",
+      "dsp"
+    ],
+    "frontmatter": {
+      "created": "2023-06-19T18:16:39-05:00",
+      "modified": "2023-06-19T18:17:29-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 114
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20210226154343",
+    "relativePath": ".private/daily/20210226154343.md",
+    "tags": [
+      "hopfieldnetworks",
+      "transformers"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:04:05-05:00",
+      "modified": "2023-06-27T13:04:12-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 114
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20210326154343",
+    "relativePath": ".private/daily/20210326154343.md",
+    "tags": [
+      "interpretability",
+      "dimensionalityreduction",
+      "mloperationns"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:04:38-05:00",
+      "modified": "2023-06-27T13:04:49-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 139
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20210221111604",
+    "relativePath": ".private/daily/20210221111604.md",
+    "tags": [
+      "signalprocessing",
+      "teaching"
+    ],
+    "frontmatter": {
+      "created": "2023-06-19T18:14:59-05:00",
+      "modified": "2023-06-19T18:16:02-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 110
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20210218200603",
+    "relativePath": ".private/daily/20210218200603.md",
+    "tags": [
+      "convexity",
+      "manifoldlearning",
+      "stackexchange",
+      "contrastivelearning"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T12:19:29-05:00",
+      "modified": "2023-06-27T12:19:32-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 145
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Convexity of Mahalanobis distance, 2018, MSE",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20210214203649",
+    "relativePath": ".private/daily/20210214203649.md",
+    "tags": [
+      "books",
+      "algorithms",
+      "machinelearning",
+      "optimization",
+      "timeseries",
+      "signalprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T12:17:11-05:00",
+      "modified": "2023-06-27T12:17:21-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 158
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Algorithms and Data Structures - Jeff Erikson",
+        "level": 1
+      },
+      {
+        "heading": "Machine Learning (ML) - Nice notes on optimization",
+        "level": 1
+      },
+      {
+        "heading": "Time Series Analysis - Introduction for engineering",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20210122185558",
+    "relativePath": ".private/daily/20210122185558.md",
+    "tags": [
+      "regularization",
+      "deeplearning",
+      "toread"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:03:31-05:00",
+      "modified": "2023-06-27T13:03:39-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 119
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20210211171014",
+    "relativePath": ".private/daily/20210211171014.md",
+    "tags": [
+      "fourier",
+      "signalprocessing",
+      "harmonicanalysis"
+    ],
+    "frontmatter": {
+      "created": "2023-06-19T18:12:11-05:00",
+      "modified": "2023-06-19T18:12:56-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 126
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20210114165532",
+    "relativePath": ".private/daily/20210114165532.md",
+    "tags": [
+      "computervision",
+      "opencourseware",
+      "industry"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:02:49-05:00",
+      "modified": "2023-06-27T13:02:57-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 123
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20210113103517",
+    "relativePath": ".private/daily/20210113103517.md",
+    "tags": [
+      "toread",
+      "deeplearning",
+      "trainingdynamics",
+      "manifoldlearning"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:01:55-05:00",
+      "modified": "2023-06-27T13:02:00-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 138
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20201210184230",
+    "relativePath": ".private/daily/20201210184230.md",
+    "tags": [
+      "blog",
+      "machinelearning",
+      "categorytheory",
+      "informationgeometry"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:00:11-05:00",
+      "modified": "2023-06-27T13:01:22-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 260
+        }
+      }
+    },
+    "aliases": [
+      "Category theory and machine learning may have connections through probability theory or information geometry"
+    ],
+    "headings": [
+      {
+        "heading": "Category theory and machine learning may have connections through probability theory or information geometry",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20201025205846",
+    "relativePath": ".private/daily/20201025205846.md",
+    "tags": [
+      "fourier"
+    ],
+    "frontmatter": {
+      "created": "2023-06-19T17:55:22-05:00",
+      "modified": "2023-06-19T17:55:27-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 92
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20201029134413",
+    "relativePath": ".private/daily/20201029134413.md",
+    "tags": [
+      "python",
+      "deeplearning",
+      "activationfunctions"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T12:24:00-05:00",
+      "modified": "2023-06-27T12:24:14-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 124
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Slow training. Improve convergence speed pytorch",
+        "level": 1
+      },
+      {
+        "heading": "SELU (Scaled exponential linear unit). May be good for fully connected networks",
+        "level": 1
+      },
+      {
+        "heading": "ADABound. Claims to converge to minima as good as SGD but as fast as ADAM",
+        "level": 1
+      },
+      {
+        "heading": "“The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate\"",
+        "level": 1
+      },
+      {
+        "heading": "Live plotting of info. Live training curves ([vis.line](https://github.com/facebookresearch/visdom#visline))",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20201026171334",
+    "relativePath": ".private/daily/20201026171334.md",
+    "tags": [
+      "signalprocessing",
+      "teaching"
+    ],
+    "frontmatter": {
+      "created": "2023-06-19T17:56:46-05:00",
+      "modified": "2023-06-19T18:11:27-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 110
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20201009000000",
+    "relativePath": ".private/daily/20201009000000.md",
+    "headings": [
+      {
+        "heading": "A COMPARATIVE STUDY OF ROBUSTNESS OF DEEP LEARNING APPROACHES FOR VAD",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200929201819",
+    "relativePath": ".private/daily/20200929201819.md",
+    "tags": [
+      "dataset",
+      "audioprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T16:07:13-05:00",
+      "modified": "2023-06-07T16:07:37-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 108
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200929201929",
+    "relativePath": ".private/daily/20200929201929.md",
+    "tags": [
+      "toread",
+      "prosody",
+      "noisydata",
+      "voiceactivitydetection",
+      "audioprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T16:08:38-05:00",
+      "modified": "2023-06-07T16:10:16-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 148
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200924000100",
+    "relativePath": ".private/daily/20200924000100.md",
+    "tags": [
+      "seniordesign",
+      "sourcesoundseparation"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 48
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Open unmix Sony, another open source sound source separation",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200929000000",
+    "relativePath": ".private/daily/20200929000000.md",
+    "tags": [
+      "msp",
+      "affectivecomputing"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 36
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Prediction of Loneliness in Older Adults using Natural Language Processing: Exploring Sex Differences in Speech",
+        "level": 3
+      },
+      {
+        "heading": "Preprint of BU-AMP+UTD-MSP collab",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200924000000",
+    "relativePath": ".private/daily/20200924000000.md",
+    "tags": [
+      "python",
+      "github",
+      "venv"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 32
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "venv manager - Pew python env wrapper",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200909000000",
+    "relativePath": ".private/daily/20200909000000.md",
+    "tags": [
+      "seniordesign",
+      "forcedalignment"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 42
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Lyrics to audio alignment",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200908000000",
+    "relativePath": ".private/daily/20200908000000.md",
+    "tags": [
+      "seniordesign",
+      "forcedalignment",
+      "audiosynthesis"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 57
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Rap lyric generation",
+        "level": 3
+      },
+      {
+        "heading": "Tacotron 2.0 TTS",
+        "level": 3
+      },
+      {
+        "heading": "Deezer spleeter based sound source separation",
+        "level": 3
+      },
+      {
+        "heading": "Montreal force alligner",
+        "level": 3
+      },
+      {
+        "heading": "All English syllables",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200824000100",
+    "relativePath": ".private/daily/20200824000100.md",
+    "tags": [
+      "noisydata",
+      "informationtheory",
+      "voiceactivitydetection"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 64
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "A new Kullback-Leibler VAD for speech recognition in noise",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200824000000",
+    "relativePath": ".private/daily/20200824000000.md",
+    "tags": [
+      "voiceactivitydetection"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 36
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "comboSAD",
+        "level": 3
+      },
+      {
+        "heading": "Improving Voice Activity Detection by using Denoising-Based Techniques with Convolutional LSTM",
+        "level": 3
+      },
+      {
+        "heading": "Spectro-Temporal Attention-Based Voice Activity Detection",
+        "level": 3
+      },
+      {
+        "heading": "SAD for apollo corpus",
+        "level": 3
+      },
+      {
+        "heading": "End-to-end Audiovisual Speech Activity Detection with Bimodal Recurrent Neural Models",
+        "level": 3
+      },
+      {
+        "heading": "Voice Activity Detection: Merging Source and Filter-based Information",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200820193500",
+    "relativePath": ".private/daily/20200820193500.md",
+    "tags": [
+      "toread",
+      "informationtheory",
+      "audioprocessing",
+      "informationgeometry"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T16:02:15-05:00",
+      "modified": "2023-06-07T16:03:12-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 145
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200820000000",
+    "relativePath": ".private/daily/20200820000000.md",
+    "tags": [
+      "voiceactivitydetection",
+      "soundeventdetection",
+      "losscombination"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 72
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Voice activity detection in the wild via weakly supervised sound event detect",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200812000000",
+    "relativePath": ".private/daily/20200812000000.md",
+    "tags": [
+      "voiceactivitydetection",
+      "transformers"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 49
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Voice Activity Detection Using an Adaptive Context Attention Model",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200812041756",
+    "relativePath": ".private/daily/20200812041756.md",
+    "tags": [
+      "acoustics",
+      "coctailparty",
+      "toread"
+    ],
+    "frontmatter": {
+      "created": "2023-06-06T18:39:10-05:00",
+      "modified": "2023-06-06T18:39:54-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 114
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200620201604",
+    "relativePath": ".private/daily/20200620201604.md",
+    "tags": [
+      "algebraictoplogy",
+      "topologicaldataanalysis"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:44:33-05:00",
+      "modified": "2023-06-27T13:44:40-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 125
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "simplicial complex"
+      }
+    ]
+  },
+  {
+    "fileName": "20200620000200",
+    "relativePath": ".private/daily/20200620000200.md",
+    "headings": [
+      {
+        "heading": "Unsupervised Pretraining for Sequence to Sequence Learning",
+        "level": 3
+      },
+      {
+        "heading": "Transfer learning emotion manifestation across music and speech",
+        "level": 3
+      },
+      {
+        "heading": "Recurrent neural network training with dark knowledge transfer",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200620000000",
+    "relativePath": ".private/daily/20200620000000.md",
+    "tags": [
+      "transferlearning",
+      "informationbottleneck"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 52
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "INFOBOT: TRANSFER AND EXPLORATION VIA THE INFORMATION BOTTLENECK",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200620000100",
+    "relativePath": ".private/daily/20200620000100.md",
+    "tags": [
+      "reinforcementlearning",
+      "regretbounds"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 49
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Regret bounds reinforcement learning",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200416000000",
+    "relativePath": ".private/daily/20200416000000.md",
+    "tags": [
+      "blog",
+      "python",
+      "jupyter"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 33
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Surprisingly useful tips for jupyter notebook",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200325205502",
+    "relativePath": ".private/daily/20200325205502.md",
+    "tags": [
+      "deeplearning",
+      "python"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T12:22:17-05:00",
+      "modified": "2023-06-27T12:23:50-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 159
+        }
+      }
+    },
+    "aliases": [
+      "Deep learning training loop debugging tips"
+    ],
+    "headings": [
+      {
+        "heading": "Deep learning training loop debugging tips",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20200315000100",
+    "relativePath": ".private/daily/20200315000100.md",
+    "tags": [
+      "stackexchange",
+      "reddit"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Why use Pytables over standard HDF5 library",
+        "level": 3
+      },
+      {
+        "heading": "Suggests SQL Databases (postgresql)",
+        "level": 3
+      },
+      {
+        "heading": "Gives motivation for relational model of data storage",
+        "level": 3
+      },
+      {
+        "heading": "ML Engineer Typical Data management",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200323000100",
+    "relativePath": ".private/daily/20200323000100.md",
+    "tags": [
+      "python",
+      "library"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 28
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Pretty matplotlib; heavy use of pandas",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200323171100",
+    "relativePath": ".private/daily/20200323171100.md",
+    "tags": [
+      "audioprocessing",
+      "deeplearning",
+      "speechprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T15:57:53-05:00",
+      "modified": "2023-06-07T15:59:53-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 130
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200323000000",
+    "relativePath": ".private/daily/20200323000000.md",
+    "tags": [
+      "datamanagement",
+      "tools"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "PyTables for Time series data library",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200226210837",
+    "relativePath": ".private/daily/20200226210837.md",
+    "tags": [
+      "speechenhancement",
+      "teacherstudent",
+      "multitasklearning",
+      "toread",
+      "noisydata",
+      "q"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T20:41:49-05:00",
+      "modified": "2023-06-07T20:42:51-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 158
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200315000000",
+    "relativePath": ".private/daily/20200315000000.md",
+    "headings": [
+      {
+        "heading": "Large Datasets in Pytorch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200219155300",
+    "relativePath": ".private/daily/20200219155300.md",
+    "tags": [
+      "featureextraction",
+      "python",
+      "audioprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T15:54:05-05:00",
+      "modified": "2023-06-07T15:55:58-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 125
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200201145100",
+    "relativePath": ".private/daily/20200201145100.md",
+    "tags": [
+      "fewshot",
+      "toread",
+      "audiosynthesis",
+      "audioprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T15:50:07-05:00",
+      "modified": "2023-06-07T15:52:24-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 130
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200128114550",
+    "relativePath": ".private/daily/20200128114550.md",
+    "tags": [
+      "signalprocessing",
+      "topologicaldataanalysis"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:43:21-05:00",
+      "modified": "2023-06-27T13:43:34-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 126
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200130153526",
+    "relativePath": ".private/daily/20200130153526.md",
+    "tags": [
+      "persistenthomology",
+      "topologicaldataanalysis",
+      "surveys"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:43:56-05:00",
+      "modified": "2023-06-27T13:44:21-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 135
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200126224010",
+    "relativePath": ".private/daily/20200126224010.md",
+    "tags": [
+      "topologicaldataanalysis",
+      "signalprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:42:51-05:00",
+      "modified": "2023-06-27T13:43:11-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 126
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200126204100",
+    "relativePath": ".private/daily/20200126204100.md",
+    "tags": [
+      "audioprocessing",
+      "deeplearning",
+      "quasiperiodicity",
+      "toread"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T15:45:00-05:00",
+      "modified": "2023-06-07T15:46:42-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 142
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200123122533",
+    "relativePath": ".private/daily/20200123122533.md",
+    "tags": [
+      "toread",
+      "teacherstudent",
+      "deeplearning",
+      "gan"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T20:23:30-05:00",
+      "modified": "2023-06-07T20:23:44-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 123
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200123122903",
+    "relativePath": ".private/daily/20200123122903.md",
+    "tags": [
+      "topologicaldataanalysis",
+      "surveys",
+      "toread"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:41:20-05:00",
+      "modified": "2023-06-27T13:41:32-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 123
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200123122943",
+    "relativePath": ".private/daily/20200123122943.md",
+    "tags": [
+      "topologicaldataanalysis",
+      "signalprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-27T13:42:20-05:00",
+      "modified": "2023-06-27T13:42:26-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 125
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200123122600",
+    "relativePath": ".private/daily/20200123122600.md",
+    "tags": [
+      "audioprocessing",
+      "deeplearning",
+      "toread"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T15:38:08-05:00",
+      "modified": "2023-06-07T15:43:11-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 124
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200123122206",
+    "relativePath": ".private/daily/20200123122206.md",
+    "tags": [
+      "toread",
+      "todo",
+      "attention",
+      "transformers",
+      "deeplearning"
+    ],
+    "frontmatter": {
+      "created": "2023-04-20T02:01:23-05:00",
+      "modified": "2023-06-07T16:19:59-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 132
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200123000000",
+    "relativePath": ".private/daily/20200123000000.md",
+    "tags": [
+      "python",
+      "numpy",
+      "blog"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Numpy stride tricks. very fast matrix manipulations. good for frame stacking",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20200110020043",
+    "relativePath": ".private/daily/20200110020043.md",
+    "tags": [
+      "audiosynthesis",
+      "musicinformationretrieval",
+      "audioprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T15:19:17-05:00",
+      "modified": "2023-06-07T15:21:28-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 141
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200112113259",
+    "relativePath": ".private/daily/20200112113259.md",
+    "headings": [
+      {
+        "heading": "P-hacking: P-value is a random value when number of samples changes",
+        "level": 1
+      },
+      {
+        "heading": "Problem: P-value for n_1 samples is not comparable to P-value for n_2 samples",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "20200123000100",
+    "relativePath": ".private/daily/20200123000100.md",
+    "tags": [
+      "github",
+      "conda",
+      "jupyter"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Anaconda kernel for jupyter notebooks",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "20191025205846",
+    "relativePath": ".private/daily/20191025205846.md",
+    "tags": [
+      "signalprocessing",
+      "imageprocessing"
+    ],
+    "frontmatter": {
+      "created": "2023-06-19T17:54:28-05:00",
+      "modified": "2023-06-19T17:54:31-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 117
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200109120100",
+    "relativePath": ".private/daily/20200109120100.md",
+    "tags": [
+      "acoustics",
+      "coctailparty",
+      "toread"
+    ],
+    "frontmatter": {
+      "created": "2023-06-06T18:39:10-05:00",
+      "modified": "2023-06-06T18:39:54-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 114
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200109120000",
+    "relativePath": ".private/daily/20200109120000.md",
+    "tags": [
+      "acoustics",
+      "toread"
+    ],
+    "frontmatter": {
+      "created": "2023-06-06T18:39:10-05:00",
+      "modified": "2023-06-06T18:39:54-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 101
+        }
+      }
+    }
+  },
+  {
+    "fileName": "20200109201159",
+    "relativePath": ".private/daily/20200109201159.md",
+    "tags": [
+      "audioprocessing",
+      "deeplearning"
+    ],
+    "frontmatter": {
+      "created": "2023-06-07T15:24:59-05:00",
+      "modified": "2023-06-07T15:42:21-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 113
+        }
+      }
+    }
+  },
+  {
     "fileName": "README",
     "relativePath": ".private/README.md"
   },
@@ -13,7 +4167,57 @@
   },
   {
     "fileName": "README",
-    "relativePath": "atomic/README.md"
+    "relativePath": "atomic/README.md",
+    "frontmatter": {
+      "created": "2023-07-30T20:41:42-05:00",
+      "modified": "2023-07-30T21:36:59-05:00",
+      "tags": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 85
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Bochner's Theorem",
+    "relativePath": "atomic/Bochner's Theorem.md",
+    "tags": [
+      "functionalanalysis",
+      "harmonicanalysis",
+      "fourieranalysis"
+    ],
+    "frontmatter": {
+      "created": "2023-01-23T19:59:04-06:00",
+      "modified": "2023-07-30T21:36:59-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 164
+        }
+      }
+    },
+    "aliases": [
+      "20230123120500"
+    ],
+    "links": [
+      {
+        "link": "Li_2020_Random-Fourier-Features"
+      }
+    ]
   },
   {
     "fileName": "README",
