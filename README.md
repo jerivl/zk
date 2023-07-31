@@ -17,6 +17,8 @@ Contains atomic notes, each containing a singular topic, to later be linked and 
 
 # Issues
 ### Content Related Issues
-Please direct any comments/suggestions/corrections to the content of this site to an appropriate Issue/Discussion/PR to my [Zettelkasten (zk) Github repository](https://github.com/jerivl/zk)
+Please direct any comments/suggestions/corrections to the content of this site to an appropriate Issue/Discussion/PR to my [Zettelkasten (zk) Github repository](https://github.com/jerivl/zk).
 ### Web Related Issues
-For any concerns about the technical hosting of this site, please direct inquiries to an appropriate Issue/Discussion/PR to my [notes website Github repository](https://github.com/jerivl/notes/tree/main)
+For any concerns about the technical hosting of this site, please direct inquiries to an Issue on my [notes website Github repository](https://github.com/jerivl/notes/tree/main). Please only make a new post if the issue is not currently known.
+# Licensing 
+The notes and the containing website are distributed under the MIT open source license. 
