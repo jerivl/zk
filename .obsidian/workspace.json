@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": ".private/daily/20200123000000.md",
+                "file": ".private/daily/20200315000100.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": ".private/daily/20200123000000.md",
+                "file": ".private/daily/20200315000100.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": ".private/daily/20200123000000.md",
+                "file": ".private/daily/20200315000100.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": ".private/daily/20200123000000.md"
+                "file": ".private/daily/20200315000100.md"
               }
             }
           }
@@ -152,39 +152,40 @@
   "active": "1cbd81d064643cf6",
   "lastOpenFiles": [
     ".git/index.lock",
-    ".private/daily/20200112113259.md",
-    ".private/daily/todo/20200820193500.md",
-    ".private/daily/20200929201819.md",
-    ".private/daily/20200924000000.md",
-    ".private/daily/20200909000000.md",
-    ".private/daily/20200908000000.md",
-    ".private/daily/20200824000100.md",
-    ".private/daily/20200824000000.md",
-    ".private/daily/20200820000000.md",
-    ".private/daily/20200812000000.md",
-    ".private/daily/20200620201604.md",
-    ".private/daily/20200620000200.md",
-    ".private/daily/todo/20200812041756.md",
-    ".private/daily/20200620000100.md",
-    ".private/daily/20200620000000.md",
-    ".private/daily/20200416000000.md",
-    ".private/daily/20200325205502.md",
-    ".private/daily/20200323000100.md",
-    ".private/daily/20200323000000.md",
-    ".private/daily/20200315000100.md",
+    ".private/.git/index.lock",
     ".private/daily/20200315000000.md",
     ".private/daily/20200130153526.md",
     ".private/daily/20200128114550.md",
+    ".private/daily/20200123122943.md",
     ".private/daily/20200126224010.md",
     ".private/daily/20200123122903.md",
-    ".private/daily/todo",
-    ".obsidian/plugins/note-refactor-obsidian/data.json",
-    ".obsidian/zk-prefixer.json",
-    ".obsidian/daily-notes.json",
-    ".git/objects/c6",
-    ".git/objects/c6/f0b50b9ce05ee4e47fb1291b3a72e47e9cf587",
-    ".git/objects/fb/079b2debd65010b7afb0adc6f8bf42407cacab",
-    ".git/objects/db/e08900abface13db66c937dddac33521331f80",
-    ".git/objects/3c"
+    ".private/daily/20200123000000.md",
+    ".private/daily/20200112113259.md",
+    ".private/daily/todo/20200201145100.md",
+    ".private/daily/todo/20200123122533.md",
+    ".private/daily/todo/20200123122206.md",
+    ".private/daily/todo/20200110020043.md",
+    ".private/daily/todo/20200109201159.md",
+    ".private/daily/todo/20200109120100.md",
+    ".private/daily/todo/20200109120000.md",
+    ".private/daily/todo/20191025205846.md",
+    ".private/daily/Approximation Theory.md",
+    ".private/daily/20200416000000.md",
+    ".private/daily/20200323000100.md",
+    ".private/daily/20200323000000.md",
+    ".private/daily/20200315000100.md",
+    ".private/daily/20200123000100.md",
+    ".private/README.md",
+    ".private/daily/20230614200426.md",
+    ".private/daily/20230724160012.md",
+    ".git/objects/be/6f4a6f185faece071b3ed986fec81d21f1f230",
+    ".git/objects/78",
+    ".git/objects/78/56d0e20b1947971d57ba9a5484a60dfbb46653",
+    ".git/objects/9a",
+    ".git/objects/9a/ca3348267b82275a3b7e5fa5dedcb8b9ce2fae",
+    ".git/objects/f9/c4c6ed547a55e9af269b6c538d2efa538a0a16",
+    ".git/objects/e9",
+    ".git/objects/e9/ec0837d37d643436132ed6fc14fcff55cbbb74",
+    ".git/objects/db/30cd28155d4da6e71c74b1ec1866a3bf930751"
   ]
 }
