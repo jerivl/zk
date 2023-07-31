@@ -150,18 +150,19 @@
   },
   "active": "1aedbe5ca4a0e269",
   "lastOpenFiles": [
+    ".git/objects/c6",
+    ".git/objects/c6/f0b50b9ce05ee4e47fb1291b3a72e47e9cf587",
+    ".git/objects/fb/079b2debd65010b7afb0adc6f8bf42407cacab",
+    ".git/objects/db/e08900abface13db66c937dddac33521331f80",
+    ".git/objects/3c",
+    ".git/objects/3c/7ac5a918433c563bce0b17f7ccd794deca7e2d",
+    ".git/objects/99",
+    ".git/objects/99/5ab4298e2d5146b65b3016b87686bfccc2370e",
+    ".git/objects/24",
+    ".git/objects/24/d56d9d3189b96b9db99561cf0ea33248df2798",
+    ".git/objects/14/cb447e80263be310dc4821c6c427b5a67583e4",
     "atomic/README.md",
     "atomic/Bochner's Theorem.md",
-    ".obsidian/plugins/note-refactor-obsidian/styles.css",
-    ".obsidian/plugins/note-refactor-obsidian/main.js",
-    ".obsidian/plugins/note-refactor-obsidian/manifest.json",
-    ".obsidian/plugins/note-refactor-obsidian",
-    ".obsidian/plugins/obsidian-linter/data.json",
-    ".obsidian/plugins/obsidian-linter/styles.css",
-    ".obsidian/plugins/obsidian-linter/main.js",
-    ".obsidian/plugins/obsidian-linter/manifest.json",
-    ".obsidian/plugins/obsidian-linter",
-    ".obsidian/plugins/obsidian-git/data.json",
     ".private/daily/20230218120423.md",
     ".private/daily/20230120020123.md",
     ".private/daily/20221217104400.md",
@@ -184,7 +185,6 @@
     ".private/daily/20220229120000.md",
     ".private/daily/20211216120000.md",
     ".private/daily/20211016120000.md",
-    ".private/daily/20211116120000.md",
-    ".private/daily/20210916120000.md"
+    ".private/daily/20211116120000.md"
   ]
 }
