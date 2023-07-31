@@ -11,8 +11,13 @@
             "id": "1aedbe5ca4a0e269",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -140,8 +149,11 @@
   },
   "active": "1aedbe5ca4a0e269",
   "lastOpenFiles": [
-    "test4.md",
+    "test.md",
     "README.md",
+    "markdown-sample.md",
+    "markdown-sample3.md",
+    "test4.md",
     ".obsidian/themes/Atom/manifest.json",
     ".obsidian/themes/Atom/theme.css",
     ".obsidian/themes/Atom",
@@ -154,10 +166,7 @@
     ".git/objects/e7",
     "test3.md",
     "test2.md",
-    "markdown-sample3.md",
-    "markdown-sample.md",
     ".private/priv-test.md",
-    "test.md",
     ".private/README.md",
     "private/priv-test.md",
     "priv/README.md",

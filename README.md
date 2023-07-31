@@ -4,7 +4,10 @@ This website contains my personal notes regarding math, academics and my researc
 More information about me can be found on [my personal website](https://jerivl.github.io)
 
 # How to use this site
-This site can navigated through the directory menu on the left, the global graph view, or the search function. I denote the purpose of each file though its parent directory. Due to the intended nature of this site as a working document, consider all works to be ephemeral and updated to best suit my own purposes, with the exception of the files contained in `/blog`.
+### Navigation
+This site can navigated through the directory menu on the left, the global graph view, or the search function. The left and right menus can be hidden/shown through a combination of the buttons in the top left and right corners of the page. The menu accessible from the settings button on the bottom left corner adjusts settings specific to your web session, including font size.
+### Folder Structure
+I denote the purpose of each file though its parent directory. Due to the intended nature of this site as a working document, consider all works to be ephemeral and updated to best suit my own purposes, with the exception of the files contained in `/blog`.
 # Folder descriptions
 ## `/blog`
 Contains permanent articles regarding my opinions and experiences in mathematics, engineering, academia, etc. The only changes that I intend to make to these articles are technical corrections or ethical amendments should they arise. In most cases these will be appended to the end of the article. 

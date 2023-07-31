@@ -9,10 +9,6 @@
       "relativePath": "blog"
     },
     {
-      "name": ".git",
-      "relativePath": ".git"
-    },
-    {
       "name": ".github",
       "relativePath": ".github"
     },
@@ -23,6 +19,10 @@
     {
       "name": ".private",
       "relativePath": ".private"
+    },
+    {
+      "name": ".git",
+      "relativePath": ".git"
     },
     {
       "name": "hooks",
@@ -37,16 +37,8 @@
       "relativePath": ".git/logs"
     },
     {
-      "name": "workflows",
-      "relativePath": ".github/workflows"
-    },
-    {
       "name": "objects",
       "relativePath": ".git/objects"
-    },
-    {
-      "name": ".git",
-      "relativePath": ".private/.git"
     },
     {
       "name": "refs",
@@ -57,12 +49,44 @@
       "relativePath": ".obsidian/plugins"
     },
     {
+      "name": "workflows",
+      "relativePath": ".github/workflows"
+    },
+    {
       "name": "themes",
       "relativePath": ".obsidian/themes"
     },
     {
+      "name": ".git",
+      "relativePath": ".private/.git"
+    },
+    {
       "name": "refs",
       "relativePath": ".git/logs/refs"
+    },
+    {
+      "name": "metadata-extractor",
+      "relativePath": ".obsidian/plugins/metadata-extractor"
+    },
+    {
+      "name": "obsidian-minimal-settings",
+      "relativePath": ".obsidian/plugins/obsidian-minimal-settings"
+    },
+    {
+      "name": "obsidian-git",
+      "relativePath": ".obsidian/plugins/obsidian-git"
+    },
+    {
+      "name": "Atom",
+      "relativePath": ".obsidian/themes/Atom"
+    },
+    {
+      "name": "Minimal",
+      "relativePath": ".obsidian/themes/Minimal"
+    },
+    {
+      "name": "show-hidden-files",
+      "relativePath": ".obsidian/plugins/show-hidden-files"
     },
     {
       "name": "hooks",
@@ -73,48 +97,32 @@
       "relativePath": ".private/.git/info"
     },
     {
-      "name": "objects",
-      "relativePath": ".private/.git/objects"
-    },
-    {
       "name": "logs",
       "relativePath": ".private/.git/logs"
+    },
+    {
+      "name": "objects",
+      "relativePath": ".private/.git/objects"
     },
     {
       "name": "refs",
       "relativePath": ".private/.git/refs"
     },
     {
-      "name": "remotes",
-      "relativePath": ".git/refs/remotes"
-    },
-    {
       "name": "heads",
       "relativePath": ".git/refs/heads"
+    },
+    {
+      "name": "remotes",
+      "relativePath": ".git/refs/remotes"
     },
     {
       "name": "tags",
       "relativePath": ".git/refs/tags"
     },
     {
-      "name": "show-hidden-files",
-      "relativePath": ".obsidian/plugins/show-hidden-files"
-    },
-    {
-      "name": "obsidian-git",
-      "relativePath": ".obsidian/plugins/obsidian-git"
-    },
-    {
-      "name": "obsidian-minimal-settings",
-      "relativePath": ".obsidian/plugins/obsidian-minimal-settings"
-    },
-    {
       "name": "06",
       "relativePath": ".git/objects/06"
-    },
-    {
-      "name": "metadata-extractor",
-      "relativePath": ".obsidian/plugins/metadata-extractor"
     },
     {
       "name": "0a",
@@ -129,10 +137,6 @@
       "relativePath": ".git/objects/10"
     },
     {
-      "name": "17",
-      "relativePath": ".git/objects/17"
-    },
-    {
       "name": "14",
       "relativePath": ".git/objects/14"
     },
@@ -145,6 +149,14 @@
       "relativePath": ".git/objects/1d"
     },
     {
+      "name": "19",
+      "relativePath": ".git/objects/19"
+    },
+    {
+      "name": "17",
+      "relativePath": ".git/objects/17"
+    },
+    {
       "name": "26",
       "relativePath": ".git/objects/26"
     },
@@ -153,24 +165,20 @@
       "relativePath": ".git/objects/32"
     },
     {
-      "name": "19",
-      "relativePath": ".git/objects/19"
+      "name": "2f",
+      "relativePath": ".git/objects/2f"
     },
     {
-      "name": "36",
-      "relativePath": ".git/objects/36"
+      "name": "3a",
+      "relativePath": ".git/objects/3a"
     },
     {
       "name": "39",
       "relativePath": ".git/objects/39"
     },
     {
-      "name": "2f",
-      "relativePath": ".git/objects/2f"
-    },
-    {
-      "name": "48",
-      "relativePath": ".git/objects/48"
+      "name": "36",
+      "relativePath": ".git/objects/36"
     },
     {
       "name": "3d",
@@ -181,88 +189,88 @@
       "relativePath": ".git/objects/43"
     },
     {
-      "name": "4e",
-      "relativePath": ".git/objects/4e"
+      "name": "49",
+      "relativePath": ".git/objects/49"
     },
     {
       "name": "4a",
       "relativePath": ".git/objects/4a"
     },
     {
-      "name": "49",
-      "relativePath": ".git/objects/49"
+      "name": "48",
+      "relativePath": ".git/objects/48"
     },
     {
       "name": "55",
       "relativePath": ".git/objects/55"
     },
     {
-      "name": "58",
-      "relativePath": ".git/objects/58"
-    },
-    {
-      "name": "5f",
-      "relativePath": ".git/objects/5f"
-    },
-    {
-      "name": "5c",
-      "relativePath": ".git/objects/5c"
-    },
-    {
-      "name": "65",
-      "relativePath": ".git/objects/65"
-    },
-    {
-      "name": "66",
-      "relativePath": ".git/objects/66"
-    },
-    {
-      "name": "64",
-      "relativePath": ".git/objects/64"
-    },
-    {
-      "name": "6a",
-      "relativePath": ".git/objects/6a"
-    },
-    {
-      "name": "61",
-      "relativePath": ".git/objects/61"
-    },
-    {
-      "name": "70",
-      "relativePath": ".git/objects/70"
+      "name": "4e",
+      "relativePath": ".git/objects/4e"
     },
     {
       "name": "53",
       "relativePath": ".git/objects/53"
     },
     {
+      "name": "56",
+      "relativePath": ".git/objects/56"
+    },
+    {
+      "name": "5c",
+      "relativePath": ".git/objects/5c"
+    },
+    {
+      "name": "58",
+      "relativePath": ".git/objects/58"
+    },
+    {
+      "name": "64",
+      "relativePath": ".git/objects/64"
+    },
+    {
+      "name": "61",
+      "relativePath": ".git/objects/61"
+    },
+    {
+      "name": "66",
+      "relativePath": ".git/objects/66"
+    },
+    {
+      "name": "5f",
+      "relativePath": ".git/objects/5f"
+    },
+    {
+      "name": "6a",
+      "relativePath": ".git/objects/6a"
+    },
+    {
+      "name": "65",
+      "relativePath": ".git/objects/65"
+    },
+    {
       "name": "6e",
       "relativePath": ".git/objects/6e"
     },
     {
-      "name": "7c",
-      "relativePath": ".git/objects/7c"
+      "name": "70",
+      "relativePath": ".git/objects/70"
     },
     {
       "name": "75",
       "relativePath": ".git/objects/75"
     },
     {
-      "name": "90",
-      "relativePath": ".git/objects/90"
+      "name": "69",
+      "relativePath": ".git/objects/69"
     },
     {
-      "name": "92",
-      "relativePath": ".git/objects/92"
+      "name": "7b",
+      "relativePath": ".git/objects/7b"
     },
     {
-      "name": "96",
-      "relativePath": ".git/objects/96"
-    },
-    {
-      "name": "94",
-      "relativePath": ".git/objects/94"
+      "name": "7c",
+      "relativePath": ".git/objects/7c"
     },
     {
       "name": "83",
@@ -273,16 +281,32 @@
       "relativePath": ".git/objects/85"
     },
     {
+      "name": "8f",
+      "relativePath": ".git/objects/8f"
+    },
+    {
+      "name": "90",
+      "relativePath": ".git/objects/90"
+    },
+    {
+      "name": "92",
+      "relativePath": ".git/objects/92"
+    },
+    {
+      "name": "94",
+      "relativePath": ".git/objects/94"
+    },
+    {
+      "name": "96",
+      "relativePath": ".git/objects/96"
+    },
+    {
+      "name": "98",
+      "relativePath": ".git/objects/98"
+    },
+    {
       "name": "9e",
       "relativePath": ".git/objects/9e"
-    },
-    {
-      "name": "a4",
-      "relativePath": ".git/objects/a4"
-    },
-    {
-      "name": "a6",
-      "relativePath": ".git/objects/a6"
     },
     {
       "name": "ac",
@@ -293,76 +317,84 @@
       "relativePath": ".git/objects/a1"
     },
     {
-      "name": "98",
-      "relativePath": ".git/objects/98"
+      "name": "a6",
+      "relativePath": ".git/objects/a6"
     },
     {
-      "name": "b5",
-      "relativePath": ".git/objects/b5"
-    },
-    {
-      "name": "b7",
-      "relativePath": ".git/objects/b7"
-    },
-    {
-      "name": "bb",
-      "relativePath": ".git/objects/bb"
-    },
-    {
-      "name": "b9",
-      "relativePath": ".git/objects/b9"
+      "name": "a4",
+      "relativePath": ".git/objects/a4"
     },
     {
       "name": "ad",
       "relativePath": ".git/objects/ad"
     },
     {
+      "name": "b5",
+      "relativePath": ".git/objects/b5"
+    },
+    {
       "name": "b8",
       "relativePath": ".git/objects/b8"
     },
     {
-      "name": "bf",
-      "relativePath": ".git/objects/bf"
+      "name": "b7",
+      "relativePath": ".git/objects/b7"
     },
     {
-      "name": "be",
-      "relativePath": ".git/objects/be"
+      "name": "b9",
+      "relativePath": ".git/objects/b9"
     },
     {
-      "name": "c8",
-      "relativePath": ".git/objects/c8"
-    },
-    {
-      "name": "ce",
-      "relativePath": ".git/objects/ce"
-    },
-    {
-      "name": "d1",
-      "relativePath": ".git/objects/d1"
+      "name": "bb",
+      "relativePath": ".git/objects/bb"
     },
     {
       "name": "c1",
       "relativePath": ".git/objects/c1"
     },
     {
-      "name": "cc",
-      "relativePath": ".git/objects/cc"
-    },
-    {
-      "name": "cf",
-      "relativePath": ".git/objects/cf"
+      "name": "bf",
+      "relativePath": ".git/objects/bf"
     },
     {
       "name": "c9",
       "relativePath": ".git/objects/c9"
     },
     {
+      "name": "c8",
+      "relativePath": ".git/objects/c8"
+    },
+    {
+      "name": "be",
+      "relativePath": ".git/objects/be"
+    },
+    {
+      "name": "ce",
+      "relativePath": ".git/objects/ce"
+    },
+    {
+      "name": "cc",
+      "relativePath": ".git/objects/cc"
+    },
+    {
+      "name": "d0",
+      "relativePath": ".git/objects/d0"
+    },
+    {
+      "name": "cf",
+      "relativePath": ".git/objects/cf"
+    },
+    {
+      "name": "d1",
+      "relativePath": ".git/objects/d1"
+    },
+    {
       "name": "d3",
       "relativePath": ".git/objects/d3"
     },
     {
-      "name": "dd",
-      "relativePath": ".git/objects/dd"
+      "name": "d5",
+      "relativePath": ".git/objects/d5"
     },
     {
       "name": "d7",
@@ -373,12 +405,20 @@
       "relativePath": ".git/objects/da"
     },
     {
+      "name": "dd",
+      "relativePath": ".git/objects/dd"
+    },
+    {
       "name": "df",
       "relativePath": ".git/objects/df"
     },
     {
       "name": "e2",
       "relativePath": ".git/objects/e2"
+    },
+    {
+      "name": "e7",
+      "relativePath": ".git/objects/e7"
     },
     {
       "name": "eb",
@@ -389,92 +429,92 @@
       "relativePath": ".git/objects/f0"
     },
     {
-      "name": "f1",
-      "relativePath": ".git/objects/f1"
-    },
-    {
       "name": "f3",
       "relativePath": ".git/objects/f3"
     },
     {
-      "name": "fa",
-      "relativePath": ".git/objects/fa"
-    },
-    {
-      "name": "f6",
-      "relativePath": ".git/objects/f6"
+      "name": "f1",
+      "relativePath": ".git/objects/f1"
     },
     {
       "name": "f2",
       "relativePath": ".git/objects/f2"
     },
     {
-      "name": "fd",
-      "relativePath": ".git/objects/fd"
+      "name": "f8",
+      "relativePath": ".git/objects/f8"
     },
     {
-      "name": "Minimal",
-      "relativePath": ".obsidian/themes/Minimal"
+      "name": "f6",
+      "relativePath": ".git/objects/f6"
+    },
+    {
+      "name": "fa",
+      "relativePath": ".git/objects/fa"
     },
     {
       "name": "info",
       "relativePath": ".git/objects/info"
     },
     {
-      "name": "pack",
-      "relativePath": ".git/objects/pack"
+      "name": "fd",
+      "relativePath": ".git/objects/fd"
     },
     {
       "name": "fb",
       "relativePath": ".git/objects/fb"
     },
     {
-      "name": "remotes",
-      "relativePath": ".git/logs/refs/remotes"
+      "name": "pack",
+      "relativePath": ".git/objects/pack"
     },
     {
       "name": "heads",
       "relativePath": ".git/logs/refs/heads"
     },
     {
-      "name": "1a",
-      "relativePath": ".private/.git/objects/1a"
-    },
-    {
-      "name": "9f",
-      "relativePath": ".private/.git/objects/9f"
-    },
-    {
-      "name": "69",
-      "relativePath": ".private/.git/objects/69"
-    },
-    {
-      "name": "info",
-      "relativePath": ".private/.git/objects/info"
-    },
-    {
-      "name": "pack",
-      "relativePath": ".private/.git/objects/pack"
+      "name": "remotes",
+      "relativePath": ".git/logs/refs/remotes"
     },
     {
       "name": "refs",
       "relativePath": ".private/.git/logs/refs"
     },
     {
-      "name": "remotes",
-      "relativePath": ".private/.git/refs/remotes"
+      "name": "1a",
+      "relativePath": ".private/.git/objects/1a"
     },
     {
-      "name": "origin",
-      "relativePath": ".git/refs/remotes/origin"
+      "name": "69",
+      "relativePath": ".private/.git/objects/69"
+    },
+    {
+      "name": "pack",
+      "relativePath": ".private/.git/objects/pack"
     },
     {
       "name": "heads",
       "relativePath": ".private/.git/refs/heads"
     },
     {
+      "name": "remotes",
+      "relativePath": ".private/.git/refs/remotes"
+    },
+    {
       "name": "tags",
       "relativePath": ".private/.git/refs/tags"
+    },
+    {
+      "name": "9f",
+      "relativePath": ".private/.git/objects/9f"
+    },
+    {
+      "name": "info",
+      "relativePath": ".private/.git/objects/info"
+    },
+    {
+      "name": "origin",
+      "relativePath": ".git/refs/remotes/origin"
     },
     {
       "name": "origin",
@@ -519,11 +559,6 @@
       "relativePath": ".git/COMMIT_EDITMSG"
     },
     {
-      "name": "HEAD",
-      "basename": "HEAD",
-      "relativePath": ".git/HEAD"
-    },
-    {
       "name": "ORIG_HEAD",
       "basename": "ORIG_HEAD",
       "relativePath": ".git/ORIG_HEAD"
@@ -534,14 +569,19 @@
       "relativePath": ".git/FETCH_HEAD"
     },
     {
+      "name": "description",
+      "basename": "description",
+      "relativePath": ".git/description"
+    },
+    {
       "name": "config",
       "basename": "config",
       "relativePath": ".git/config"
     },
     {
-      "name": "description",
-      "basename": "description",
-      "relativePath": ".git/description"
+      "name": "HEAD",
+      "basename": "HEAD",
+      "relativePath": ".git/HEAD"
     },
     {
       "name": "index",
@@ -549,19 +589,14 @@
       "relativePath": ".git/index"
     },
     {
-      "name": "packed-refs",
-      "basename": "packed-refs",
-      "relativePath": ".git/packed-refs"
-    },
-    {
       "name": "app.json",
       "basename": "app",
       "relativePath": ".obsidian/app.json"
     },
     {
-      "name": "appearance.json",
-      "basename": "appearance",
-      "relativePath": ".obsidian/appearance.json"
+      "name": "packed-refs",
+      "basename": "packed-refs",
+      "relativePath": ".git/packed-refs"
     },
     {
       "name": "backlink.json",
@@ -584,14 +619,19 @@
       "relativePath": ".obsidian/core-plugins.json"
     },
     {
-      "name": "hotkeys.json",
-      "basename": "hotkeys",
-      "relativePath": ".obsidian/hotkeys.json"
+      "name": "appearance.json",
+      "basename": "appearance",
+      "relativePath": ".obsidian/appearance.json"
     },
     {
       "name": "graph.json",
       "basename": "graph",
       "relativePath": ".obsidian/graph.json"
+    },
+    {
+      "name": "hotkeys.json",
+      "basename": "hotkeys",
+      "relativePath": ".obsidian/hotkeys.json"
     },
     {
       "name": "workspace.json",
@@ -614,11 +654,6 @@
       "relativePath": ".github/workflows/main.yml"
     },
     {
-      "name": "HEAD",
-      "basename": "HEAD",
-      "relativePath": ".private/.git/HEAD"
-    },
-    {
       "name": "COMMIT_EDITMSG",
       "basename": "COMMIT_EDITMSG",
       "relativePath": ".private/.git/COMMIT_EDITMSG"
@@ -634,6 +669,11 @@
       "relativePath": ".private/.git/description"
     },
     {
+      "name": "HEAD",
+      "basename": "HEAD",
+      "relativePath": ".private/.git/HEAD"
+    },
+    {
       "name": "index",
       "basename": "index",
       "relativePath": ".private/.git/index"
@@ -644,14 +684,14 @@
       "relativePath": ".private/.git/packed-refs"
     },
     {
-      "name": "applypatch-msg.sample",
-      "basename": "applypatch-msg",
-      "relativePath": ".git/hooks/applypatch-msg.sample"
-    },
-    {
       "name": "commit-msg.sample",
       "basename": "commit-msg",
       "relativePath": ".git/hooks/commit-msg.sample"
+    },
+    {
+      "name": "fsmonitor-watchman.sample",
+      "basename": "fsmonitor-watchman",
+      "relativePath": ".git/hooks/fsmonitor-watchman.sample"
     },
     {
       "name": "post-update.sample",
@@ -659,19 +699,9 @@
       "relativePath": ".git/hooks/post-update.sample"
     },
     {
-      "name": "pre-applypatch.sample",
-      "basename": "pre-applypatch",
-      "relativePath": ".git/hooks/pre-applypatch.sample"
-    },
-    {
-      "name": "pre-commit.sample",
-      "basename": "pre-commit",
-      "relativePath": ".git/hooks/pre-commit.sample"
-    },
-    {
-      "name": "pre-receive.sample",
-      "basename": "pre-receive",
-      "relativePath": ".git/hooks/pre-receive.sample"
+      "name": "applypatch-msg.sample",
+      "basename": "applypatch-msg",
+      "relativePath": ".git/hooks/applypatch-msg.sample"
     },
     {
       "name": "pre-merge-commit.sample",
@@ -684,14 +714,14 @@
       "relativePath": ".git/hooks/pre-push.sample"
     },
     {
-      "name": "fsmonitor-watchman.sample",
-      "basename": "fsmonitor-watchman",
-      "relativePath": ".git/hooks/fsmonitor-watchman.sample"
-    },
-    {
       "name": "pre-rebase.sample",
       "basename": "pre-rebase",
       "relativePath": ".git/hooks/pre-rebase.sample"
+    },
+    {
+      "name": "pre-receive.sample",
+      "basename": "pre-receive",
+      "relativePath": ".git/hooks/pre-receive.sample"
     },
     {
       "name": "prepare-commit-msg.sample",
@@ -704,9 +734,9 @@
       "relativePath": ".git/hooks/push-to-checkout.sample"
     },
     {
-      "name": "update.sample",
-      "basename": "update",
-      "relativePath": ".git/hooks/update.sample"
+      "name": "pre-applypatch.sample",
+      "basename": "pre-applypatch",
+      "relativePath": ".git/hooks/pre-applypatch.sample"
     },
     {
       "name": "sendemail-validate.sample",
@@ -714,14 +744,114 @@
       "relativePath": ".git/hooks/sendemail-validate.sample"
     },
     {
+      "name": "update.sample",
+      "basename": "update",
+      "relativePath": ".git/hooks/update.sample"
+    },
+    {
+      "name": "pre-commit.sample",
+      "basename": "pre-commit",
+      "relativePath": ".git/hooks/pre-commit.sample"
+    },
+    {
+      "name": "canvas.json",
+      "basename": "canvas",
+      "relativePath": ".obsidian/plugins/metadata-extractor/canvas.json"
+    },
+    {
+      "name": "data.json",
+      "basename": "data",
+      "relativePath": ".obsidian/plugins/metadata-extractor/data.json"
+    },
+    {
+      "name": "allExceptMd.json",
+      "basename": "allExceptMd",
+      "relativePath": ".obsidian/plugins/metadata-extractor/allExceptMd.json"
+    },
+    {
+      "name": "main.js",
+      "basename": "main",
+      "relativePath": ".obsidian/plugins/metadata-extractor/main.js"
+    },
+    {
+      "name": "main.js",
+      "basename": "main",
+      "relativePath": ".obsidian/plugins/obsidian-minimal-settings/main.js"
+    },
+    {
+      "name": "tags.json",
+      "basename": "tags",
+      "relativePath": ".obsidian/plugins/metadata-extractor/tags.json"
+    },
+    {
+      "name": "manifest.json",
+      "basename": "manifest",
+      "relativePath": ".obsidian/plugins/obsidian-minimal-settings/manifest.json"
+    },
+    {
+      "name": "manifest.json",
+      "basename": "manifest",
+      "relativePath": ".obsidian/themes/Atom/manifest.json"
+    },
+    {
+      "name": "theme.css",
+      "basename": "theme",
+      "relativePath": ".obsidian/themes/Atom/theme.css"
+    },
+    {
+      "name": "manifest.json",
+      "basename": "manifest",
+      "relativePath": ".obsidian/themes/Minimal/manifest.json"
+    },
+    {
+      "name": "styles.css",
+      "basename": "styles",
+      "relativePath": ".obsidian/plugins/obsidian-minimal-settings/styles.css"
+    },
+    {
+      "name": "theme.css",
+      "basename": "theme",
+      "relativePath": ".obsidian/themes/Minimal/theme.css"
+    },
+    {
+      "name": "manifest.json",
+      "basename": "manifest",
+      "relativePath": ".obsidian/plugins/show-hidden-files/manifest.json"
+    },
+    {
+      "name": "styles.css",
+      "basename": "styles",
+      "relativePath": ".obsidian/plugins/show-hidden-files/styles.css"
+    },
+    {
+      "name": "main.js",
+      "basename": "main",
+      "relativePath": ".obsidian/plugins/show-hidden-files/main.js"
+    },
+    {
+      "name": "manifest.json",
+      "basename": "manifest",
+      "relativePath": ".obsidian/plugins/metadata-extractor/manifest.json"
+    },
+    {
+      "name": "manifest.json",
+      "basename": "manifest",
+      "relativePath": ".obsidian/plugins/obsidian-git/manifest.json"
+    },
+    {
+      "name": "styles.css",
+      "basename": "styles",
+      "relativePath": ".obsidian/plugins/obsidian-git/styles.css"
+    },
+    {
+      "name": "main.js",
+      "basename": "main",
+      "relativePath": ".obsidian/plugins/obsidian-git/main.js"
+    },
+    {
       "name": "applypatch-msg.sample",
       "basename": "applypatch-msg",
       "relativePath": ".private/.git/hooks/applypatch-msg.sample"
-    },
-    {
-      "name": "commit-msg.sample",
-      "basename": "commit-msg",
-      "relativePath": ".private/.git/hooks/commit-msg.sample"
     },
     {
       "name": "fsmonitor-watchman.sample",
@@ -729,14 +859,29 @@
       "relativePath": ".private/.git/hooks/fsmonitor-watchman.sample"
     },
     {
+      "name": "post-update.sample",
+      "basename": "post-update",
+      "relativePath": ".private/.git/hooks/post-update.sample"
+    },
+    {
       "name": "pre-applypatch.sample",
       "basename": "pre-applypatch",
       "relativePath": ".private/.git/hooks/pre-applypatch.sample"
     },
     {
-      "name": "post-update.sample",
-      "basename": "post-update",
-      "relativePath": ".private/.git/hooks/post-update.sample"
+      "name": "commit-msg.sample",
+      "basename": "commit-msg",
+      "relativePath": ".private/.git/hooks/commit-msg.sample"
+    },
+    {
+      "name": "pre-merge-commit.sample",
+      "basename": "pre-merge-commit",
+      "relativePath": ".private/.git/hooks/pre-merge-commit.sample"
+    },
+    {
+      "name": "pre-push.sample",
+      "basename": "pre-push",
+      "relativePath": ".private/.git/hooks/pre-push.sample"
     },
     {
       "name": "pre-commit.sample",
@@ -749,14 +894,14 @@
       "relativePath": ".private/.git/hooks/pre-rebase.sample"
     },
     {
-      "name": "pre-push.sample",
-      "basename": "pre-push",
-      "relativePath": ".private/.git/hooks/pre-push.sample"
-    },
-    {
       "name": "pre-receive.sample",
       "basename": "pre-receive",
       "relativePath": ".private/.git/hooks/pre-receive.sample"
+    },
+    {
+      "name": "exclude",
+      "basename": "exclude",
+      "relativePath": ".private/.git/info/exclude"
     },
     {
       "name": "prepare-commit-msg.sample",
@@ -769,24 +914,9 @@
       "relativePath": ".private/.git/hooks/push-to-checkout.sample"
     },
     {
-      "name": "pre-merge-commit.sample",
-      "basename": "pre-merge-commit",
-      "relativePath": ".private/.git/hooks/pre-merge-commit.sample"
-    },
-    {
       "name": "sendemail-validate.sample",
       "basename": "sendemail-validate",
       "relativePath": ".private/.git/hooks/sendemail-validate.sample"
-    },
-    {
-      "name": "update.sample",
-      "basename": "update",
-      "relativePath": ".private/.git/hooks/update.sample"
-    },
-    {
-      "name": "exclude",
-      "basename": "exclude",
-      "relativePath": ".private/.git/info/exclude"
     },
     {
       "name": "HEAD",
@@ -794,184 +924,14 @@
       "relativePath": ".private/.git/logs/HEAD"
     },
     {
-      "name": "main.js",
-      "basename": "main",
-      "relativePath": ".obsidian/plugins/show-hidden-files/main.js"
+      "name": "update.sample",
+      "basename": "update",
+      "relativePath": ".private/.git/hooks/update.sample"
     },
     {
       "name": "main",
       "basename": "main",
       "relativePath": ".git/refs/heads/main"
-    },
-    {
-      "name": "styles.css",
-      "basename": "styles",
-      "relativePath": ".obsidian/plugins/show-hidden-files/styles.css"
-    },
-    {
-      "name": "manifest.json",
-      "basename": "manifest",
-      "relativePath": ".obsidian/plugins/show-hidden-files/manifest.json"
-    },
-    {
-      "name": "manifest.json",
-      "basename": "manifest",
-      "relativePath": ".obsidian/plugins/obsidian-git/manifest.json"
-    },
-    {
-      "name": "main.js",
-      "basename": "main",
-      "relativePath": ".obsidian/plugins/obsidian-git/main.js"
-    },
-    {
-      "name": "styles.css",
-      "basename": "styles",
-      "relativePath": ".obsidian/plugins/obsidian-minimal-settings/styles.css"
-    },
-    {
-      "name": "main.js",
-      "basename": "main",
-      "relativePath": ".obsidian/plugins/obsidian-minimal-settings/main.js"
-    },
-    {
-      "name": "styles.css",
-      "basename": "styles",
-      "relativePath": ".obsidian/plugins/obsidian-git/styles.css"
-    },
-    {
-      "name": "manifest.json",
-      "basename": "manifest",
-      "relativePath": ".obsidian/plugins/obsidian-minimal-settings/manifest.json"
-    },
-    {
-      "name": "allExceptMd.json",
-      "basename": "allExceptMd",
-      "relativePath": ".obsidian/plugins/metadata-extractor/allExceptMd.json"
-    },
-    {
-      "name": "tags.json",
-      "basename": "tags",
-      "relativePath": ".obsidian/plugins/metadata-extractor/tags.json"
-    },
-    {
-      "name": "data.json",
-      "basename": "data",
-      "relativePath": ".obsidian/plugins/metadata-extractor/data.json"
-    },
-    {
-      "name": "main.js",
-      "basename": "main",
-      "relativePath": ".obsidian/plugins/metadata-extractor/main.js"
-    },
-    {
-      "name": "manifest.json",
-      "basename": "manifest",
-      "relativePath": ".obsidian/plugins/metadata-extractor/manifest.json"
-    },
-    {
-      "name": "4b31ec74dd36f44d92c82545f993fd4b2d9946",
-      "basename": "4b31ec74dd36f44d92c82545f993fd4b2d9946",
-      "relativePath": ".git/objects/06/4b31ec74dd36f44d92c82545f993fd4b2d9946"
-    },
-    {
-      "name": "6faf9e4de13284652627e6a95034827648e1f2",
-      "basename": "6faf9e4de13284652627e6a95034827648e1f2",
-      "relativePath": ".git/objects/0b/6faf9e4de13284652627e6a95034827648e1f2"
-    },
-    {
-      "name": "37a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
-      "basename": "37a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
-      "relativePath": ".git/objects/06/37a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
-    },
-    {
-      "name": "d566508da5cf9e99ded05f336c10574720a7b4",
-      "basename": "d566508da5cf9e99ded05f336c10574720a7b4",
-      "relativePath": ".git/objects/0a/d566508da5cf9e99ded05f336c10574720a7b4"
-    },
-    {
-      "name": "canvas.json",
-      "basename": "canvas",
-      "relativePath": ".obsidian/plugins/metadata-extractor/canvas.json"
-    },
-    {
-      "name": "9ba3fc26f70553b6a1a62cd11c7cb48c4ac83b",
-      "basename": "9ba3fc26f70553b6a1a62cd11c7cb48c4ac83b",
-      "relativePath": ".git/objects/14/9ba3fc26f70553b6a1a62cd11c7cb48c4ac83b"
-    },
-    {
-      "name": "b7b200f5924a113bac43582f33d296dc9c8ebd",
-      "basename": "b7b200f5924a113bac43582f33d296dc9c8ebd",
-      "relativePath": ".git/objects/17/b7b200f5924a113bac43582f33d296dc9c8ebd"
-    },
-    {
-      "name": "22390ac9bd01e6830b37f04a94ffd12e579a4a",
-      "basename": "22390ac9bd01e6830b37f04a94ffd12e579a4a",
-      "relativePath": ".git/objects/10/22390ac9bd01e6830b37f04a94ffd12e579a4a"
-    },
-    {
-      "name": "ae815dd82eb3a81c22fa50bbe18e804911bdd4",
-      "basename": "ae815dd82eb3a81c22fa50bbe18e804911bdd4",
-      "relativePath": ".git/objects/26/ae815dd82eb3a81c22fa50bbe18e804911bdd4"
-    },
-    {
-      "name": "5117ad493b0ec3f71afd77140b2915541381b3",
-      "basename": "5117ad493b0ec3f71afd77140b2915541381b3",
-      "relativePath": ".git/objects/16/5117ad493b0ec3f71afd77140b2915541381b3"
-    },
-    {
-      "name": "85ae44d96d24b3698ffc065b45a27794a20168",
-      "basename": "85ae44d96d24b3698ffc065b45a27794a20168",
-      "relativePath": ".git/objects/19/85ae44d96d24b3698ffc065b45a27794a20168"
-    },
-    {
-      "name": "442f6fec4cb481319f12e9e1357c88b3ff356f",
-      "basename": "442f6fec4cb481319f12e9e1357c88b3ff356f",
-      "relativePath": ".git/objects/2f/442f6fec4cb481319f12e9e1357c88b3ff356f"
-    },
-    {
-      "name": "8ef1c17fb053e9dd86ac72962a56e1538a78bc",
-      "basename": "8ef1c17fb053e9dd86ac72962a56e1538a78bc",
-      "relativePath": ".git/objects/32/8ef1c17fb053e9dd86ac72962a56e1538a78bc"
-    },
-    {
-      "name": "ea5225335634223a12702de8ac75a182304efb",
-      "basename": "ea5225335634223a12702de8ac75a182304efb",
-      "relativePath": ".git/objects/36/ea5225335634223a12702de8ac75a182304efb"
-    },
-    {
-      "name": "0810ddadee1efb80ff2edbac0fc76afd9c145d",
-      "basename": "0810ddadee1efb80ff2edbac0fc76afd9c145d",
-      "relativePath": ".git/objects/1d/0810ddadee1efb80ff2edbac0fc76afd9c145d"
-    },
-    {
-      "name": "bd889ab1f3c300ec4d641dda837e4f814699be",
-      "basename": "bd889ab1f3c300ec4d641dda837e4f814699be",
-      "relativePath": ".git/objects/36/bd889ab1f3c300ec4d641dda837e4f814699be"
-    },
-    {
-      "name": "cdb1347792036be3a4ceb5fe49faace3c5f579",
-      "basename": "cdb1347792036be3a4ceb5fe49faace3c5f579",
-      "relativePath": ".git/objects/39/cdb1347792036be3a4ceb5fe49faace3c5f579"
-    },
-    {
-      "name": "a3d3e1e671dff0e872599454bbf0a7fc3cf808",
-      "basename": "a3d3e1e671dff0e872599454bbf0a7fc3cf808",
-      "relativePath": ".git/objects/39/a3d3e1e671dff0e872599454bbf0a7fc3cf808"
-    },
-    {
-      "name": "cd1d4f1018b2faa337443012912974e2ba3b96",
-      "basename": "cd1d4f1018b2faa337443012912974e2ba3b96",
-      "relativePath": ".git/objects/43/cd1d4f1018b2faa337443012912974e2ba3b96"
-    },
-    {
-      "name": "4cd5f338cdf9ccdc8552e68ac78f2801a760f4",
-      "basename": "4cd5f338cdf9ccdc8552e68ac78f2801a760f4",
-      "relativePath": ".git/objects/4e/4cd5f338cdf9ccdc8552e68ac78f2801a760f4"
-    },
-    {
-      "name": "f98ad8f2e4a97368a5e9a1974fd7f509a510b3",
-      "basename": "f98ad8f2e4a97368a5e9a1974fd7f509a510b3",
-      "relativePath": ".git/objects/3d/f98ad8f2e4a97368a5e9a1974fd7f509a510b3"
     },
     {
       "name": "b7336a0f9a0e92df506b4ffbf1062c8deb8446",
@@ -984,19 +944,84 @@
       "relativePath": ".git/objects/0a/d6f83ea77a3ddc106f926cf115ad5a4203aa50"
     },
     {
+      "name": "6faf9e4de13284652627e6a95034827648e1f2",
+      "basename": "6faf9e4de13284652627e6a95034827648e1f2",
+      "relativePath": ".git/objects/0b/6faf9e4de13284652627e6a95034827648e1f2"
+    },
+    {
+      "name": "ecc01d4c6691cb94480a0cca956e09acf3c43c",
+      "basename": "ecc01d4c6691cb94480a0cca956e09acf3c43c",
+      "relativePath": ".git/objects/0a/ecc01d4c6691cb94480a0cca956e09acf3c43c"
+    },
+    {
+      "name": "d566508da5cf9e99ded05f336c10574720a7b4",
+      "basename": "d566508da5cf9e99ded05f336c10574720a7b4",
+      "relativePath": ".git/objects/0a/d566508da5cf9e99ded05f336c10574720a7b4"
+    },
+    {
+      "name": "4b31ec74dd36f44d92c82545f993fd4b2d9946",
+      "basename": "4b31ec74dd36f44d92c82545f993fd4b2d9946",
+      "relativePath": ".git/objects/06/4b31ec74dd36f44d92c82545f993fd4b2d9946"
+    },
+    {
+      "name": "22390ac9bd01e6830b37f04a94ffd12e579a4a",
+      "basename": "22390ac9bd01e6830b37f04a94ffd12e579a4a",
+      "relativePath": ".git/objects/10/22390ac9bd01e6830b37f04a94ffd12e579a4a"
+    },
+    {
+      "name": "37a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
+      "basename": "37a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
+      "relativePath": ".git/objects/06/37a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
+    },
+    {
+      "name": "b7b200f5924a113bac43582f33d296dc9c8ebd",
+      "basename": "b7b200f5924a113bac43582f33d296dc9c8ebd",
+      "relativePath": ".git/objects/17/b7b200f5924a113bac43582f33d296dc9c8ebd"
+    },
+    {
+      "name": "5117ad493b0ec3f71afd77140b2915541381b3",
+      "basename": "5117ad493b0ec3f71afd77140b2915541381b3",
+      "relativePath": ".git/objects/16/5117ad493b0ec3f71afd77140b2915541381b3"
+    },
+    {
+      "name": "442f6fec4cb481319f12e9e1357c88b3ff356f",
+      "basename": "442f6fec4cb481319f12e9e1357c88b3ff356f",
+      "relativePath": ".git/objects/2f/442f6fec4cb481319f12e9e1357c88b3ff356f"
+    },
+    {
+      "name": "85ae44d96d24b3698ffc065b45a27794a20168",
+      "basename": "85ae44d96d24b3698ffc065b45a27794a20168",
+      "relativePath": ".git/objects/19/85ae44d96d24b3698ffc065b45a27794a20168"
+    },
+    {
+      "name": "0810ddadee1efb80ff2edbac0fc76afd9c145d",
+      "basename": "0810ddadee1efb80ff2edbac0fc76afd9c145d",
+      "relativePath": ".git/objects/1d/0810ddadee1efb80ff2edbac0fc76afd9c145d"
+    },
+    {
+      "name": "8ef1c17fb053e9dd86ac72962a56e1538a78bc",
+      "basename": "8ef1c17fb053e9dd86ac72962a56e1538a78bc",
+      "relativePath": ".git/objects/32/8ef1c17fb053e9dd86ac72962a56e1538a78bc"
+    },
+    {
+      "name": "9ba3fc26f70553b6a1a62cd11c7cb48c4ac83b",
+      "basename": "9ba3fc26f70553b6a1a62cd11c7cb48c4ac83b",
+      "relativePath": ".git/objects/14/9ba3fc26f70553b6a1a62cd11c7cb48c4ac83b"
+    },
+    {
+      "name": "ae815dd82eb3a81c22fa50bbe18e804911bdd4",
+      "basename": "ae815dd82eb3a81c22fa50bbe18e804911bdd4",
+      "relativePath": ".git/objects/26/ae815dd82eb3a81c22fa50bbe18e804911bdd4"
+    },
+    {
       "name": "c1146792e1ea6b181e0ed0c2ad184c36aeb84d",
       "basename": "c1146792e1ea6b181e0ed0c2ad184c36aeb84d",
       "relativePath": ".git/objects/49/c1146792e1ea6b181e0ed0c2ad184c36aeb84d"
     },
     {
-      "name": "a0fee682c582484641ce15a9b6e7589aae2a4f",
-      "basename": "a0fee682c582484641ce15a9b6e7589aae2a4f",
-      "relativePath": ".git/objects/58/a0fee682c582484641ce15a9b6e7589aae2a4f"
-    },
-    {
-      "name": "6d7f4bd769d29efb8567b773aac5de500be8bb",
-      "basename": "6d7f4bd769d29efb8567b773aac5de500be8bb",
-      "relativePath": ".git/objects/58/6d7f4bd769d29efb8567b773aac5de500be8bb"
+      "name": "5b84fcff34c1e8d9dac8a8bcd317d4bb22c627",
+      "basename": "5b84fcff34c1e8d9dac8a8bcd317d4bb22c627",
+      "relativePath": ".git/objects/3a/5b84fcff34c1e8d9dac8a8bcd317d4bb22c627"
     },
     {
       "name": "186e72637059c6df75c905dbe6c1c8ef14d39a",
@@ -1004,19 +1029,39 @@
       "relativePath": ".git/objects/55/186e72637059c6df75c905dbe6c1c8ef14d39a"
     },
     {
-      "name": "e8e62af764b456c3e4366d37966faf0cbd748d",
-      "basename": "e8e62af764b456c3e4366d37966faf0cbd748d",
-      "relativePath": ".git/objects/64/e8e62af764b456c3e4366d37966faf0cbd748d"
+      "name": "cd1d4f1018b2faa337443012912974e2ba3b96",
+      "basename": "cd1d4f1018b2faa337443012912974e2ba3b96",
+      "relativePath": ".git/objects/43/cd1d4f1018b2faa337443012912974e2ba3b96"
     },
     {
-      "name": "ee91363b0f645efc51813570ba195dfff11563",
-      "basename": "ee91363b0f645efc51813570ba195dfff11563",
-      "relativePath": ".git/objects/48/ee91363b0f645efc51813570ba195dfff11563"
+      "name": "f98ad8f2e4a97368a5e9a1974fd7f509a510b3",
+      "basename": "f98ad8f2e4a97368a5e9a1974fd7f509a510b3",
+      "relativePath": ".git/objects/3d/f98ad8f2e4a97368a5e9a1974fd7f509a510b3"
     },
     {
-      "name": "ee31d8344b968580655b04e87cd0143e4b8c6d",
-      "basename": "ee31d8344b968580655b04e87cd0143e4b8c6d",
-      "relativePath": ".git/objects/5f/ee31d8344b968580655b04e87cd0143e4b8c6d"
+      "name": "ea5225335634223a12702de8ac75a182304efb",
+      "basename": "ea5225335634223a12702de8ac75a182304efb",
+      "relativePath": ".git/objects/36/ea5225335634223a12702de8ac75a182304efb"
+    },
+    {
+      "name": "cdb1347792036be3a4ceb5fe49faace3c5f579",
+      "basename": "cdb1347792036be3a4ceb5fe49faace3c5f579",
+      "relativePath": ".git/objects/39/cdb1347792036be3a4ceb5fe49faace3c5f579"
+    },
+    {
+      "name": "bd889ab1f3c300ec4d641dda837e4f814699be",
+      "basename": "bd889ab1f3c300ec4d641dda837e4f814699be",
+      "relativePath": ".git/objects/36/bd889ab1f3c300ec4d641dda837e4f814699be"
+    },
+    {
+      "name": "5675a815112570b5beae0510be56d0e6ae5862",
+      "basename": "5675a815112570b5beae0510be56d0e6ae5862",
+      "relativePath": ".git/objects/56/5675a815112570b5beae0510be56d0e6ae5862"
+    },
+    {
+      "name": "4cd5f338cdf9ccdc8552e68ac78f2801a760f4",
+      "basename": "4cd5f338cdf9ccdc8552e68ac78f2801a760f4",
+      "relativePath": ".git/objects/4e/4cd5f338cdf9ccdc8552e68ac78f2801a760f4"
     },
     {
       "name": "1fcfde1ae60a54a587ab76d579cd20f7e9fda0",
@@ -1024,9 +1069,29 @@
       "relativePath": ".git/objects/58/1fcfde1ae60a54a587ab76d579cd20f7e9fda0"
     },
     {
-      "name": "a3cfc9817d6d6b3d4e933fc6265c5675c9cb3a",
-      "basename": "a3cfc9817d6d6b3d4e933fc6265c5675c9cb3a",
-      "relativePath": ".git/objects/66/a3cfc9817d6d6b3d4e933fc6265c5675c9cb3a"
+      "name": "ee91363b0f645efc51813570ba195dfff11563",
+      "basename": "ee91363b0f645efc51813570ba195dfff11563",
+      "relativePath": ".git/objects/48/ee91363b0f645efc51813570ba195dfff11563"
+    },
+    {
+      "name": "a6f863896c7117735683d60707dbb99ed4ec9f",
+      "basename": "a6f863896c7117735683d60707dbb99ed4ec9f",
+      "relativePath": ".git/objects/36/a6f863896c7117735683d60707dbb99ed4ec9f"
+    },
+    {
+      "name": "6d7f4bd769d29efb8567b773aac5de500be8bb",
+      "basename": "6d7f4bd769d29efb8567b773aac5de500be8bb",
+      "relativePath": ".git/objects/58/6d7f4bd769d29efb8567b773aac5de500be8bb"
+    },
+    {
+      "name": "a0fee682c582484641ce15a9b6e7589aae2a4f",
+      "basename": "a0fee682c582484641ce15a9b6e7589aae2a4f",
+      "relativePath": ".git/objects/58/a0fee682c582484641ce15a9b6e7589aae2a4f"
+    },
+    {
+      "name": "e8e62af764b456c3e4366d37966faf0cbd748d",
+      "basename": "e8e62af764b456c3e4366d37966faf0cbd748d",
+      "relativePath": ".git/objects/64/e8e62af764b456c3e4366d37966faf0cbd748d"
     },
     {
       "name": "a521afd9268987d587ad5fccd7927ab872528e",
@@ -1034,34 +1099,24 @@
       "relativePath": ".git/objects/4a/a521afd9268987d587ad5fccd7927ab872528e"
     },
     {
+      "name": "a3cfc9817d6d6b3d4e933fc6265c5675c9cb3a",
+      "basename": "a3cfc9817d6d6b3d4e933fc6265c5675c9cb3a",
+      "relativePath": ".git/objects/66/a3cfc9817d6d6b3d4e933fc6265c5675c9cb3a"
+    },
+    {
+      "name": "78bfd0b5e6f33c21266a6b85146fdf265904c8",
+      "basename": "78bfd0b5e6f33c21266a6b85146fdf265904c8",
+      "relativePath": ".git/objects/6a/78bfd0b5e6f33c21266a6b85146fdf265904c8"
+    },
+    {
       "name": "7e1b5dfd61b9ad0b281d09c3b7a8c4e6e56a41",
       "basename": "7e1b5dfd61b9ad0b281d09c3b7a8c4e6e56a41",
       "relativePath": ".git/objects/61/7e1b5dfd61b9ad0b281d09c3b7a8c4e6e56a41"
     },
     {
-      "name": "79db7afdaa32ef75f67600b4f25a5abe0464f8",
-      "basename": "79db7afdaa32ef75f67600b4f25a5abe0464f8",
-      "relativePath": ".git/objects/90/79db7afdaa32ef75f67600b4f25a5abe0464f8"
-    },
-    {
-      "name": "bb0cea01ec39f40018865dfa7086d9e4ae3e42",
-      "basename": "bb0cea01ec39f40018865dfa7086d9e4ae3e42",
-      "relativePath": ".git/objects/7c/bb0cea01ec39f40018865dfa7086d9e4ae3e42"
-    },
-    {
-      "name": "4ad1ed3030a13d9e096e9a671f46599ef3c0fe",
-      "basename": "4ad1ed3030a13d9e096e9a671f46599ef3c0fe",
-      "relativePath": ".git/objects/75/4ad1ed3030a13d9e096e9a671f46599ef3c0fe"
-    },
-    {
-      "name": "aa6dc10f562feb15da971e6b0f0b574fcbc94b",
-      "basename": "aa6dc10f562feb15da971e6b0f0b574fcbc94b",
-      "relativePath": ".git/objects/92/aa6dc10f562feb15da971e6b0f0b574fcbc94b"
-    },
-    {
-      "name": "a53f7cff021de86215658b2fb39588b0691cd3",
-      "basename": "a53f7cff021de86215658b2fb39588b0691cd3",
-      "relativePath": ".git/objects/75/a53f7cff021de86215658b2fb39588b0691cd3"
+      "name": "a3d3e1e671dff0e872599454bbf0a7fc3cf808",
+      "basename": "a3d3e1e671dff0e872599454bbf0a7fc3cf808",
+      "relativePath": ".git/objects/39/a3d3e1e671dff0e872599454bbf0a7fc3cf808"
     },
     {
       "name": "a114dfd19b68e119d5bdec357779546059777b",
@@ -1069,9 +1124,94 @@
       "relativePath": ".git/objects/65/a114dfd19b68e119d5bdec357779546059777b"
     },
     {
+      "name": "13490222138a9d52e50f4782969284fd43e8ce",
+      "basename": "13490222138a9d52e50f4782969284fd43e8ce",
+      "relativePath": ".git/objects/5c/13490222138a9d52e50f4782969284fd43e8ce"
+    },
+    {
+      "name": "4ad1ed3030a13d9e096e9a671f46599ef3c0fe",
+      "basename": "4ad1ed3030a13d9e096e9a671f46599ef3c0fe",
+      "relativePath": ".git/objects/75/4ad1ed3030a13d9e096e9a671f46599ef3c0fe"
+    },
+    {
+      "name": "a53f7cff021de86215658b2fb39588b0691cd3",
+      "basename": "a53f7cff021de86215658b2fb39588b0691cd3",
+      "relativePath": ".git/objects/75/a53f7cff021de86215658b2fb39588b0691cd3"
+    },
+    {
+      "name": "a164452b6813e18c1bde7f84458cd194655fe2",
+      "basename": "a164452b6813e18c1bde7f84458cd194655fe2",
+      "relativePath": ".git/objects/69/a164452b6813e18c1bde7f84458cd194655fe2"
+    },
+    {
+      "name": "ee31d8344b968580655b04e87cd0143e4b8c6d",
+      "basename": "ee31d8344b968580655b04e87cd0143e4b8c6d",
+      "relativePath": ".git/objects/5f/ee31d8344b968580655b04e87cd0143e4b8c6d"
+    },
+    {
+      "name": "7483e1f94ed07c4b275f749a3b04f01c1cedb6",
+      "basename": "7483e1f94ed07c4b275f749a3b04f01c1cedb6",
+      "relativePath": ".git/objects/70/7483e1f94ed07c4b275f749a3b04f01c1cedb6"
+    },
+    {
+      "name": "d4c2728223be8588a270e0f16efb88127fd6b1",
+      "basename": "d4c2728223be8588a270e0f16efb88127fd6b1",
+      "relativePath": ".git/objects/5c/d4c2728223be8588a270e0f16efb88127fd6b1"
+    },
+    {
       "name": "a5bc45524dcfba6a046e0b5fe262add1b0779f",
       "basename": "a5bc45524dcfba6a046e0b5fe262add1b0779f",
       "relativePath": ".git/objects/70/a5bc45524dcfba6a046e0b5fe262add1b0779f"
+    },
+    {
+      "name": "bb0cea01ec39f40018865dfa7086d9e4ae3e42",
+      "basename": "bb0cea01ec39f40018865dfa7086d9e4ae3e42",
+      "relativePath": ".git/objects/7c/bb0cea01ec39f40018865dfa7086d9e4ae3e42"
+    },
+    {
+      "name": "bd5c9d2722bc5c42057b5cb34188f718bbe3e7",
+      "basename": "bd5c9d2722bc5c42057b5cb34188f718bbe3e7",
+      "relativePath": ".git/objects/70/bd5c9d2722bc5c42057b5cb34188f718bbe3e7"
+    },
+    {
+      "name": "fad008e1ac60217b6fdd506224f746efee53e3",
+      "basename": "fad008e1ac60217b6fdd506224f746efee53e3",
+      "relativePath": ".git/objects/7b/fad008e1ac60217b6fdd506224f746efee53e3"
+    },
+    {
+      "name": "47079b2b30edb871945a80ffd8079eb34488fb",
+      "basename": "47079b2b30edb871945a80ffd8079eb34488fb",
+      "relativePath": ".git/objects/53/47079b2b30edb871945a80ffd8079eb34488fb"
+    },
+    {
+      "name": "42cd02b2539d22e6b73a9769b7b2534352f5fc",
+      "basename": "42cd02b2539d22e6b73a9769b7b2534352f5fc",
+      "relativePath": ".git/objects/6e/42cd02b2539d22e6b73a9769b7b2534352f5fc"
+    },
+    {
+      "name": "79db7afdaa32ef75f67600b4f25a5abe0464f8",
+      "basename": "79db7afdaa32ef75f67600b4f25a5abe0464f8",
+      "relativePath": ".git/objects/90/79db7afdaa32ef75f67600b4f25a5abe0464f8"
+    },
+    {
+      "name": "354ba034a19dcc7377375e686a8e39c6cdff94",
+      "basename": "354ba034a19dcc7377375e686a8e39c6cdff94",
+      "relativePath": ".git/objects/85/354ba034a19dcc7377375e686a8e39c6cdff94"
+    },
+    {
+      "name": "05bfdc224d3e5dfe9fe6116a4fd2955ab10a72",
+      "basename": "05bfdc224d3e5dfe9fe6116a4fd2955ab10a72",
+      "relativePath": ".git/objects/94/05bfdc224d3e5dfe9fe6116a4fd2955ab10a72"
+    },
+    {
+      "name": "aa6dc10f562feb15da971e6b0f0b574fcbc94b",
+      "basename": "aa6dc10f562feb15da971e6b0f0b574fcbc94b",
+      "relativePath": ".git/objects/92/aa6dc10f562feb15da971e6b0f0b574fcbc94b"
+    },
+    {
+      "name": "f71da1cd2afe82c1ef18f8cbd99ce0714cb0bd",
+      "basename": "f71da1cd2afe82c1ef18f8cbd99ce0714cb0bd",
+      "relativePath": ".git/objects/53/f71da1cd2afe82c1ef18f8cbd99ce0714cb0bd"
     },
     {
       "name": "26dfeeb6e641a33dae4961196235bdb965b21b",
@@ -1079,19 +1219,19 @@
       "relativePath": ".git/objects/9e/26dfeeb6e641a33dae4961196235bdb965b21b"
     },
     {
-      "name": "335cd37853a00cbf335ce3499671011969e328",
-      "basename": "335cd37853a00cbf335ce3499671011969e328",
-      "relativePath": ".git/objects/a6/335cd37853a00cbf335ce3499671011969e328"
+      "name": "f7110a6ad866d25d12ffd5662d1e46e8d5e725",
+      "basename": "f7110a6ad866d25d12ffd5662d1e46e8d5e725",
+      "relativePath": ".git/objects/9e/f7110a6ad866d25d12ffd5662d1e46e8d5e725"
     },
     {
-      "name": "b7e26f53d66242fb0762ad83b4da0a3a3d097e",
-      "basename": "b7e26f53d66242fb0762ad83b4da0a3a3d097e",
-      "relativePath": ".git/objects/96/b7e26f53d66242fb0762ad83b4da0a3a3d097e"
+      "name": "930979cb22edae65dd09bd41d719dab2c55ee1",
+      "basename": "930979cb22edae65dd09bd41d719dab2c55ee1",
+      "relativePath": ".git/objects/98/930979cb22edae65dd09bd41d719dab2c55ee1"
     },
     {
-      "name": "354ba034a19dcc7377375e686a8e39c6cdff94",
-      "basename": "354ba034a19dcc7377375e686a8e39c6cdff94",
-      "relativePath": ".git/objects/85/354ba034a19dcc7377375e686a8e39c6cdff94"
+      "name": "c831f0b085c70509b1fbb0a0131a9a32e691ac",
+      "basename": "c831f0b085c70509b1fbb0a0131a9a32e691ac",
+      "relativePath": ".git/objects/83/c831f0b085c70509b1fbb0a0131a9a32e691ac"
     },
     {
       "name": "77d42963e26820d85a75d5ddce174cb57bf376",
@@ -1104,24 +1244,9 @@
       "relativePath": ".git/objects/ac/f4039b2076f9e4620792dce0eb11c2c4e3d0dc"
     },
     {
-      "name": "42cd02b2539d22e6b73a9769b7b2534352f5fc",
-      "basename": "42cd02b2539d22e6b73a9769b7b2534352f5fc",
-      "relativePath": ".git/objects/6e/42cd02b2539d22e6b73a9769b7b2534352f5fc"
-    },
-    {
-      "name": "b1cc2480134251dcd873648a643e5bef484e11",
-      "basename": "b1cc2480134251dcd873648a643e5bef484e11",
-      "relativePath": ".git/objects/b7/b1cc2480134251dcd873648a643e5bef484e11"
-    },
-    {
-      "name": "a64857ed54ccfb9ef776fb8678e09fd3aa996d",
-      "basename": "a64857ed54ccfb9ef776fb8678e09fd3aa996d",
-      "relativePath": ".git/objects/a1/a64857ed54ccfb9ef776fb8678e09fd3aa996d"
-    },
-    {
-      "name": "930979cb22edae65dd09bd41d719dab2c55ee1",
-      "basename": "930979cb22edae65dd09bd41d719dab2c55ee1",
-      "relativePath": ".git/objects/98/930979cb22edae65dd09bd41d719dab2c55ee1"
+      "name": "115c905832adf8418ed8b33340c398b50f87c1",
+      "basename": "115c905832adf8418ed8b33340c398b50f87c1",
+      "relativePath": ".git/objects/8f/115c905832adf8418ed8b33340c398b50f87c1"
     },
     {
       "name": "424b1dce0c315af9d1192b5c30636175281414",
@@ -1129,39 +1254,34 @@
       "relativePath": ".git/objects/b5/424b1dce0c315af9d1192b5c30636175281414"
     },
     {
+      "name": "a64857ed54ccfb9ef776fb8678e09fd3aa996d",
+      "basename": "a64857ed54ccfb9ef776fb8678e09fd3aa996d",
+      "relativePath": ".git/objects/a1/a64857ed54ccfb9ef776fb8678e09fd3aa996d"
+    },
+    {
+      "name": "e658656c4b3a109649cbf225db025164c76749",
+      "basename": "e658656c4b3a109649cbf225db025164c76749",
+      "relativePath": ".git/objects/b8/e658656c4b3a109649cbf225db025164c76749"
+    },
+    {
+      "name": "b7e26f53d66242fb0762ad83b4da0a3a3d097e",
+      "basename": "b7e26f53d66242fb0762ad83b4da0a3a3d097e",
+      "relativePath": ".git/objects/96/b7e26f53d66242fb0762ad83b4da0a3a3d097e"
+    },
+    {
+      "name": "335cd37853a00cbf335ce3499671011969e328",
+      "basename": "335cd37853a00cbf335ce3499671011969e328",
+      "relativePath": ".git/objects/a6/335cd37853a00cbf335ce3499671011969e328"
+    },
+    {
+      "name": "b1cc2480134251dcd873648a643e5bef484e11",
+      "basename": "b1cc2480134251dcd873648a643e5bef484e11",
+      "relativePath": ".git/objects/b7/b1cc2480134251dcd873648a643e5bef484e11"
+    },
+    {
       "name": "c4fcfa7b90dac08827109c5ac11c0f8ff76503",
       "basename": "c4fcfa7b90dac08827109c5ac11c0f8ff76503",
       "relativePath": ".git/objects/b7/c4fcfa7b90dac08827109c5ac11c0f8ff76503"
-    },
-    {
-      "name": "f71da1cd2afe82c1ef18f8cbd99ce0714cb0bd",
-      "basename": "f71da1cd2afe82c1ef18f8cbd99ce0714cb0bd",
-      "relativePath": ".git/objects/53/f71da1cd2afe82c1ef18f8cbd99ce0714cb0bd"
-    },
-    {
-      "name": "c7528ea3a6f5d0681371073a22a5ff39ed05a2",
-      "basename": "c7528ea3a6f5d0681371073a22a5ff39ed05a2",
-      "relativePath": ".git/objects/b7/c7528ea3a6f5d0681371073a22a5ff39ed05a2"
-    },
-    {
-      "name": "371c18d9c75e27ef2b4560be4561a908b9b816",
-      "basename": "371c18d9c75e27ef2b4560be4561a908b9b816",
-      "relativePath": ".git/objects/a4/371c18d9c75e27ef2b4560be4561a908b9b816"
-    },
-    {
-      "name": "47079b2b30edb871945a80ffd8079eb34488fb",
-      "basename": "47079b2b30edb871945a80ffd8079eb34488fb",
-      "relativePath": ".git/objects/53/47079b2b30edb871945a80ffd8079eb34488fb"
-    },
-    {
-      "name": "c831f0b085c70509b1fbb0a0131a9a32e691ac",
-      "basename": "c831f0b085c70509b1fbb0a0131a9a32e691ac",
-      "relativePath": ".git/objects/83/c831f0b085c70509b1fbb0a0131a9a32e691ac"
-    },
-    {
-      "name": "05bfdc224d3e5dfe9fe6116a4fd2955ab10a72",
-      "basename": "05bfdc224d3e5dfe9fe6116a4fd2955ab10a72",
-      "relativePath": ".git/objects/94/05bfdc224d3e5dfe9fe6116a4fd2955ab10a72"
     },
     {
       "name": "21fbf784d3ceefcc53d7b3bdb73f7738dd7d0e",
@@ -1174,14 +1294,29 @@
       "relativePath": ".git/objects/b9/4a15251f7462bc7987ea18103ff88c518a116e"
     },
     {
-      "name": "13490222138a9d52e50f4782969284fd43e8ce",
-      "basename": "13490222138a9d52e50f4782969284fd43e8ce",
-      "relativePath": ".git/objects/5c/13490222138a9d52e50f4782969284fd43e8ce"
+      "name": "80e8462137e0d3f2026bdeae9d010676b768f7",
+      "basename": "80e8462137e0d3f2026bdeae9d010676b768f7",
+      "relativePath": ".git/objects/c1/80e8462137e0d3f2026bdeae9d010676b768f7"
     },
     {
-      "name": "78bfd0b5e6f33c21266a6b85146fdf265904c8",
-      "basename": "78bfd0b5e6f33c21266a6b85146fdf265904c8",
-      "relativePath": ".git/objects/6a/78bfd0b5e6f33c21266a6b85146fdf265904c8"
+      "name": "ec105e4e066a9138baf26e49a29d09a1a2b230",
+      "basename": "ec105e4e066a9138baf26e49a29d09a1a2b230",
+      "relativePath": ".git/objects/ad/ec105e4e066a9138baf26e49a29d09a1a2b230"
+    },
+    {
+      "name": "c7528ea3a6f5d0681371073a22a5ff39ed05a2",
+      "basename": "c7528ea3a6f5d0681371073a22a5ff39ed05a2",
+      "relativePath": ".git/objects/b7/c7528ea3a6f5d0681371073a22a5ff39ed05a2"
+    },
+    {
+      "name": "4e37366eb89789539abf442a5523712b57a9d5",
+      "basename": "4e37366eb89789539abf442a5523712b57a9d5",
+      "relativePath": ".git/objects/c9/4e37366eb89789539abf442a5523712b57a9d5"
+    },
+    {
+      "name": "967b6965a7d5578023a42350b77ee9c6620441",
+      "basename": "967b6965a7d5578023a42350b77ee9c6620441",
+      "relativePath": ".git/objects/cc/967b6965a7d5578023a42350b77ee9c6620441"
     },
     {
       "name": "90ca233926314939c05d744ff1f7acd81ca1e1",
@@ -1189,19 +1324,19 @@
       "relativePath": ".git/objects/bf/90ca233926314939c05d744ff1f7acd81ca1e1"
     },
     {
-      "name": "e658656c4b3a109649cbf225db025164c76749",
-      "basename": "e658656c4b3a109649cbf225db025164c76749",
-      "relativePath": ".git/objects/b8/e658656c4b3a109649cbf225db025164c76749"
-    },
-    {
-      "name": "80e8462137e0d3f2026bdeae9d010676b768f7",
-      "basename": "80e8462137e0d3f2026bdeae9d010676b768f7",
-      "relativePath": ".git/objects/c1/80e8462137e0d3f2026bdeae9d010676b768f7"
-    },
-    {
       "name": "c365d89b8b1bad158cba37051fc32cbc784c65",
       "basename": "c365d89b8b1bad158cba37051fc32cbc784c65",
       "relativePath": ".git/objects/c8/c365d89b8b1bad158cba37051fc32cbc784c65"
+    },
+    {
+      "name": "777437fe4bc6d15c366ea549e9c1ea1a091e9c",
+      "basename": "777437fe4bc6d15c366ea549e9c1ea1a091e9c",
+      "relativePath": ".git/objects/cf/777437fe4bc6d15c366ea549e9c1ea1a091e9c"
+    },
+    {
+      "name": "d338f283b7ba79809ce1be36e2a173cce0964d",
+      "basename": "d338f283b7ba79809ce1be36e2a173cce0964d",
+      "relativePath": ".git/objects/d0/d338f283b7ba79809ce1be36e2a173cce0964d"
     },
     {
       "name": "a6fc4ce0397df153384c3f60d77a42ac8cc6ac",
@@ -1214,34 +1349,9 @@
       "relativePath": ".git/objects/cf/0919eac816865d1ce5d6763722001624b5f82d"
     },
     {
-      "name": "967b6965a7d5578023a42350b77ee9c6620441",
-      "basename": "967b6965a7d5578023a42350b77ee9c6620441",
-      "relativePath": ".git/objects/cc/967b6965a7d5578023a42350b77ee9c6620441"
-    },
-    {
-      "name": "777437fe4bc6d15c366ea549e9c1ea1a091e9c",
-      "basename": "777437fe4bc6d15c366ea549e9c1ea1a091e9c",
-      "relativePath": ".git/objects/cf/777437fe4bc6d15c366ea549e9c1ea1a091e9c"
-    },
-    {
-      "name": "64c3a4a1f50e2ba14bfefe84248af63a79711e",
-      "basename": "64c3a4a1f50e2ba14bfefe84248af63a79711e",
-      "relativePath": ".git/objects/be/64c3a4a1f50e2ba14bfefe84248af63a79711e"
-    },
-    {
-      "name": "4e37366eb89789539abf442a5523712b57a9d5",
-      "basename": "4e37366eb89789539abf442a5523712b57a9d5",
-      "relativePath": ".git/objects/c9/4e37366eb89789539abf442a5523712b57a9d5"
-    },
-    {
-      "name": "b08063862e4d3cabbe0ad9d4cc22cfabe5c6ee",
-      "basename": "b08063862e4d3cabbe0ad9d4cc22cfabe5c6ee",
-      "relativePath": ".git/objects/d7/b08063862e4d3cabbe0ad9d4cc22cfabe5c6ee"
-    },
-    {
-      "name": "b4acc2831ae9834ce05fc7db0a03c94e8ece6b",
-      "basename": "b4acc2831ae9834ce05fc7db0a03c94e8ece6b",
-      "relativePath": ".git/objects/d3/b4acc2831ae9834ce05fc7db0a03c94e8ece6b"
+      "name": "371c18d9c75e27ef2b4560be4561a908b9b816",
+      "basename": "371c18d9c75e27ef2b4560be4561a908b9b816",
+      "relativePath": ".git/objects/a4/371c18d9c75e27ef2b4560be4561a908b9b816"
     },
     {
       "name": "2f4493427e9f2984bd52ed35b6b68b8a79affe",
@@ -1249,84 +1359,34 @@
       "relativePath": ".git/objects/d3/2f4493427e9f2984bd52ed35b6b68b8a79affe"
     },
     {
+      "name": "b4acc2831ae9834ce05fc7db0a03c94e8ece6b",
+      "basename": "b4acc2831ae9834ce05fc7db0a03c94e8ece6b",
+      "relativePath": ".git/objects/d3/b4acc2831ae9834ce05fc7db0a03c94e8ece6b"
+    },
+    {
+      "name": "bdab537cfeefeb5bbfa1db10642bcee74434df",
+      "basename": "bdab537cfeefeb5bbfa1db10642bcee74434df",
+      "relativePath": ".git/objects/cf/bdab537cfeefeb5bbfa1db10642bcee74434df"
+    },
+    {
+      "name": "7a4a100b28a2260c7a7b1f8164b8e1beee99df",
+      "basename": "7a4a100b28a2260c7a7b1f8164b8e1beee99df",
+      "relativePath": ".git/objects/be/7a4a100b28a2260c7a7b1f8164b8e1beee99df"
+    },
+    {
+      "name": "b08063862e4d3cabbe0ad9d4cc22cfabe5c6ee",
+      "basename": "b08063862e4d3cabbe0ad9d4cc22cfabe5c6ee",
+      "relativePath": ".git/objects/d7/b08063862e4d3cabbe0ad9d4cc22cfabe5c6ee"
+    },
+    {
       "name": "b54789d6a362dd0c14842bf2a2fc3420b0adbb",
       "basename": "b54789d6a362dd0c14842bf2a2fc3420b0adbb",
       "relativePath": ".git/objects/d7/b54789d6a362dd0c14842bf2a2fc3420b0adbb"
     },
     {
-      "name": "761f273cb6608a69ed3b896a2f250e628fa988",
-      "basename": "761f273cb6608a69ed3b896a2f250e628fa988",
-      "relativePath": ".git/objects/da/761f273cb6608a69ed3b896a2f250e628fa988"
-    },
-    {
-      "name": "d064962741146ea37b783bd02673a94afa9ba4",
-      "basename": "d064962741146ea37b783bd02673a94afa9ba4",
-      "relativePath": ".git/objects/df/d064962741146ea37b783bd02673a94afa9ba4"
-    },
-    {
-      "name": "1a18dc273108270255e8199871dcb9ca35db88",
-      "basename": "1a18dc273108270255e8199871dcb9ca35db88",
-      "relativePath": ".git/objects/e2/1a18dc273108270255e8199871dcb9ca35db88"
-    },
-    {
-      "name": "0348a6f20d69d8141aba57c132c3f2b9caca95",
-      "basename": "0348a6f20d69d8141aba57c132c3f2b9caca95",
-      "relativePath": ".git/objects/e2/0348a6f20d69d8141aba57c132c3f2b9caca95"
-    },
-    {
-      "name": "52db9305fc41c59db53641180d6e595e5ccd0c",
-      "basename": "52db9305fc41c59db53641180d6e595e5ccd0c",
-      "relativePath": ".git/objects/eb/52db9305fc41c59db53641180d6e595e5ccd0c"
-    },
-    {
-      "name": "9e4bd88c5146793b608978532246e48bab2aa4",
-      "basename": "9e4bd88c5146793b608978532246e48bab2aa4",
-      "relativePath": ".git/objects/dd/9e4bd88c5146793b608978532246e48bab2aa4"
-    },
-    {
-      "name": "545334fa9fea8c9395a04c805444a242380a46",
-      "basename": "545334fa9fea8c9395a04c805444a242380a46",
-      "relativePath": ".git/objects/f3/545334fa9fea8c9395a04c805444a242380a46"
-    },
-    {
-      "name": "5e4181406b84d8cddda962116ef1afd58f9fa6",
-      "basename": "5e4181406b84d8cddda962116ef1afd58f9fa6",
-      "relativePath": ".git/objects/f0/5e4181406b84d8cddda962116ef1afd58f9fa6"
-    },
-    {
-      "name": "703e50207f076e7f8a7ba5389c5b095f5ad734",
-      "basename": "703e50207f076e7f8a7ba5389c5b095f5ad734",
-      "relativePath": ".git/objects/f6/703e50207f076e7f8a7ba5389c5b095f5ad734"
-    },
-    {
-      "name": "797b1d73cebbd34b801a890886447a63ba6acf",
-      "basename": "797b1d73cebbd34b801a890886447a63ba6acf",
-      "relativePath": ".git/objects/f1/797b1d73cebbd34b801a890886447a63ba6acf"
-    },
-    {
-      "name": "a767f9f373107a1b9da7cb5279157dc69b6fb4",
-      "basename": "a767f9f373107a1b9da7cb5279157dc69b6fb4",
-      "relativePath": ".git/objects/fd/a767f9f373107a1b9da7cb5279157dc69b6fb4"
-    },
-    {
-      "name": "fb93a1a6ff6612b830a70e4b713bf0fa896412",
-      "basename": "fb93a1a6ff6612b830a70e4b713bf0fa896412",
-      "relativePath": ".git/objects/fa/fb93a1a6ff6612b830a70e4b713bf0fa896412"
-    },
-    {
-      "name": "0a3ca6d7e6a2c88bd4c24fd1466782359ad381",
-      "basename": "0a3ca6d7e6a2c88bd4c24fd1466782359ad381",
-      "relativePath": ".git/objects/f2/0a3ca6d7e6a2c88bd4c24fd1466782359ad381"
-    },
-    {
-      "name": "ec105e4e066a9138baf26e49a29d09a1a2b230",
-      "basename": "ec105e4e066a9138baf26e49a29d09a1a2b230",
-      "relativePath": ".git/objects/ad/ec105e4e066a9138baf26e49a29d09a1a2b230"
-    },
-    {
-      "name": "manifest.json",
-      "basename": "manifest",
-      "relativePath": ".obsidian/themes/Minimal/manifest.json"
+      "name": "64c3a4a1f50e2ba14bfefe84248af63a79711e",
+      "basename": "64c3a4a1f50e2ba14bfefe84248af63a79711e",
+      "relativePath": ".git/objects/be/64c3a4a1f50e2ba14bfefe84248af63a79711e"
     },
     {
       "name": "8c8395b1a9a424f8e557edc9d9b65db2cefc67",
@@ -1334,14 +1394,99 @@
       "relativePath": ".git/objects/ce/8c8395b1a9a424f8e557edc9d9b65db2cefc67"
     },
     {
-      "name": "theme.css",
-      "basename": "theme",
-      "relativePath": ".obsidian/themes/Minimal/theme.css"
+      "name": "7fd3ff44d457d2095f2c8ee48c4b9979fe2cd0",
+      "basename": "7fd3ff44d457d2095f2c8ee48c4b9979fe2cd0",
+      "relativePath": ".git/objects/e7/7fd3ff44d457d2095f2c8ee48c4b9979fe2cd0"
+    },
+    {
+      "name": "761f273cb6608a69ed3b896a2f250e628fa988",
+      "basename": "761f273cb6608a69ed3b896a2f250e628fa988",
+      "relativePath": ".git/objects/da/761f273cb6608a69ed3b896a2f250e628fa988"
+    },
+    {
+      "name": "7b124163dabd0ecea8b32c9040b1c6d4c51777",
+      "basename": "7b124163dabd0ecea8b32c9040b1c6d4c51777",
+      "relativePath": ".git/objects/da/7b124163dabd0ecea8b32c9040b1c6d4c51777"
+    },
+    {
+      "name": "1804e12a07561b20a52515ff870b76ad03a669",
+      "basename": "1804e12a07561b20a52515ff870b76ad03a669",
+      "relativePath": ".git/objects/d5/1804e12a07561b20a52515ff870b76ad03a669"
+    },
+    {
+      "name": "d064962741146ea37b783bd02673a94afa9ba4",
+      "basename": "d064962741146ea37b783bd02673a94afa9ba4",
+      "relativePath": ".git/objects/df/d064962741146ea37b783bd02673a94afa9ba4"
+    },
+    {
+      "name": "5e4181406b84d8cddda962116ef1afd58f9fa6",
+      "basename": "5e4181406b84d8cddda962116ef1afd58f9fa6",
+      "relativePath": ".git/objects/f0/5e4181406b84d8cddda962116ef1afd58f9fa6"
+    },
+    {
+      "name": "0a3ca6d7e6a2c88bd4c24fd1466782359ad381",
+      "basename": "0a3ca6d7e6a2c88bd4c24fd1466782359ad381",
+      "relativePath": ".git/objects/f2/0a3ca6d7e6a2c88bd4c24fd1466782359ad381"
+    },
+    {
+      "name": "3e9a4f26eaaef6ee9487e877d2297f8ec59896",
+      "basename": "3e9a4f26eaaef6ee9487e877d2297f8ec59896",
+      "relativePath": ".git/objects/f0/3e9a4f26eaaef6ee9487e877d2297f8ec59896"
+    },
+    {
+      "name": "0348a6f20d69d8141aba57c132c3f2b9caca95",
+      "basename": "0348a6f20d69d8141aba57c132c3f2b9caca95",
+      "relativePath": ".git/objects/e2/0348a6f20d69d8141aba57c132c3f2b9caca95"
+    },
+    {
+      "name": "797b1d73cebbd34b801a890886447a63ba6acf",
+      "basename": "797b1d73cebbd34b801a890886447a63ba6acf",
+      "relativePath": ".git/objects/f1/797b1d73cebbd34b801a890886447a63ba6acf"
+    },
+    {
+      "name": "e5d38727c6d9302aa813437de24817aba2d092",
+      "basename": "e5d38727c6d9302aa813437de24817aba2d092",
+      "relativePath": ".git/objects/f8/e5d38727c6d9302aa813437de24817aba2d092"
+    },
+    {
+      "name": "1a18dc273108270255e8199871dcb9ca35db88",
+      "basename": "1a18dc273108270255e8199871dcb9ca35db88",
+      "relativePath": ".git/objects/e2/1a18dc273108270255e8199871dcb9ca35db88"
+    },
+    {
+      "name": "fb93a1a6ff6612b830a70e4b713bf0fa896412",
+      "basename": "fb93a1a6ff6612b830a70e4b713bf0fa896412",
+      "relativePath": ".git/objects/fa/fb93a1a6ff6612b830a70e4b713bf0fa896412"
+    },
+    {
+      "name": "9e4bd88c5146793b608978532246e48bab2aa4",
+      "basename": "9e4bd88c5146793b608978532246e48bab2aa4",
+      "relativePath": ".git/objects/dd/9e4bd88c5146793b608978532246e48bab2aa4"
+    },
+    {
+      "name": "a767f9f373107a1b9da7cb5279157dc69b6fb4",
+      "basename": "a767f9f373107a1b9da7cb5279157dc69b6fb4",
+      "relativePath": ".git/objects/fd/a767f9f373107a1b9da7cb5279157dc69b6fb4"
+    },
+    {
+      "name": "703e50207f076e7f8a7ba5389c5b095f5ad734",
+      "basename": "703e50207f076e7f8a7ba5389c5b095f5ad734",
+      "relativePath": ".git/objects/f6/703e50207f076e7f8a7ba5389c5b095f5ad734"
+    },
+    {
+      "name": "52db9305fc41c59db53641180d6e595e5ccd0c",
+      "basename": "52db9305fc41c59db53641180d6e595e5ccd0c",
+      "relativePath": ".git/objects/eb/52db9305fc41c59db53641180d6e595e5ccd0c"
     },
     {
       "name": "pack-89bb6a4da335d841c1a262bd72412ed6a966e86a.pack",
       "basename": "pack-89bb6a4da335d841c1a262bd72412ed6a966e86a",
       "relativePath": ".git/objects/pack/pack-89bb6a4da335d841c1a262bd72412ed6a966e86a.pack"
+    },
+    {
+      "name": "21dac809882fff3c3501b293ee1fec59d0a34c",
+      "basename": "21dac809882fff3c3501b293ee1fec59d0a34c",
+      "relativePath": ".git/objects/fb/21dac809882fff3c3501b293ee1fec59d0a34c"
     },
     {
       "name": "pack-89bb6a4da335d841c1a262bd72412ed6a966e86a.rev",
@@ -1354,14 +1499,14 @@
       "relativePath": ".git/objects/pack/pack-89bb6a4da335d841c1a262bd72412ed6a966e86a.idx"
     },
     {
-      "name": "21dac809882fff3c3501b293ee1fec59d0a34c",
-      "basename": "21dac809882fff3c3501b293ee1fec59d0a34c",
-      "relativePath": ".git/objects/fb/21dac809882fff3c3501b293ee1fec59d0a34c"
+      "name": "545334fa9fea8c9395a04c805444a242380a46",
+      "basename": "545334fa9fea8c9395a04c805444a242380a46",
+      "relativePath": ".git/objects/f3/545334fa9fea8c9395a04c805444a242380a46"
     },
     {
-      "name": "4313b0e6656f5ceaf34d093e2a29505fc51ea9",
-      "basename": "4313b0e6656f5ceaf34d093e2a29505fc51ea9",
-      "relativePath": ".private/.git/objects/69/4313b0e6656f5ceaf34d093e2a29505fc51ea9"
+      "name": "main",
+      "basename": "main",
+      "relativePath": ".git/logs/refs/heads/main"
     },
     {
       "name": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.idx",
@@ -1371,12 +1516,17 @@
     {
       "name": "main",
       "basename": "main",
-      "relativePath": ".git/logs/refs/heads/main"
+      "relativePath": ".private/.git/refs/heads/main"
     },
     {
-      "name": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.pack",
+      "name": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.rev",
       "basename": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055",
-      "relativePath": ".private/.git/objects/pack/pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.pack"
+      "relativePath": ".private/.git/objects/pack/pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.rev"
+    },
+    {
+      "name": "main",
+      "basename": "main",
+      "relativePath": ".git/refs/remotes/origin/main"
     },
     {
       "name": "6d29217bc9a595ec0b8c4d5414a3d9459375d6",
@@ -1384,9 +1534,14 @@
       "relativePath": ".private/.git/objects/9f/6d29217bc9a595ec0b8c4d5414a3d9459375d6"
     },
     {
-      "name": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.rev",
+      "name": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.pack",
       "basename": "pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055",
-      "relativePath": ".private/.git/objects/pack/pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.rev"
+      "relativePath": ".private/.git/objects/pack/pack-6fb07a0c5cdeef4459a80d7c5bfa03a6ceefe055.pack"
+    },
+    {
+      "name": "4313b0e6656f5ceaf34d093e2a29505fc51ea9",
+      "basename": "4313b0e6656f5ceaf34d093e2a29505fc51ea9",
+      "relativePath": ".private/.git/objects/69/4313b0e6656f5ceaf34d093e2a29505fc51ea9"
     },
     {
       "name": "HEAD",
@@ -1397,16 +1552,6 @@
       "name": "b9a57be42703adae716f48cddfcaab5296c9aa",
       "basename": "b9a57be42703adae716f48cddfcaab5296c9aa",
       "relativePath": ".private/.git/objects/1a/b9a57be42703adae716f48cddfcaab5296c9aa"
-    },
-    {
-      "name": "main",
-      "basename": "main",
-      "relativePath": ".private/.git/refs/heads/main"
-    },
-    {
-      "name": "main",
-      "basename": "main",
-      "relativePath": ".git/refs/remotes/origin/main"
     },
     {
       "name": "HEAD",
@@ -1424,14 +1569,14 @@
       "relativePath": ".private/.git/refs/remotes/origin/main"
     },
     {
-      "name": "HEAD",
-      "basename": "HEAD",
-      "relativePath": ".private/.git/refs/remotes/origin/HEAD"
-    },
-    {
       "name": "main",
       "basename": "main",
       "relativePath": ".private/.git/logs/refs/heads/main"
+    },
+    {
+      "name": "HEAD",
+      "basename": "HEAD",
+      "relativePath": ".private/.git/refs/remotes/origin/HEAD"
     },
     {
       "name": "HEAD",

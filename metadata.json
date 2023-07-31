@@ -1,5 +1,15 @@
 [
   {
+    "fileName": "README",
+    "relativePath": ".private/README.md",
+    "headings": [
+      {
+        "heading": "zk-private",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "priv-test",
     "relativePath": ".private/priv-test.md",
     "headings": [
@@ -23,16 +33,6 @@
     ]
   },
   {
-    "fileName": "README",
-    "relativePath": ".private/README.md",
-    "headings": [
-      {
-        "heading": "zk-private",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "test4",
     "relativePath": "test4.md",
     "headings": [
@@ -49,6 +49,10 @@
     ]
   },
   {
+    "fileName": "test3",
+    "relativePath": "test3.md"
+  },
+  {
     "fileName": "test2",
     "relativePath": "test2.md",
     "links": [
@@ -57,10 +61,6 @@
         "relativePath": "test.md"
       }
     ]
-  },
-  {
-    "fileName": "test3",
-    "relativePath": "test3.md"
   },
   {
     "fileName": "test",
