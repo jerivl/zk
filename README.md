@@ -10,7 +10,7 @@ This site can navigated through the directory menu on the left, the global graph
 I denote the purpose of each file though its parent directory.
 ##  Blog: `/blog`
 Contains permanent articles regarding my opinions and experiences in mathematics, engineering, academia, etc. The only changes that I intend to make to these articles are technical corrections or ethical amendments should they arise. In most cases these will be appended to the end of the article. 
-## Literature Notes: `/lit`
+## Literature Notes: `/literature`
 Contains summaries and highlights from published works. Due to licensing reasons, I will not be able to host any linked PDFs publicly, but I will do my best of maintaining current bibliographic information. 
 ## Atomic Notes: `/atomic`
 Contains atomic notes, each containing a singular topic, to later be linked and referenced by related topics similar to other wiki style knowledge bases. These are heavily inspired by the [ method of Evergreen notes / Zettlekasten note taking](https://notes.andymatuschak.org/Evergreen_notes).

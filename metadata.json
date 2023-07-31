@@ -1,17 +1,19 @@
 [
   {
-    "fileName": "priv-test",
-    "relativePath": ".private/priv-test.md"
+    "fileName": "README",
+    "relativePath": ".private/README.md"
   },
   {
     "fileName": "README",
-    "relativePath": ".private/README.md",
-    "headings": [
-      {
-        "heading": "zk-private",
-        "level": 1
-      }
-    ]
+    "relativePath": "literature/README.md"
+  },
+  {
+    "fileName": "README",
+    "relativePath": "blog/README.md"
+  },
+  {
+    "fileName": "README",
+    "relativePath": "atomic/README.md"
   },
   {
     "fileName": "README",
@@ -34,7 +36,7 @@
         "level": 2
       },
       {
-        "heading": "Literature Notes: `/lit`",
+        "heading": "Literature Notes: `/literature`",
         "level": 2
       },
       {

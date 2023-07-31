@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/README.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,25 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aedbe5ca4a0e269",
+  "active": "fbaf46fd12f7ae83",
   "lastOpenFiles": [
-    ".git/objects/5a",
-    ".git/objects/5a/4dfb7f55e404053a45eddfa8e0969946b962b3",
-    ".git/objects/d7/33e240811f59fa85e2a1d468feefd4d137f291",
-    ".git/objects/93",
-    ".git/objects/93/2a8ebfc8d8d30c396a4a41e69b15dc467b4dc8",
-    ".git/objects/a8",
-    ".git/objects/a8/b6b599394079c1d18bc6ec418d034403036e50",
-    ".git/index.lock",
-    "atomic/README.md",
     ".private/README.md",
-    "literature/README.md",
-    ".private/priv-test.md",
-    ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-    ".git/objects/e6",
+    "atomic/README.md",
     "blog/README.md",
+    "literature/README.md",
     "README.md",
-    ".git/objects/8e",
+    ".git/objects/51",
+    ".git/objects/51/43762295ce9a1e2547dce888b0e4fef1a6488c",
+    ".git/objects/53/88ee001509a81b492c4f2add872f847dbfa7de",
+    ".git/objects/f9/3e3a1a1525fb5b91020da86e44810c87a2d7bc",
+    ".git/objects/f9",
+    ".git/objects/04/78459018b7e474c14986da2031e0a7dcc4a890",
+    ".git/objects/72",
+    ".git/objects/72/a50c0094975803de90959fbac8b94ee5c9d8dc",
+    ".git/objects/8c",
+    ".git/objects/8c/e3078a67a2091cdf0addad479adc686b4b928f",
+    ".private/priv-test.md",
     "test.md",
     "markdown-sample.md",
     "markdown-sample3.md",
