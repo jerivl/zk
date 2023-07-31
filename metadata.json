@@ -1,154 +1,15 @@
 [
   {
+    "fileName": "priv-test",
+    "relativePath": ".private/priv-test.md"
+  },
+  {
     "fileName": "README",
     "relativePath": ".private/README.md",
     "headings": [
       {
         "heading": "zk-private",
         "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "priv-test",
-    "relativePath": ".private/priv-test.md",
-    "headings": [
-      {
-        "heading": "linking to public file",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "test",
-        "relativePath": "test.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "test4",
-        "link": "priv-test",
-        "relativePath": "test4.md"
-      }
-    ]
-  },
-  {
-    "fileName": "test4",
-    "relativePath": "test4.md",
-    "headings": [
-      {
-        "heading": "linking to private file",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "priv-test",
-        "relativePath": ".private/priv-test.md"
-      }
-    ]
-  },
-  {
-    "fileName": "test3",
-    "relativePath": "test3.md"
-  },
-  {
-    "fileName": "test2",
-    "relativePath": "test2.md",
-    "links": [
-      {
-        "link": "test",
-        "relativePath": "test.md"
-      }
-    ]
-  },
-  {
-    "fileName": "test",
-    "relativePath": "test.md",
-    "headings": [
-      {
-        "heading": "test",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "priv-test",
-        "link": "test",
-        "relativePath": ".private/priv-test.md"
-      },
-      {
-        "fileName": "test2",
-        "link": "test",
-        "relativePath": "test2.md"
-      }
-    ]
-  },
-  {
-    "fileName": "markdown-sample3",
-    "relativePath": "markdown-sample3.md",
-    "tags": [
-      "tag1",
-      "tag2",
-      "tag-test"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 5,
-          "col": 3,
-          "offset": 44
-        }
-      }
-    }
-  },
-  {
-    "fileName": "markdown-sample",
-    "relativePath": "markdown-sample.md",
-    "headings": [
-      {
-        "heading": "LaTeX",
-        "level": 2
-      },
-      {
-        "heading": "Mermaid",
-        "level": 2
-      },
-      {
-        "heading": "Paragraphs",
-        "level": 2
-      },
-      {
-        "heading": "An h1 header",
-        "level": 1
-      },
-      {
-        "heading": "An h2 header",
-        "level": 2
-      },
-      {
-        "heading": "An h3 header",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "markdown & sample2"
-      },
-      {
-        "link": "markdown & sample2",
-        "displayText": "Custom Link Name"
-      },
-      {
-        "link": "#Paragraphs",
-        "relativePath": "markdown-sample.md",
-        "cleanLink": "markdown-sample",
-        "displayText": "Paragraphs"
       }
     ]
   },
@@ -169,23 +30,31 @@
         "level": 1
       },
       {
-        "heading": "`/blog`",
+        "heading": "Blog: `/blog`",
         "level": 2
       },
       {
-        "heading": "`/literature`",
+        "heading": "Literature Notes: `/lit`",
         "level": 2
       },
       {
-        "heading": "`/atomic`",
+        "heading": "Atomic Notes: `/atomic`",
         "level": 2
-      },
-      {
-        "heading": "Recently added",
-        "level": 1
       },
       {
         "heading": "Issues",
+        "level": 1
+      },
+      {
+        "heading": "Content Related Issues",
+        "level": 3
+      },
+      {
+        "heading": "Web Related Issues",
+        "level": 3
+      },
+      {
+        "heading": "Licensing",
         "level": 1
       }
     ]
