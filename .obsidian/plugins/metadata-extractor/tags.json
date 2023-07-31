@@ -1,35 +1,250 @@
 [
   {
-    "tag": "todo",
-    "tagCount": 11,
+    "tag": "acoustics",
+    "tagCount": 3,
     "relativePaths": [
-      ".private/daily/merge folders.md",
-      ".private/daily/early learning regularization.md",
-      ".private/daily/Pi-KVM on a Raspberry Pi Zero W - EOL.md",
-      ".private/daily/20220511202300.md",
-      ".private/daily/20211116120000.md",
-      ".private/daily/20210916120000.md",
-      ".private/daily/20210718200603.md",
-      ".private/daily/20200123122206.md"
+      ".private/daily/todo/20200812041756.md",
+      ".private/daily/todo/20200109120100.md",
+      ".private/daily/todo/20200109120000.md"
+    ]
+  },
+  {
+    "tag": "coctailparty",
+    "tagCount": 2,
+    "relativePaths": [
+      ".private/daily/todo/20200812041756.md",
+      ".private/daily/todo/20200109120100.md"
+    ]
+  },
+  {
+    "tag": "toread",
+    "tagCount": 20,
+    "relativePaths": [
+      ".private/daily/todo/20200812041756.md",
+      ".private/daily/todo/20200201145100.md",
+      ".private/daily/todo/20200126204100.md",
+      ".private/daily/todo/20200226210837.md",
+      ".private/daily/todo/20200123122600.md",
+      ".private/daily/todo/20200123122206.md",
+      ".private/daily/todo/20200123122533.md",
+      ".private/daily/todo/20200109120100.md",
+      ".private/daily/todo/20200109120000.md",
+      ".private/daily/20230606105400.md",
+      ".private/daily/20230607140634.md",
+      ".private/daily/20230420131300.md",
+      ".private/daily/20230418102300.md",
+      ".private/daily/20230218120423.md",
+      ".private/daily/20210113103517.md",
+      ".private/daily/20210122185558.md",
+      ".private/daily/20200929201929.md",
+      ".private/daily/20200123122903.md",
+      "20200820193500.md"
+    ]
+  },
+  {
+    "tag": "audioprocessing",
+    "tagCount": 10,
+    "relativePaths": [
+      ".private/daily/todo/20200323171100.md",
+      ".private/daily/todo/20200219155300.md",
+      ".private/daily/todo/20200201145100.md",
+      ".private/daily/todo/20200126204100.md",
+      ".private/daily/todo/20200123122600.md",
+      ".private/daily/todo/20200109201159.md",
+      ".private/daily/todo/20200110020043.md",
+      ".private/daily/20200929201929.md",
+      ".private/daily/20200929201819.md",
+      "20200820193500.md"
     ]
   },
   {
     "tag": "deeplearning",
     "tagCount": 13,
     "relativePaths": [
+      ".private/daily/todo/20200323171100.md",
+      ".private/daily/todo/20200126204100.md",
+      ".private/daily/todo/20200123122600.md",
+      ".private/daily/todo/20200123122206.md",
+      ".private/daily/todo/20200123122533.md",
+      ".private/daily/todo/20200109201159.md",
       ".private/daily/early learning regularization.md",
       ".private/daily/20230506142129.md",
       ".private/daily/20230218120423.md",
-      ".private/daily/20210122185558.md",
-      ".private/daily/20210113103517.md",
       ".private/daily/20201029134413.md",
+      ".private/daily/20210113103517.md",
+      ".private/daily/20210122185558.md",
+      ".private/daily/20200325205502.md"
+    ]
+  },
+  {
+    "tag": "speechprocessing",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/todo/20200323171100.md"
+    ]
+  },
+  {
+    "tag": "featureextraction",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/todo/20200219155300.md"
+    ]
+  },
+  {
+    "tag": "python",
+    "tagCount": 7,
+    "relativePaths": [
+      ".private/daily/todo/20200219155300.md",
+      ".private/daily/20201029134413.md",
+      ".private/daily/20200924000000.md",
       ".private/daily/20200325205502.md",
-      ".private/daily/20200323171100.md",
-      ".private/daily/20200126204100.md",
-      ".private/daily/20200123122533.md",
-      ".private/daily/20200123122600.md",
-      ".private/daily/20200123122206.md",
-      ".private/daily/20200109201159.md"
+      ".private/daily/20200416000000.md",
+      ".private/daily/20200323000100.md",
+      ".private/daily/20200123000000.md"
+    ]
+  },
+  {
+    "tag": "fewshot",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/todo/20200201145100.md"
+    ]
+  },
+  {
+    "tag": "audiosynthesis",
+    "tagCount": 3,
+    "relativePaths": [
+      ".private/daily/todo/20200201145100.md",
+      ".private/daily/todo/20200110020043.md",
+      ".private/daily/20200908000000.md"
+    ]
+  },
+  {
+    "tag": "quasiperiodicity",
+    "tagCount": 2,
+    "relativePaths": [
+      ".private/daily/todo/20200126204100.md",
+      ".private/daily/20220801150223.md"
+    ]
+  },
+  {
+    "tag": "speechenhancement",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/todo/20200226210837.md"
+    ]
+  },
+  {
+    "tag": "teacherstudent",
+    "tagCount": 2,
+    "relativePaths": [
+      ".private/daily/todo/20200226210837.md",
+      ".private/daily/todo/20200123122533.md"
+    ]
+  },
+  {
+    "tag": "multitasklearning",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/todo/20200226210837.md"
+    ]
+  },
+  {
+    "tag": "noisydata",
+    "tagCount": 4,
+    "relativePaths": [
+      ".private/daily/todo/20200226210837.md",
+      ".private/daily/early learning regularization.md",
+      ".private/daily/20200929201929.md",
+      ".private/daily/20200824000100.md"
+    ]
+  },
+  {
+    "tag": "q",
+    "tagCount": 8,
+    "relativePaths": [
+      ".private/daily/todo/20200226210837.md",
+      ".private/daily/20230625182326.md",
+      ".private/daily/20230506142129.md",
+      ".private/daily/20230515120846.md",
+      ".private/daily/20220716180700.md",
+      ".private/daily/20220511205000.md",
+      ".private/daily/20220511202300.md",
+      ".private/daily/20211016120000.md"
+    ]
+  },
+  {
+    "tag": "todo",
+    "tagCount": 8,
+    "relativePaths": [
+      ".private/daily/todo/20200123122206.md",
+      ".private/daily/merge folders.md",
+      ".private/daily/early learning regularization.md",
+      ".private/daily/Pi-KVM on a Raspberry Pi Zero W - EOL.md",
+      ".private/daily/20220511202300.md",
+      ".private/daily/20210916120000.md",
+      ".private/daily/20211116120000.md",
+      ".private/daily/20210718200603.md"
+    ]
+  },
+  {
+    "tag": "attention",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/todo/20200123122206.md"
+    ]
+  },
+  {
+    "tag": "transformers",
+    "tagCount": 3,
+    "relativePaths": [
+      ".private/daily/todo/20200123122206.md",
+      ".private/daily/20210226154343.md",
+      ".private/daily/20200812000000.md"
+    ]
+  },
+  {
+    "tag": "gan",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/todo/20200123122533.md"
+    ]
+  },
+  {
+    "tag": "musicinformationretrieval",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/todo/20200110020043.md"
+    ]
+  },
+  {
+    "tag": "signalprocessing",
+    "tagCount": 17,
+    "relativePaths": [
+      ".private/daily/todo/20191025205846.md",
+      ".private/daily/20230417133100.md",
+      ".private/daily/20220304090937.md",
+      ".private/daily/20220523161100.md",
+      ".private/daily/20220509100000.md",
+      ".private/daily/20210916120000.md",
+      ".private/daily/20211016120000.md",
+      ".private/daily/20211116120000.md",
+      ".private/daily/20210816120000.md",
+      ".private/daily/20210512145255.md",
+      ".private/daily/20210221111604.md",
+      ".private/daily/20210214203649.md",
+      ".private/daily/20210211171014.md",
+      ".private/daily/20201026171334.md",
+      ".private/daily/20200128114550.md",
+      ".private/daily/20200126224010.md",
+      ".private/daily/20200123122943.md"
+    ]
+  },
+  {
+    "tag": "imageprocessing",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/todo/20191025205846.md"
     ]
   },
   {
@@ -39,8 +254,8 @@
       ".private/daily/early learning regularization.md",
       ".private/daily/20230614200426.md",
       ".private/daily/20220304090937.md",
-      ".private/daily/20210214203649.md",
-      ".private/daily/20201210184230.md"
+      ".private/daily/20201210184230.md",
+      ".private/daily/20210214203649.md"
     ]
   },
   {
@@ -59,61 +274,12 @@
     ]
   },
   {
-    "tag": "noisydata",
-    "tagCount": 4,
-    "relativePaths": [
-      ".private/daily/early learning regularization.md",
-      ".private/daily/20200929201929.md",
-      ".private/daily/20200824000100.md",
-      ".private/daily/20200226210837.md"
-    ]
-  },
-  {
     "tag": "talk",
     "tagCount": 3,
     "relativePaths": [
       ".private/daily/early learning regularization.md",
       ".private/daily/20230417164700.md",
       ".private/daily/20220509100000.md"
-    ]
-  },
-  {
-    "tag": "q",
-    "tagCount": 8,
-    "relativePaths": [
-      ".private/daily/20230625182326.md",
-      ".private/daily/20230515120846.md",
-      ".private/daily/20230506142129.md",
-      ".private/daily/20220716180700.md",
-      ".private/daily/20220511202300.md",
-      ".private/daily/20220511205000.md",
-      ".private/daily/20211016120000.md",
-      ".private/daily/20200226210837.md"
-    ]
-  },
-  {
-    "tag": "toread",
-    "tagCount": 20,
-    "relativePaths": [
-      ".private/daily/20230607140634.md",
-      ".private/daily/20230606105400.md",
-      ".private/daily/20230420131300.md",
-      ".private/daily/20230418102300.md",
-      ".private/daily/20230218120423.md",
-      ".private/daily/20210122185558.md",
-      ".private/daily/20210113103517.md",
-      ".private/daily/20200929201929.md",
-      ".private/daily/20200820193500.md",
-      ".private/daily/20200812041756.md",
-      ".private/daily/20200226210837.md",
-      ".private/daily/20200201145100.md",
-      ".private/daily/20200126204100.md",
-      ".private/daily/20200123122533.md",
-      ".private/daily/20200123122903.md",
-      ".private/daily/20200123122600.md",
-      ".private/daily/20200123122206.md",
-      ".private/daily/20200109120100.md",
-      ".private/daily/20200109120000.md"
     ]
   },
   {
@@ -182,17 +348,24 @@
     ]
   },
   {
-    "tag": "mathbiology",
+    "tag": "vcdimension",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20230515120846.md"
+      ".private/daily/20230506142129.md"
     ]
   },
   {
-    "tag": "randomgraphs",
+    "tag": "dropout",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20230515120846.md"
+      ".private/daily/20230506142129.md"
+    ]
+  },
+  {
+    "tag": "writing",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20230508115300.md"
     ]
   },
   {
@@ -210,32 +383,25 @@
     ]
   },
   {
-    "tag": "writing",
+    "tag": "mathbiology",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20230508115300.md"
+      ".private/daily/20230515120846.md"
     ]
   },
   {
-    "tag": "vcdimension",
+    "tag": "randomgraphs",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20230506142129.md"
-    ]
-  },
-  {
-    "tag": "dropout",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20230506142129.md"
+      ".private/daily/20230515120846.md"
     ]
   },
   {
     "tag": "nix",
     "tagCount": 2,
     "relativePaths": [
-      ".private/daily/20230426203900.md",
-      ".private/daily/20230427085500.md"
+      ".private/daily/20230427085500.md",
+      ".private/daily/20230426203900.md"
     ]
   },
   {
@@ -270,6 +436,29 @@
     ]
   },
   {
+    "tag": "vim",
+    "tagCount": 3,
+    "relativePaths": [
+      ".private/daily/20230422125900.md",
+      ".private/daily/20230420021100.md",
+      ".private/daily/20230324020123.md"
+    ]
+  },
+  {
+    "tag": "nvim",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20230422125900.md"
+    ]
+  },
+  {
+    "tag": "keymappings",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20230422125900.md"
+    ]
+  },
+  {
     "tag": "it",
     "tagCount": 1,
     "relativePaths": [
@@ -281,24 +470,6 @@
     "tagCount": 1,
     "relativePaths": [
       ".private/daily/20230424213800.md"
-    ]
-  },
-  {
-    "tag": "blog",
-    "tagCount": 5,
-    "relativePaths": [
-      ".private/daily/20230422195500.md",
-      ".private/daily/20230420131200.md",
-      ".private/daily/20201210184230.md",
-      ".private/daily/20200416000000.md",
-      ".private/daily/20200123000000.md"
-    ]
-  },
-  {
-    "tag": "computationalscience",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20230422195500.md"
     ]
   },
   {
@@ -339,26 +510,21 @@
     ]
   },
   {
-    "tag": "vim",
-    "tagCount": 3,
+    "tag": "blog",
+    "tagCount": 5,
     "relativePaths": [
-      ".private/daily/20230422125900.md",
-      ".private/daily/20230420021100.md",
-      ".private/daily/20230324020123.md"
+      ".private/daily/20230422195500.md",
+      ".private/daily/20230420131200.md",
+      ".private/daily/20201210184230.md",
+      ".private/daily/20200416000000.md",
+      ".private/daily/20200123000000.md"
     ]
   },
   {
-    "tag": "nvim",
+    "tag": "computationalscience",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20230422125900.md"
-    ]
-  },
-  {
-    "tag": "keymappings",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20230422125900.md"
+      ".private/daily/20230422195500.md"
     ]
   },
   {
@@ -411,6 +577,25 @@
     ]
   },
   {
+    "tag": "github",
+    "tagCount": 6,
+    "relativePaths": [
+      ".private/daily/20230418121200.md",
+      ".private/daily/20230418121100.md",
+      ".private/daily/20230418110900.md",
+      ".private/daily/20230418094500.md",
+      ".private/daily/20200924000000.md",
+      ".private/daily/20200123000100.md"
+    ]
+  },
+  {
+    "tag": "standards",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20230418121200.md"
+    ]
+  },
+  {
     "tag": "mbr",
     "tagCount": 1,
     "relativePaths": [
@@ -446,6 +631,22 @@
     ]
   },
   {
+    "tag": "jupyter",
+    "tagCount": 3,
+    "relativePaths": [
+      ".private/daily/20230418121100.md",
+      ".private/daily/20200416000000.md",
+      ".private/daily/20200123000100.md"
+    ]
+  },
+  {
+    "tag": "resources",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20230418110900.md"
+    ]
+  },
+  {
     "tag": "networking",
     "tagCount": 1,
     "relativePaths": [
@@ -470,8 +671,8 @@
     "tag": "youtube",
     "tagCount": 3,
     "relativePaths": [
-      ".private/daily/20230418102300.md",
       ".private/daily/20230417164700.md",
+      ".private/daily/20230418102300.md",
       ".private/daily/20230417163700.md"
     ]
   },
@@ -487,6 +688,13 @@
     "tagCount": 1,
     "relativePaths": [
       ".private/daily/20230417164700.md"
+    ]
+  },
+  {
+    "tag": "humanphysiology",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20230417133100.md"
     ]
   },
   {
@@ -511,41 +719,6 @@
     ]
   },
   {
-    "tag": "github",
-    "tagCount": 6,
-    "relativePaths": [
-      ".private/daily/20230418121200.md",
-      ".private/daily/20230418121100.md",
-      ".private/daily/20230418110900.md",
-      ".private/daily/20230418094500.md",
-      ".private/daily/20200924000000.md",
-      ".private/daily/20200123000100.md"
-    ]
-  },
-  {
-    "tag": "standards",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20230418121200.md"
-    ]
-  },
-  {
-    "tag": "jupyter",
-    "tagCount": 3,
-    "relativePaths": [
-      ".private/daily/20230418121100.md",
-      ".private/daily/20200416000000.md",
-      ".private/daily/20200123000100.md"
-    ]
-  },
-  {
-    "tag": "resources",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20230418110900.md"
-    ]
-  },
-  {
     "tag": "configs",
     "tagCount": 1,
     "relativePaths": [
@@ -553,33 +726,24 @@
     ]
   },
   {
-    "tag": "signalprocessing",
-    "tagCount": 17,
+    "tag": "virtualization",
+    "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20230417133100.md",
-      ".private/daily/20220523161100.md",
-      ".private/daily/20220304090937.md",
-      ".private/daily/20220509100000.md",
-      ".private/daily/20211116120000.md",
-      ".private/daily/20210916120000.md",
-      ".private/daily/20211016120000.md",
-      ".private/daily/20210816120000.md",
-      ".private/daily/20210512145255.md",
-      ".private/daily/20210221111604.md",
-      ".private/daily/20210214203649.md",
-      ".private/daily/20210211171014.md",
-      ".private/daily/20201026171334.md",
-      ".private/daily/20200128114550.md",
-      ".private/daily/20200126224010.md",
-      ".private/daily/20200123122943.md",
-      ".private/daily/20191025205846.md"
+      ".private/daily/20230120020123.md"
     ]
   },
   {
-    "tag": "humanphysiology",
+    "tag": "kvm",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20230417133100.md"
+      ".private/daily/20230120020123.md"
+    ]
+  },
+  {
+    "tag": "libvirt",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20230120020123.md"
     ]
   },
   {
@@ -611,49 +775,6 @@
     ]
   },
   {
-    "tag": "virtualization",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20230120020123.md"
-    ]
-  },
-  {
-    "tag": "kvm",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20230120020123.md"
-    ]
-  },
-  {
-    "tag": "libvirt",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20230120020123.md"
-    ]
-  },
-  {
-    "tag": "discretedynamics",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20220801150223.md"
-    ]
-  },
-  {
-    "tag": "quasiperiodicity",
-    "tagCount": 2,
-    "relativePaths": [
-      ".private/daily/20220801150223.md",
-      ".private/daily/20200126204100.md"
-    ]
-  },
-  {
-    "tag": "floquetmultipliers",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20220801150223.md"
-    ]
-  },
-  {
     "tag": "fieldsmedal",
     "tagCount": 1,
     "relativePaths": [
@@ -674,13 +795,6 @@
       ".private/daily/20220711124600.md",
       ".private/daily/20220511205000.md",
       "atomic/Bochner's Theorem.md"
-    ]
-  },
-  {
-    "tag": "numericallinearalgebra",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20220523161100.md"
     ]
   },
   {
@@ -706,17 +820,37 @@
     ]
   },
   {
-    "tag": "hysteresis",
+    "tag": "discretedynamics",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20220511202300.md"
+      ".private/daily/20220801150223.md"
     ]
   },
   {
-    "tag": "refactor",
+    "tag": "floquetmultipliers",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20220511202300.md"
+      ".private/daily/20220801150223.md"
+    ]
+  },
+  {
+    "tag": "topologicaldataanalysis",
+    "tagCount": 7,
+    "relativePaths": [
+      ".private/daily/20220304090937.md",
+      ".private/daily/20200620201604.md",
+      ".private/daily/20200130153526.md",
+      ".private/daily/20200128114550.md",
+      ".private/daily/20200126224010.md",
+      ".private/daily/20200123122943.md",
+      ".private/daily/20200123122903.md"
+    ]
+  },
+  {
+    "tag": "numericallinearalgebra",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20220523161100.md"
     ]
   },
   {
@@ -731,30 +865,9 @@
     "tagCount": 5,
     "relativePaths": [
       ".private/daily/20220511205000.md",
-      ".private/daily/20211116120000.md",
       ".private/daily/20211016120000.md",
+      ".private/daily/20211116120000.md",
       ".private/daily/20210211171014.md",
-      "atomic/Bochner's Theorem.md"
-    ]
-  },
-  {
-    "tag": "topologicaldataanalysis",
-    "tagCount": 7,
-    "relativePaths": [
-      ".private/daily/20220304090937.md",
-      ".private/daily/20200620201604.md",
-      ".private/daily/20200128114550.md",
-      ".private/daily/20200130153526.md",
-      ".private/daily/20200126224010.md",
-      ".private/daily/20200123122903.md",
-      ".private/daily/20200123122943.md"
-    ]
-  },
-  {
-    "tag": "functionalanalysis",
-    "tagCount": 2,
-    "relativePaths": [
-      ".private/daily/20220229120000.md",
       "atomic/Bochner's Theorem.md"
     ]
   },
@@ -773,21 +886,25 @@
     ]
   },
   {
-    "tag": "informationgeometry",
-    "tagCount": 3,
+    "tag": "hysteresis",
+    "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20211116120000.md",
-      ".private/daily/20201210184230.md",
-      ".private/daily/20200820193500.md"
+      ".private/daily/20220511202300.md"
     ]
   },
   {
-    "tag": "informationtheory",
-    "tagCount": 3,
+    "tag": "refactor",
+    "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20211116120000.md",
-      ".private/daily/20200824000100.md",
-      ".private/daily/20200820193500.md"
+      ".private/daily/20220511202300.md"
+    ]
+  },
+  {
+    "tag": "functionalanalysis",
+    "tagCount": 2,
+    "relativePaths": [
+      ".private/daily/20220229120000.md",
+      "atomic/Bochner's Theorem.md"
     ]
   },
   {
@@ -800,11 +917,21 @@
     ]
   },
   {
-    "tag": "contrastivelearning",
-    "tagCount": 2,
+    "tag": "informationgeometry",
+    "tagCount": 3,
     "relativePaths": [
-      ".private/daily/20210718200603.md",
-      ".private/daily/20210218200603.md"
+      ".private/daily/20211116120000.md",
+      ".private/daily/20201210184230.md",
+      "20200820193500.md"
+    ]
+  },
+  {
+    "tag": "informationtheory",
+    "tagCount": 3,
+    "relativePaths": [
+      ".private/daily/20211116120000.md",
+      ".private/daily/20200824000100.md",
+      "20200820193500.md"
     ]
   },
   {
@@ -832,26 +959,11 @@
     ]
   },
   {
-    "tag": "dsp",
-    "tagCount": 1,
+    "tag": "contrastivelearning",
+    "tagCount": 2,
     "relativePaths": [
-      ".private/daily/20210512145255.md"
-    ]
-  },
-  {
-    "tag": "hopfieldnetworks",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20210226154343.md"
-    ]
-  },
-  {
-    "tag": "transformers",
-    "tagCount": 3,
-    "relativePaths": [
-      ".private/daily/20210226154343.md",
-      ".private/daily/20200812000000.md",
-      ".private/daily/20200123122206.md"
+      ".private/daily/20210718200603.md",
+      ".private/daily/20210218200603.md"
     ]
   },
   {
@@ -876,18 +988,74 @@
     ]
   },
   {
-    "tag": "convexity",
+    "tag": "activationfunctions",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20210218200603.md"
+      ".private/daily/20201029134413.md"
+    ]
+  },
+  {
+    "tag": "trainingdynamics",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20210113103517.md"
     ]
   },
   {
     "tag": "manifoldlearning",
     "tagCount": 2,
     "relativePaths": [
-      ".private/daily/20210218200603.md",
-      ".private/daily/20210113103517.md"
+      ".private/daily/20210113103517.md",
+      ".private/daily/20210218200603.md"
+    ]
+  },
+  {
+    "tag": "computervision",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20210114165532.md"
+    ]
+  },
+  {
+    "tag": "opencourseware",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20210114165532.md"
+    ]
+  },
+  {
+    "tag": "industry",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20210114165532.md"
+    ]
+  },
+  {
+    "tag": "dsp",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20210512145255.md"
+    ]
+  },
+  {
+    "tag": "hopfieldnetworks",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20210226154343.md"
+    ]
+  },
+  {
+    "tag": "categorytheory",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20201210184230.md"
+    ]
+  },
+  {
+    "tag": "convexity",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20210218200603.md"
     ]
   },
   {
@@ -920,84 +1088,6 @@
     ]
   },
   {
-    "tag": "computervision",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20210114165532.md"
-    ]
-  },
-  {
-    "tag": "opencourseware",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20210114165532.md"
-    ]
-  },
-  {
-    "tag": "industry",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20210114165532.md"
-    ]
-  },
-  {
-    "tag": "trainingdynamics",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20210113103517.md"
-    ]
-  },
-  {
-    "tag": "categorytheory",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20201210184230.md"
-    ]
-  },
-  {
-    "tag": "python",
-    "tagCount": 7,
-    "relativePaths": [
-      ".private/daily/20201029134413.md",
-      ".private/daily/20200924000000.md",
-      ".private/daily/20200416000000.md",
-      ".private/daily/20200325205502.md",
-      ".private/daily/20200323000100.md",
-      ".private/daily/20200219155300.md",
-      ".private/daily/20200123000000.md"
-    ]
-  },
-  {
-    "tag": "activationfunctions",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20201029134413.md"
-    ]
-  },
-  {
-    "tag": "dataset",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200929201819.md"
-    ]
-  },
-  {
-    "tag": "audioprocessing",
-    "tagCount": 10,
-    "relativePaths": [
-      ".private/daily/20200929201819.md",
-      ".private/daily/20200929201929.md",
-      ".private/daily/20200820193500.md",
-      ".private/daily/20200323171100.md",
-      ".private/daily/20200219155300.md",
-      ".private/daily/20200201145100.md",
-      ".private/daily/20200126204100.md",
-      ".private/daily/20200123122600.md",
-      ".private/daily/20200110020043.md",
-      ".private/daily/20200109201159.md"
-    ]
-  },
-  {
     "tag": "prosody",
     "tagCount": 1,
     "relativePaths": [
@@ -1009,26 +1099,10 @@
     "tagCount": 5,
     "relativePaths": [
       ".private/daily/20200929201929.md",
-      ".private/daily/20200824000100.md",
       ".private/daily/20200824000000.md",
+      ".private/daily/20200824000100.md",
       ".private/daily/20200820000000.md",
       ".private/daily/20200812000000.md"
-    ]
-  },
-  {
-    "tag": "seniordesign",
-    "tagCount": 3,
-    "relativePaths": [
-      ".private/daily/20200924000100.md",
-      ".private/daily/20200909000000.md",
-      ".private/daily/20200908000000.md"
-    ]
-  },
-  {
-    "tag": "sourcesoundseparation",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200924000100.md"
     ]
   },
   {
@@ -1053,6 +1127,22 @@
     ]
   },
   {
+    "tag": "dataset",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20200929201819.md"
+    ]
+  },
+  {
+    "tag": "seniordesign",
+    "tagCount": 3,
+    "relativePaths": [
+      ".private/daily/20200909000000.md",
+      ".private/daily/20200924000100.md",
+      ".private/daily/20200908000000.md"
+    ]
+  },
+  {
     "tag": "forcedalignment",
     "tagCount": 2,
     "relativePaths": [
@@ -1061,50 +1151,10 @@
     ]
   },
   {
-    "tag": "audiosynthesis",
-    "tagCount": 3,
-    "relativePaths": [
-      ".private/daily/20200908000000.md",
-      ".private/daily/20200201145100.md",
-      ".private/daily/20200110020043.md"
-    ]
-  },
-  {
-    "tag": "soundeventdetection",
+    "tag": "sourcesoundseparation",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20200820000000.md"
-    ]
-  },
-  {
-    "tag": "losscombination",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200820000000.md"
-    ]
-  },
-  {
-    "tag": "acoustics",
-    "tagCount": 3,
-    "relativePaths": [
-      ".private/daily/20200812041756.md",
-      ".private/daily/20200109120100.md",
-      ".private/daily/20200109120000.md"
-    ]
-  },
-  {
-    "tag": "coctailparty",
-    "tagCount": 2,
-    "relativePaths": [
-      ".private/daily/20200812041756.md",
-      ".private/daily/20200109120100.md"
-    ]
-  },
-  {
-    "tag": "algebraictoplogy",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200620201604.md"
+      ".private/daily/20200924000100.md"
     ]
   },
   {
@@ -1122,6 +1172,27 @@
     ]
   },
   {
+    "tag": "soundeventdetection",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20200820000000.md"
+    ]
+  },
+  {
+    "tag": "losscombination",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20200820000000.md"
+    ]
+  },
+  {
+    "tag": "algebraictoplogy",
+    "tagCount": 1,
+    "relativePaths": [
+      ".private/daily/20200620201604.md"
+    ]
+  },
+  {
     "tag": "reinforcementlearning",
     "tagCount": 1,
     "relativePaths": [
@@ -1133,77 +1204,6 @@
     "tagCount": 1,
     "relativePaths": [
       ".private/daily/20200620000100.md"
-    ]
-  },
-  {
-    "tag": "reddit",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200315000100.md"
-    ]
-  },
-  {
-    "tag": "library",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200323000100.md"
-    ]
-  },
-  {
-    "tag": "speechprocessing",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200323171100.md"
-    ]
-  },
-  {
-    "tag": "datamanagement",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200323000000.md"
-    ]
-  },
-  {
-    "tag": "tools",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200323000000.md"
-    ]
-  },
-  {
-    "tag": "speechenhancement",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200226210837.md"
-    ]
-  },
-  {
-    "tag": "teacherstudent",
-    "tagCount": 2,
-    "relativePaths": [
-      ".private/daily/20200226210837.md",
-      ".private/daily/20200123122533.md"
-    ]
-  },
-  {
-    "tag": "multitasklearning",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200226210837.md"
-    ]
-  },
-  {
-    "tag": "featureextraction",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200219155300.md"
-    ]
-  },
-  {
-    "tag": "fewshot",
-    "tagCount": 1,
-    "relativePaths": [
-      ".private/daily/20200201145100.md"
     ]
   },
   {
@@ -1222,31 +1222,31 @@
     ]
   },
   {
-    "tag": "gan",
+    "tag": "datamanagement",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20200123122533.md"
+      ".private/daily/20200323000000.md"
     ]
   },
   {
-    "tag": "attention",
+    "tag": "tools",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20200123122206.md"
+      ".private/daily/20200323000000.md"
     ]
   },
   {
-    "tag": "numpy",
+    "tag": "library",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20200123000000.md"
+      ".private/daily/20200323000100.md"
     ]
   },
   {
-    "tag": "musicinformationretrieval",
+    "tag": "reddit",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20200110020043.md"
+      ".private/daily/20200315000100.md"
     ]
   },
   {
@@ -1257,10 +1257,10 @@
     ]
   },
   {
-    "tag": "imageprocessing",
+    "tag": "numpy",
     "tagCount": 1,
     "relativePaths": [
-      ".private/daily/20191025205846.md"
+      ".private/daily/20200123000000.md"
     ]
   }
 ]

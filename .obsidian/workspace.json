@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atomic/Bochner's Theorem.md",
+                "file": ".private/daily/20200123000000.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atomic/Bochner's Theorem.md",
+                "file": ".private/daily/20200123000000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atomic/Bochner's Theorem.md",
+                "file": ".private/daily/20200123000000.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atomic/Bochner's Theorem.md"
+                "file": ".private/daily/20200123000000.md"
               }
             }
           }
@@ -145,46 +145,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1aedbe5ca4a0e269",
+  "active": "1cbd81d064643cf6",
   "lastOpenFiles": [
+    ".git/index.lock",
+    ".private/daily/20200112113259.md",
+    ".private/daily/todo/20200820193500.md",
+    ".private/daily/20200929201819.md",
+    ".private/daily/20200924000000.md",
+    ".private/daily/20200909000000.md",
+    ".private/daily/20200908000000.md",
+    ".private/daily/20200824000100.md",
+    ".private/daily/20200824000000.md",
+    ".private/daily/20200820000000.md",
+    ".private/daily/20200812000000.md",
+    ".private/daily/20200620201604.md",
+    ".private/daily/20200620000200.md",
+    ".private/daily/todo/20200812041756.md",
+    ".private/daily/20200620000100.md",
+    ".private/daily/20200620000000.md",
+    ".private/daily/20200416000000.md",
+    ".private/daily/20200325205502.md",
+    ".private/daily/20200323000100.md",
+    ".private/daily/20200323000000.md",
+    ".private/daily/20200315000100.md",
+    ".private/daily/20200315000000.md",
+    ".private/daily/20200130153526.md",
+    ".private/daily/20200128114550.md",
+    ".private/daily/20200126224010.md",
+    ".private/daily/20200123122903.md",
+    ".private/daily/todo",
+    ".obsidian/plugins/note-refactor-obsidian/data.json",
+    ".obsidian/zk-prefixer.json",
+    ".obsidian/daily-notes.json",
     ".git/objects/c6",
     ".git/objects/c6/f0b50b9ce05ee4e47fb1291b3a72e47e9cf587",
     ".git/objects/fb/079b2debd65010b7afb0adc6f8bf42407cacab",
     ".git/objects/db/e08900abface13db66c937dddac33521331f80",
-    ".git/objects/3c",
-    ".git/objects/3c/7ac5a918433c563bce0b17f7ccd794deca7e2d",
-    ".git/objects/99",
-    ".git/objects/99/5ab4298e2d5146b65b3016b87686bfccc2370e",
-    ".git/objects/24",
-    ".git/objects/24/d56d9d3189b96b9db99561cf0ea33248df2798",
-    ".git/objects/14/cb447e80263be310dc4821c6c427b5a67583e4",
-    "atomic/README.md",
-    "atomic/Bochner's Theorem.md",
-    ".private/daily/20230218120423.md",
-    ".private/daily/20230120020123.md",
-    ".private/daily/20221217104400.md",
-    ".private/daily/20221201170000.md",
-    ".private/daily/20221106201400.md",
-    ".private/daily/20221029131600.md",
-    ".private/daily/20220916121600.md",
-    ".private/daily/20220801150223.md",
-    ".private/daily/20220716180700.md",
-    ".private/daily/20220716180600.md",
-    ".private/daily/20220711124600.md",
-    ".private/daily/20220523161100.md",
-    ".private/daily/20220517144900.md",
-    ".private/daily/20220511205000.md",
-    ".private/daily/20220511202300.md",
-    ".private/daily/20220511153600.md",
-    ".private/daily/20220509100000.md",
-    ".private/daily/20220304090937.md",
-    ".private/daily/20220303171500.md",
-    ".private/daily/20220229120000.md",
-    ".private/daily/20211216120000.md",
-    ".private/daily/20211016120000.md",
-    ".private/daily/20211116120000.md"
+    ".git/objects/3c"
   ]
 }
