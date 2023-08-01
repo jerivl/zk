@@ -7,6 +7,7 @@
     ".obsidian",
     ".github",
     ".git",
+    "README.md",
     ".private/.git"
   ]
 }

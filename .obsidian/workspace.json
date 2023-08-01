@@ -152,6 +152,12 @@
   "active": "1cbd81d064643cf6",
   "lastOpenFiles": [
     ".git/index.lock",
+    ".github/workflows/submodule-notify-parent.yml",
+    "metadata.json",
+    ".obsidian/plugins/metadata-extractor/canvas.json",
+    ".obsidian/plugins/metadata-extractor/allExceptMd.json",
+    ".obsidian/plugins/metadata-extractor/tags.json",
+    ".obsidian/plugins/metadata-extractor/data.json",
     ".private/.git/index.lock",
     ".private/daily/20200315000000.md",
     ".private/daily/20200130153526.md",
@@ -180,12 +186,6 @@
     ".private/daily/20230724160012.md",
     ".git/objects/be/6f4a6f185faece071b3ed986fec81d21f1f230",
     ".git/objects/78",
-    ".git/objects/78/56d0e20b1947971d57ba9a5484a60dfbb46653",
-    ".git/objects/9a",
-    ".git/objects/9a/ca3348267b82275a3b7e5fa5dedcb8b9ce2fae",
-    ".git/objects/f9/c4c6ed547a55e9af269b6c538d2efa538a0a16",
-    ".git/objects/e9",
-    ".git/objects/e9/ec0837d37d643436132ed6fc14fcff55cbbb74",
-    ".git/objects/db/30cd28155d4da6e71c74b1ec1866a3bf930751"
+    ".git/objects/78/56d0e20b1947971d57ba9a5484a60dfbb46653"
   ]
 }
