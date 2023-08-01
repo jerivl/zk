@@ -1,3 +1,6 @@
 [submodule ".private"]
 	path = .private
 	url = git@github.com:jerivl/zk-private.git
+[submodule ".obsidian/plugins/metadata-extractor"]
+	path = .obsidian/plugins/metadata-extractor
+	url = git@github.com:jerivl/metadata-extractor.git
