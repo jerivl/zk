@@ -1,0 +1,110 @@
+[
+  {
+    "fileName": "README",
+    "relativePath": "literature/README.md"
+  },
+  {
+    "fileName": "README",
+    "relativePath": "blog/README.md"
+  },
+  {
+    "fileName": "README",
+    "relativePath": "atomic/README.md",
+    "frontmatter": {
+      "created": "2023-07-30T20:41:42-05:00",
+      "modified": "2023-07-30T21:36:59-05:00",
+      "tags": null,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 85
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Bochner's Theorem",
+    "relativePath": "atomic/Bochner's Theorem.md",
+    "tags": [
+      "functionalanalysis",
+      "harmonicanalysis",
+      "fourieranalysis"
+    ],
+    "frontmatter": {
+      "created": "2023-01-23T19:59:04-06:00",
+      "modified": "2023-07-30T21:36:59-05:00",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 164
+        }
+      }
+    },
+    "aliases": [
+      "20230123120500"
+    ],
+    "links": [
+      {
+        "link": "Li_2020_Random-Fourier-Features"
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "README.md",
+    "headings": [
+      {
+        "heading": "Jeri's Notes ([notes.jerivl.com](http://notes.jerivl.com))",
+        "level": 1
+      },
+      {
+        "heading": "How to use this site",
+        "level": 1
+      },
+      {
+        "heading": "Folder descriptions",
+        "level": 1
+      },
+      {
+        "heading": "Blog: `/blog`",
+        "level": 2
+      },
+      {
+        "heading": "Literature Notes: `/literature`",
+        "level": 2
+      },
+      {
+        "heading": "Atomic Notes: `/atomic`",
+        "level": 2
+      },
+      {
+        "heading": "Issues",
+        "level": 1
+      },
+      {
+        "heading": "Content Related Issues",
+        "level": 2
+      },
+      {
+        "heading": "Web Related Issues",
+        "level": 2
+      },
+      {
+        "heading": "Licensing",
+        "level": 1
+      }
+    ]
+  }
+]
