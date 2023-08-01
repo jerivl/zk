@@ -152,13 +152,16 @@
   "active": "1cbd81d064643cf6",
   "lastOpenFiles": [
     ".git/index.lock",
-    ".github/workflows/submodule-notify-parent.yml",
-    "metadata.json",
-    ".obsidian/plugins/metadata-extractor/canvas.json",
-    ".obsidian/plugins/metadata-extractor/allExceptMd.json",
-    ".obsidian/plugins/metadata-extractor/tags.json",
-    ".obsidian/plugins/metadata-extractor/data.json",
-    ".private/.git/index.lock",
+    ".git/objects/59",
+    ".git/objects/59/130a12fa287ce6f8e8e3db7fbd1a25801ec0ed",
+    ".git/objects/d1/6fd5e87d5fe9baceb769d26249fb30db163221",
+    ".git/objects/fc",
+    ".git/objects/fc/59eba28f48b5306ebcdb1b7be2e5677a825c76",
+    ".git/objects/9e/bf2ba98a283275bb86fbc4c0718057ed0b0bd6",
+    ".git/objects/27",
+    ".git/objects/27/3efcc1617106191a4011bdbec8354a98102569",
+    ".git/objects/ac/e6f4a4c4c362971becc8ed300fe1cd39e7515f",
+    ".git/objects/55/f1eef938222acee9b326a65f1810fbd8814129",
     ".private/daily/20200315000000.md",
     ".private/daily/20200130153526.md",
     ".private/daily/20200128114550.md",
@@ -183,9 +186,6 @@
     ".private/daily/20200123000100.md",
     ".private/README.md",
     ".private/daily/20230614200426.md",
-    ".private/daily/20230724160012.md",
-    ".git/objects/be/6f4a6f185faece071b3ed986fec81d21f1f230",
-    ".git/objects/78",
-    ".git/objects/78/56d0e20b1947971d57ba9a5484a60dfbb46653"
+    ".private/daily/20230724160012.md"
   ]
 }
