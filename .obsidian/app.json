@@ -2,5 +2,6 @@
   "newLinkFormat": "relative",
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "vimMode": true
+  "vimMode": true,
+  "promptDelete": false
 }

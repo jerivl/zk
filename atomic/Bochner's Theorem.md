@@ -1,7 +1,7 @@
 ---
 aliases: ["20230123120500"]
-created: 2023-01-23T19:59:04-06:00
-modified: 2023-07-30T21:36:59-05:00
+created: 2023-01-23T17:59:04-08:00
+modified: 2023-10-01T15:28:58-07:00
 tags: functionalAnalysis harmonicAnalysis fourierAnalysis
 ---
 
