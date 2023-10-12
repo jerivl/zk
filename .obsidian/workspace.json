@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature/folland1999real-Ch0.md",
+                "file": "literature/folland1999real-Ch1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/folland1999real-Ch0.md",
+                "file": "literature/folland1999real-Ch1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/folland1999real-Ch0.md",
+                "file": "literature/folland1999real-Ch1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/folland1999real-Ch0.md"
+                "file": "literature/folland1999real-Ch1.md"
               }
             }
           }
@@ -166,19 +166,18 @@
   "active": "4bfa3a25cdfb5d01",
   "lastOpenFiles": [
     ".git/index.lock",
+    "literature/folland1999real-Ch0.md",
+    ".git/objects/d3/d68f4874830d7db2eb4ade94a13fb873b17657",
+    ".git/objects/0f",
+    ".git/objects/0f/93888d603c35e1414255763a3ec68a474dc7dc",
+    ".git/objects/1d/949a204e9af5d73ffbfd8beb5cc52f409abba3",
+    ".git/objects/da/0e162e086514efaa62f2010b4ee2d88c5aae74",
     ".obsidian/plugins/metadata-extractor/.git/index.lock",
     ".git/objects/2b",
     ".git/objects/2b/9b74ca73ef32ea59d08a054683edd58c92a8d6",
     ".git/objects/79",
-    ".git/objects/79/e89daff2747337f15ee46ed9c9fb8dda25521b",
-    ".git/objects/82/75f9b9e554c7a16b487495059d1fa4c30b667e",
-    ".git/objects/1c",
-    ".git/objects/1c/4f50d8183b5e55016cdefdd52ccde1c802d108",
-    ".git/objects/77",
-    ".git/objects/77/7e56cfa6aa9e5ab003a52df97eb30f1633abd3",
     ".private/synthesis/Democratizing academic research.md",
     "literature/folland1999real.md",
-    "literature/folland1999real-Ch0.md",
     "atomic/Bochner's Theorem.md",
     "atomic/BM Decomposition.md",
     "literature/folland1999real-Ch1.md",

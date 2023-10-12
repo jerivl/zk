@@ -14,17 +14,13 @@ We want to measure sizes of subsets of a metric space. Ideally we would have the
 
 i. If $E_1, E_2, \ldots$ is a finite or infinite sequence of disjoint sets, then
 
-$$
- \mu\left(E_1 \cup E_2 \cup \cdots\right)=\mu\left(E_1\right)+\mu\left(E_2\right)+\cdots . 
-$$
+$$ \mu\left(E_1 \cup E_2 \cup \cdots\right)=\mu\left(E_1\right)+\mu\left(E_2\right)+\cdots .  $$
 
 ii. If $E$ is congruent to $F$ (that is, if $E$ can be transformed into $F$ by translations, rotations, and reflections), then $\mu(E)=\mu(F)$.
 
 iii. $\mu(Q)=1$, where $Q$ is the unit cube
 
-$$
- Q=\left\{x \in \mathbb{R}^n: 0 \leq x_j<1 \text { for } j=1, \ldots, n\right\} . 
-$$
+$$ Q=\left\{x \in \mathbb{R}^n: 0 \leq x_j<1 \text { for } j=1, \ldots, n\right\} .  $$
 
 However, this is not a tractable problem for all subsets of the real line, so we must then weaken one or more of these hypotheses.
 
