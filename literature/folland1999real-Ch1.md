@@ -51,7 +51,9 @@ If $\mathcal{A}$ is a algebra over $X$ then, $X, \emptyset \in \mathcal{A}.$ and
 Some examples of $\sigma$-algebras: If $X$ is any set, $\mathcal{P}(X)$ and $\{\varnothing, X\}$ are $\sigma$-algebras. For uncountable $X$,  the $\sigma$-algebra of countable or co-countable sets
 
 > [!def $\sigma$ algebra of countable or co-countable sets]
-> If $X$ is uncountable, then $$ \mathcal{A}=\left\{E \subset X: E \text { is countable or } E^c \text { is countable }\right\} $$ is a $\sigma$-algebra, called the $\sigma$-algebra of countable or co-countable sets. (The point here is that if $\left\{E_j\right\}_1^{\infty} \subset \mathcal{A}$, then $\bigcup_1^{\infty} E_j$ is countable if all $E_j$ are countable and is co-countable otherwise.)
+> If $X$ is uncountable, then 
+> $$ \mathcal{A}=\left\{E \subset X: E \text { is countable or } E^c \text { is countable }\right\} $$ 
+> is a $\sigma$-algebra, called the $\sigma$-algebra of countable or co-countable sets. (The point here is that if $\left\{E_j\right\}_1^{\infty} \subset \mathcal{A}$, then $\bigcup_1^{\infty} E_j$ is countable if all $E_j$ are countable and is co-countable otherwise.)
 
 Verify that the intersection of any family of $\sigma$-algebras on $X$ is a $\sigma$-algebra.
 
