@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": ".private/synthesis/Democratizing academic research.md",
+                "file": "literature/folland1999real-Ch0.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": ".private/synthesis/Democratizing academic research.md",
+                "file": "literature/folland1999real-Ch0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": ".private/synthesis/Democratizing academic research.md",
+                "file": "literature/folland1999real-Ch0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": ".private/synthesis/Democratizing academic research.md"
+                "file": "literature/folland1999real-Ch0.md"
               }
             }
           }
@@ -165,14 +165,22 @@
   },
   "active": "4bfa3a25cdfb5d01",
   "lastOpenFiles": [
-    "literature/folland1999real.md",
     ".git/index.lock",
+    ".private/synthesis/Democratizing academic research.md",
+    ".git/objects/8a/4b8bfde98d4a97cf711b01f971847fb5943e95",
+    ".git/objects/ba/8ec4e336d5879825bbbb3860c0900c5c212fac",
+    ".git/objects/03/fc1aba4156192f2380c91ef9f09807465817dc",
+    ".git/objects/70/70487579c35870c339de327ca91984abdf9e5b",
+    ".git/objects/ed",
+    ".git/objects/ed/404b38f4a93fae9edaec9b1b4f68d1d647070f",
+    ".git/objects/ff",
+    ".git/objects/ff/e5ab1004dfc2e979098ab3569baeff96b818ca",
+    ".git/objects/eb/611dc9f05a7d1782af6e100d4d87518bb9cde3",
+    "literature/folland1999real.md",
     "literature/folland1999real-Ch0.md",
     "atomic/Bochner's Theorem.md",
     "atomic/BM Decomposition.md",
     "literature/folland1999real-Ch1.md",
-    ".private/.git/index.lock",
-    ".obsidian/plugins/metadata-extractor/.git/index.lock",
     "literature/README.md",
     "README.md",
     "Pasted image 20231001151958.png",
@@ -192,14 +200,6 @@
     ".private/daily/20220716180700.md",
     ".private/daily/20220523161100.md",
     ".private/daily/20220517144900.md",
-    ".private/daily/20220511202300.md",
-    ".private/daily/20220511153600.md",
-    ".private/.git/objects/16/34b492785a27ae737adc330809f69cdc890235",
-    ".private/.git/objects/15/e5e18ea4bebd4c0899a0474f46149f46cf0978",
-    ".private/.git/AUTO_MERGE",
-    ".private/.git/objects/27",
-    ".private/.git/objects/27/bca3709755efe303b0a1cf8a7848ecbf83df97",
-    ".private/.git/objects/56/0ea3f13aefe7cdbf96437712fe29fdeb9c7b87",
-    ".private/.git/rebase-merge/author-script"
+    ".private/daily/20220511202300.md"
   ]
 }

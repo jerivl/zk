@@ -1,7 +1,7 @@
 ---
 aliases: [0.1  The language of set theory]
 created: 2023-10-01T14:51:47-07:00
-modified: 2023-10-01T15:44:32-07:00
+modified: 2023-10-12T10:06:20-07:00
 tags: 
 ---
 # 0.1  The language of set theory
@@ -18,8 +18,7 @@ tags:
  > [!def union and intersection of sets]
 >
  > If $\mathcal{E}$ is a family of sets, we can form the **union and intersection** of its members:
-
-  $$\begin{aligned} & \bigcup_{E \in \mathcal{E}} E=\{x: x \in E \text { for some } E \in \mathcal{E}\}, \\ & \bigcap_{E \in \mathcal{E}} E=\{x: x \in E \text { for all } E \in \mathcal{E}\} . \end{aligned}$$
+>  $$\begin{aligned} & \bigcup_{E \in \mathcal{E}} E=\{x: x \in E \text { for some } E \in \mathcal{E}\}, \\ & \bigcap_{E \in \mathcal{E}} E=\{x: x \in E \text { for all } E \in \mathcal{E}\} . \end{aligned}$$
 
  > [!def disjoint sets]
  > If $E_\alpha \cap E_\beta=\varnothing$ whenever $\alpha \neq \beta$, the sets $E_\alpha$ are called **disjoint**.
@@ -41,11 +40,7 @@ and likewise for unions and intersections. In this situation, the notions of lim
 
  The reader may verify that
 
-> $$
-
-  \begin{aligned} \lim \sup E_n & =\left\{x: x \in E_n \text { for infinitely many } n\right\} \\ \liminf E_n & =\left\{x: x \in E_n \text { for all but finitely many } n\right\} \end{aligned}
-
-> $$
+ $$ \begin{aligned} \lim \sup E_n & =\left\{x: x \in E_n \text { for infinitely many } n\right\} \\ \liminf E_n & =\left\{x: x \in E_n \text { for all but finitely many } n\right\} \end{aligned} $$
 
 - Page 3
 > [!def differences of sets]
@@ -53,13 +48,7 @@ and likewise for unions and intersections. In this situation, the notions of lim
 >
 > $$
 >  E \backslash F=\{x: x \in E \text { and } x \notin F\}, $$
-> and their symmetric difference by $E \triangle F$ :
-
-$$
-
- E \Delta F=(E \backslash F) \cup(F \backslash E) .
-
-$$
+> and their symmetric difference by $E \triangle F$ :$$ E \Delta F=(E \backslash F) \cup(F \backslash E) .$$
 
 > [!def complement of a set]
 >
@@ -68,10 +57,9 @@ $$
 
 > [!lemma deMorgan's laws]
 >
-> $$
->  \left(\bigcup_{\alpha \in A} E_\alpha\right)^c=\bigcap_{\alpha \in A} E_\alpha^c, \quad\left(\bigcap_{\alpha \in A} E_\alpha\right)^c=\bigcup_{\alpha \in A} E_\alpha^c . 
-> $$
+> $$ \left(\bigcup_{\alpha \in A} E_\alpha\right)^c=\bigcap_{\alpha \in A} E_\alpha^c, \quad\left(\bigcap_{\alpha \in A} E_\alpha\right)^c=\bigcup_{\alpha \in A} E_\alpha^c .  $$
 >
+
 > [!def cartesian product of two sets / relations]
 >  If $X$ and $Y$ are sets, their Cartesian product $X \times Y$ is the set of all ordered pairs $(x, y)$ such that $x \in X$ and $y \in Y$. A relation from $X$ to $Y$ is a subset of $X \times Y$. (If $Y=X$, we speak of a relation on $X$.) If $R$ is a relation from $X$ to $Y$, we shall sometimes write $x R y$ to mean that $(x, y) \in R$.
 
@@ -84,47 +72,23 @@ The most important types of relations are the following:
 > [!def Equivalence relations]
 >  An **equivalence relation** on $X$ is a relation $R$ on $X$ such that
 >
-> $$
->  \begin{aligned} & x R x \text { for all } x \in X, \\ & x R y \text { iff } y R x, \\ & x R z \text { whenever } x R y \text { and } y R z \text { for some } y . \end{aligned} 
-> $$
-
+> $$  \begin{aligned} & x R x \text { for all } x \in X, \\ & x R y \text { iff } y R x, \\ & x R z \text { whenever } x R y \text { and } y R z \text { for some } y . \end{aligned}  $$
 > The equivalence class of an element $x$ is $\{y \in X: x R y\} . X$ is the disjoint union of these equivalence classes.
 
 > [!def Mappings]
 >  A **mapping** $f: X \rightarrow Y$ is a relation $R$ from $X$ to $Y$ with the property that for every $x \in X$ there is a unique $y \in Y$ such that $x R y$, in which case we write $y=f(x)$. Mappings are sometimes called maps or functions; we shall generally reserve the latter name for the case when $Y$ is $\mathbb{C}$ or some subset thereof.
 
 > [!def composition of mappings / inverse image of a mapping]
-If $f: X \rightarrow Y$ and $g: Y \rightarrow Z$ are mappings, we denote by **$g \circ f$ their composition**:
-
-$$
-
- g \circ f: X \rightarrow Z, \quad g \circ f(x)=g(f(x)) .
-
-$$
-
-If $D \subset X$ and $E \subset Y$, we define the **image of $D$ and the inverse image of $E$ under a mapping $f: X \rightarrow Y$** by
-
-$$
-
- f(D)=\{f(x): x \in D\}, \quad f^{-1}(E)=\{x: f(x) \in E\} .
-
-$$
+> If $f: X \rightarrow Y$ and $g: Y \rightarrow Z$ are mappings, we denote by **$g \circ f$ their composition**:
+> $$ g \circ f: X \rightarrow Z, \quad g \circ f(x)=g(f(x)) . $$
+> If $D \subset X$ and $E \subset Y$, we define the **image of $D$ and the inverse image of $E$ under a mapping $f: X \rightarrow Y$** by
+> $$ f(D)=\{f(x): x \in D\}, \quad f^{-1}(E)=\{x: f(x) \in E\} . $$
 
 Page 4
 
 It is easily verified that the map $f^{-1}: \mathcal{P}(Y) \rightarrow \mathcal{P}(X)$ defined by the second formula commutes with union, intersections, and complements:
 
-$$
-
-\begin{gathered}
-
-f^{-1}\left(\bigcup_{\alpha \in A} E_\alpha\right)=\bigcup_{\alpha \in A} f^{-1}\left(E_\alpha\right), \quad f^{-1}\left(\bigcap_{\alpha \in A} E_\alpha\right)=\bigcap_{\alpha \in A} f^{-1}\left(E_\alpha\right), \\
-
-f^{-1}\left(E^c\right)=\left(f^{-1}(E)\right)^c .
-
-\end{gathered}
-
-$$
+$$ \begin{gathered} f^{-1}\left(\bigcup_{\alpha \in A} E_\alpha\right)=\bigcup_{\alpha \in A} f^{-1}\left(E_\alpha\right), \quad f^{-1}\left(\bigcap_{\alpha \in A} E_\alpha\right)=\bigcap_{\alpha \in A} f^{-1}\left(E_\alpha\right), \\ f^{-1}\left(E^c\right)=\left(f^{-1}(E)\right)^c . \end{gathered} $$
 
 (The direct image mapping $f: \mathcal{P}(X) \rightarrow \mathcal{P}(Y)$ commutes with unions, but in general not with intersections or complements. This is an important fact for defining mappings in topological spaces)
 
@@ -135,13 +99,7 @@ $$
 > $f$ is said to be injective if $f\left(x_1\right)=f\left(x_2\right)$ only when $x_1=x_2$, surjective if $f(X)=Y$, and bijective if it is both injective and surjective. If $f$ is bijective, it has an inverse $f^{-1}: Y \rightarrow X$ such that $f^{-1} \circ f$ and $f \circ f^{-1}$ are the identity mappings on $X$ and $Y$, respectively.
 
 > [!Notation restriction of a function to a subset of a domain]
-> If $A \subset X$, we denote by $f \mid A$ the restriction of $f$ to $A$ :
-
-$$
-
- (f \mid A): A \rightarrow Y, \quad(f \mid A)(x)=f(x) \text { for } x \in A .
-
-$$
+> If $A \subset X$, we denote by $f \mid A$ the restriction of $f$ to $A$ : $$ (f \mid A): A \rightarrow Y, \quad(f \mid A)(x)=f(x) \text { for } x \in A . $$
 
 > [!def sequence / subsequence]
 > A sequence in a set $X$ is a mapping from $\mathbb{N}$ into $X$. (We also use the term finite sequence to mean a map from $\{1, \ldots, n\}$ into $X$ where $n \in \mathbb{N}$.) If $f: \mathbb{N} \rightarrow X$ is a sequence and $g: \mathbb{N} \rightarrow \mathbb{N}$ satisfies $g(n)<g(m)$ whenever $n<m$, the composition $f \circ g$ is called a subsequence of $f$.
@@ -422,9 +380,7 @@ iv. the product metric
 > [!def product metric]
 > If $\left(X_1, \rho_1\right)$ and $\left(X_2, \rho_2\right)$ are metric spaces, the product metric $\rho$ on $X_1 \times X_2$ is given by
 >
-> $$
->  \rho\left(\left(x_1, x_2\right),\left(y_1, y_2\right)\right)=\max \left(\rho_1\left(x_1, y_1\right), \rho_2\left(x_2, y_2\right)\right) . 
-> $$
+> $$ \rho\left(\left(x_1, x_2\right),\left(y_1, y_2\right)\right)=\max \left(\rho_1\left(x_1, y_1\right), \rho_2\left(x_2, y_2\right)\right) .  $$
 
 Other metrics are sometimes used on $X_1 \times X_2$, for instance,
 
@@ -486,20 +442,13 @@ Page 15
 
 > [!def distance between a point and a set / distance between sets]
 > In a metric space $(X, \rho)$ we can define the distance from a point to a set and the distance between two sets. Namely, if $x \in X$ and $E, F \subset X$,
->
-> $$
->  \begin{gathered} \rho(x, E)=\inf \{\rho(x, y): y \in E\}, \\ \rho(E, F)=\inf \{\rho(x, y): x \in E, y \in F\}=\inf \{\rho(x, F): x \in E\} . \end{gathered} 
-> $$
+> $$  \begin{gathered} \rho(x, E)=\inf \{\rho(x, y): y \in E\}, \\ \rho(E, F)=\inf \{\rho(x, y): x \in E, y \in F\}=\inf \{\rho(x, F): x \in E\} . \end{gathered}  $$
 
 Observe that, by Proposition $0.22, \rho(x, E)=0$ iff $x \in \bar{E}$.
 
 > [!def diameter of a subset a metric space, bounded subset]
 > We also define the **diameter** of $E \subset X$ to be
->
-> $$
->  \operatorname{diam} E=\sup \{\rho(x, y): x, y \in E\} . 
-> $$
->
+> $$ \operatorname{diam} E=\sup \{\rho(x, y): x, y \in E\} .  $$
 > $E$ is called **bounded** if $\operatorname{diam} E<\infty$.
 
 > [!def cover of a subset of a metric space]
