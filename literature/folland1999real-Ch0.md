@@ -75,7 +75,7 @@ Page 4
 
 It is easily verified that the map $f^{-1}: \mathcal{P}(Y) \rightarrow \mathcal{P}(X)$ defined by the second formula commutes with union, intersections, and complements:
 
-$$ \begin{gathered} f^{-1}\left(\bigcup_{\alpha \in A} E_\alpha\right)=\bigcup_{\alpha \in A} f^{-1}\left(E_\alpha\right), \quad f^{-1}\left(\bigcap_{\alpha \in A} E_\alpha\right)=\bigcap_{\alpha \in A} f^{-1}\left(E_\alpha\right), \\ f^{-1}\left(E^c\right)=\left(f^{-1}(E)\right)^c . \end{gathered} $$
+$\begin{gathered} f^{-1}\left(\bigcup_{\alpha \in A} E_\alpha\right)=\bigcup_{\alpha \in A} f^{-1}\left(E_\alpha\right), \quad f^{-1}\left(\bigcap_{\alpha \in A} E_\alpha\right)=\bigcap_{\alpha \in A} f^{-1}\left(E_\alpha\right), \\ f^{-1}\left(E^c\right)=\left(f^{-1}(E)\right)^c . \end{gathered}$
 
 (The direct image mapping $f: \mathcal{P}(X) \rightarrow \mathcal{P}(Y)$ commutes with unions, but in general not with intersections or complements. This is an important fact for defining mappings in topological spaces)
 
