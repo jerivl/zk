@@ -158,27 +158,15 @@ We have deduced the axiom of choice from the Hausdorff maximal principle; in fac
 > [!def Relating cardinality of two sets]
 > If $X$ and $Y$ are nonempty sets, we define the expressions
 
-$$
-
- \operatorname{card}(X) \leq \operatorname{card}(Y), \quad \operatorname{card}(X)=\operatorname{card}(Y), \quad \operatorname{card}(X) \geq \operatorname{card}(Y)
-
-$$
+$\operatorname{card}(X) \leq \operatorname{card}(Y), \quad \operatorname{card}(X)=\operatorname{card}(Y), \quad \operatorname{card}(X) \geq \operatorname{card}(Y)$
 
 to mean that there exists $f: X \rightarrow Y$ which is injective, bijective, or surjective, respectively. We also define
 
-$$
-
- \operatorname{card}(X)<\operatorname{card}(Y), \quad \operatorname{card}(X)>\operatorname{card}(Y)
-
-$$
+$\operatorname{card}(X)<\operatorname{card}(Y), \quad \operatorname{card}(X)>\operatorname{card}(Y)$
 
 to mean that there is an injection but no bijection, or a surjection but no bijection, from $X$ to $Y$. Observe that we attach no meaning to the expression " $\operatorname{card}(X)$ " when it stands alone; there are various ways of doing so, but they are irrelevant for our purposes (except when $X$ is finite - see below). These relationships can be extended to the empty set by declaring that
 
-$$
-
- \operatorname{card}(\varnothing)<\operatorname{card}(X) \text { and } \operatorname{card}(X)>\operatorname{card}(\varnothing) \text { for all } X \neq \varnothing
-
-$$
+$\operatorname{card}(\varnothing)<\operatorname{card}(X) \text { and } \operatorname{card}(X)>\operatorname{card}(\varnothing) \text { for all } X \neq \varnothing$
 
 Page 7
 
@@ -197,11 +185,9 @@ Page 7
 [Q:: Why is \operatorname{card}(X) \leq \operatorname{card}(\mathcal{P}(X))? Not understanding the converse of the proof.]
 
 > [!def countable set, countably infinite set]
-> A set $X$ is called countable (or denumerable) if $\operatorname{card}(X) \leq \operatorname{card}(\mathbb{N})$. In particular, all finite sets are countable, and for these it is convenient to interpret "card $(X)$ " as the number of elements in $X$ :
+> A set $X$ is called countable (or denumerable) if $\operatorname{card}(X) \leq \operatorname{card}(\mathbb{N})$. In particular, all finite sets are countable, and for these it is convenient to interpret "card $(X)$ " as the number of elements in $X$:
 >
-> $$
->  \operatorname{card}(X)=n \text { iff } \operatorname{card}(X)=\operatorname{card}(\{1, \ldots, n\}) .  
-> $$
+> $$\operatorname{card}(X)=n \text { iff } \operatorname{card}(X)=\operatorname{card}(\{1, \ldots, n\})$$
 >
 > If $X$ is countable but not finite, we say that $X$ is countably infinite.
 
@@ -218,9 +204,7 @@ c. If $X$ is countably infinite, then $\operatorname{card}(X)=\operatorname{card
 > [!def cardinality of the continuum]
 > A set $X$ is said to have the **cardinality of the continuum** if $\operatorname{card}(X)=\operatorname{card}(\mathbb{R})$. We shall use the letter $\mathfrak{c}$ as an abbreviation for $\operatorname{card}(\mathbb{R})$ :
 >
-> $$
-> \operatorname{card}(X)=c \text { iff } \operatorname{card}(X)=\operatorname{card}(\mathbb{R}) .
-> $$
+> $$\operatorname{card}(X)=c \text { iff } \operatorname{card}(X)=\operatorname{card}(\mathbb{R})$$
 
 > [!Proposition 0.12]
 > $\operatorname{card}(\mathcal{P}(\mathbb{N}))=\mathfrak{c}$.
@@ -255,22 +239,14 @@ It is frequently useful to adjoin two extra points $\infty(=+\infty)$ and $-\inf
 
 The completeness of $\mathbb{R}$ can then be stated as follows: Every subset $A$ of $\mathbb{R}$ has a least upper bound, or supremum, and a greatest lower bound, or infimum, which are denoted by $\sup A$ and $\inf A$. If $A=\left\{a_1, \ldots a_n\right\}$, we also write
 
-$$
-
-\max \left(a_1, \ldots, a_n\right)=\sup A, \quad \min \left(a_1, \ldots, a_n\right)=\inf A
-
-$$
+$$ \max \left(a_1, \ldots, a_n\right)=\sup A, \quad \min \left(a_1, \ldots, a_n\right)=\inf A $$
 
 Page 11
 
 > [!def limit superior / inferior of a sequence]
-The limit superior and limit inferior for a sequence $\{x_n\} \in \overline{\mathbb{R}}$ is defined as
-
-$$
-
- \limsup x_n=\inf _{k \geq 1}\left(\sup _{n \geq k} x_n\right), \quad \liminf x_n=\sup _{k \geq 1}\left(\inf _{n \geq k} x_n\right) .
-
-$$
+> The limit superior and limit inferior for a sequence $\{x_n\} \in \overline{\mathbb{R}}$ is defined as
+> 
+> $$ \limsup x_n=\inf _{k \geq 1}\left(\sup _{n \geq k} x_n\right), \quad \liminf x_n=\sup _{k \geq 1}\left(\inf _{n \geq k} x_n\right) . $$
 
 > [!lemma]
 every sequence $\left\{x_n\right\}$ in $\overline{\mathbb{R}}$ has a limit superior and a limit inferior
@@ -284,26 +260,16 @@ The sequence $\left\{x_n\right\}$ converges (in $\mathbb{R}$ ) iff the limit sup
 >
 > One can also define limsup and lim inf for functions $f: \mathbb{R} \rightarrow \overline{\mathbb{R}}$, for instance:
 
-$$
- \limsup _{x \rightarrow a} f(x)=\inf _{\delta>0}\left(\sup _{0<|x-a|<\delta} f(x)\right).
-$$
+$$\limsup _{x \rightarrow a} f(x)=\inf _{\delta>0}\left(\sup _{0<|x-a|<\delta} f(x)\right).$$
 
 The arithmetical operations on $\mathbb{R}$ can be partially extended to $\overline{\mathbb{R}}$ :
 
-$$
-
- \begin{gathered} x \pm \infty= \pm \infty(x \in \mathbb{R}), \quad \infty+\infty=\infty, \quad-\infty-\infty=-\infty, \\ x \cdot( \pm \infty)= \pm \infty(x>0), \quad x \cdot( \pm \infty)=\mp \infty(x<0) . \end{gathered}
-
-$$
+$$\begin{gathered} x \pm \infty= \pm \infty(x \in \mathbb{R}), \quad \infty+\infty=\infty, \quad-\infty-\infty=-\infty, \\ x \cdot( \pm \infty)= \pm \infty(x>0), \quad x \cdot( \pm \infty)=\mp \infty(x<0) . \end{gathered}$$
 
 > [!def uncountable sums of non-negative functions]
 We will occasionally encounter uncountable sums of nonnegative numbers. If $X$ is an arbitrary set and $f: X \rightarrow[0, \infty]$, we define $\sum_{x \in X} f(x)$ to be the supremum of its finite partial sums:
 
-$$
-
- $\sum_{x \in X} f(x)=\sup \left\{\sum_{x \in F} f(x): F \subset X, F\right.$ finite $\}$.
-
-$$
+$$\sum_{x \in X} f(x)=\sup \left\{\sum_{x \in F} f(x): F \subset X, F.\text{ finite}\right\}.$$
 
 Later we shall recognize this as the integral of $f$ with respect to counting measure on $X$.
 
@@ -317,11 +283,7 @@ If $X \subset \overline{\mathbb{R}}$  and $f: X \rightarrow \overline{\mathbb{R}
 
 If $f: \mathbb{R} \rightarrow \mathbb{R}$ is an increasing function, then $f$ has rightand left-hand limits at each point:
 
-$$
-
-f(a+)=\lim _{x \backslash a} f(x)=\inf _{x>a} f(x), \quad f(a-)=\lim _{x / a} f(x)=\sup _{x<a} f(x) .
-
-$$
+$$f(a+)=\lim _{x \backslash a} f(x)=\inf _{x>a} f(x), \quad f(a-)=\lim _{x / a} f(x)=\sup _{x<a} f(x).$$
 
 Moreover, the limiting values $f(\infty)=\sup _{a \in \mathbb{R}} f(x)$ and $f(-\infty)=\inf _{a \in \mathbb{R}} f(x)$ exist (possibly equal to $\pm \infty$ ).
 
@@ -330,11 +292,7 @@ $f$ is called right continuous if $f(a)=f(a+)$ for all $a \in \mathbb{R}$ and le
 
 For points $x$ in $\mathbb{R}$ or $\mathbb{C},|x|$ denotes the ordinary absolute value or modulus of $x$, $|a+i b|=\sqrt{a^2+b^2}$. For points $x$ in $\mathbb{R}^n$ or $\mathbb{C}^n,|x|$ denotes the Euclidean norm:
 
-$$
-
-|x|=\left[\sum_1^n\left|x_j\right|^2\right]^{1 / 2} .
-
-$$
+$$|x|=\left[\sum_1^n\left|x_j\right|^2\right]^{1 / 2} .$$
 
 > [!def open set in \mathbb{R}]
 We recall that a set $U \subset \mathbb{R}$ is open if, for every $x \in U, U$ includes an interval centered at $x$.
@@ -367,15 +325,11 @@ iv. the product metric
 > [!def product metric]
 > If $\left(X_1, \rho_1\right)$ and $\left(X_2, \rho_2\right)$ are metric spaces, the product metric $\rho$ on $X_1 \times X_2$ is given by
 >
-> $$ \rho\left(\left(x_1, x_2\right),\left(y_1, y_2\right)\right)=\max \left(\rho_1\left(x_1, y_1\right), \rho_2\left(x_2, y_2\right)\right) .  $$
+> $$\rho\left(\left(x_1, x_2\right),\left(y_1, y_2\right)\right)=\max \left(\rho_1\left(x_1, y_1\right), \rho_2\left(x_2, y_2\right)\right) .$$
 
 Other metrics are sometimes used on $X_1 \times X_2$, for instance,
 
-$$
-
- \rho_1\left(x_1, y_1\right)+\rho_2\left(x_2, y_2\right) \text { or }\left[\rho_1\left(x_1, y_1\right)^2+\rho_2\left(x_2, y_2\right)^2\right]^{1 / 2} \text {. }
-
-$$
+$$\rho_1\left(x_1, y_1\right)+\rho_2\left(x_2, y_2\right) \text { or }\left[\rho_1\left(x_1, y_1\right)^2+\rho_2\left(x_2, y_2\right)^2\right]^{1 / 2} \text {. }$$
 
 These, however, are equivalent to the product metric in the sense that we shall define at the end of this section.
 
@@ -446,11 +400,7 @@ Observe that, by Proposition $0.22, \rho(x, E)=0$ iff $x \in \bar{E}$.
 
 Every totally bounded set is bounded, for if $x, y \in \bigcup_1^n B\left(\epsilon, z_j\right)$, say $x \in B\left(\epsilon, z_1\right)$ and $y \in B\left(\epsilon, z_2\right)$, then
 
-$$
-
-\rho(x, y) \leq \rho\left(x, z_1\right)+\rho\left(z_1, z_2\right)+\rho\left(z_2, y\right) \leq 2 \epsilon+\max \left\{\rho\left(z_j, z_k\right): 1 \leq j, k \leq n\right\} .
-
-$$
+$$\rho(x, y) \leq \rho\left(x, z_1\right)+\rho\left(z_1, z_2\right)+\rho\left(z_2, y\right) \leq 2 \epsilon+\max \left\{\rho\left(z_j, z_k\right): 1 \leq j, k \leq n\right\} .$$
 
 (The converse is false in general.) If $E$ is totally bounded, so is $\bar{E}$, for it is easily seen that if $E \subset \bigcup_1^n B\left(\epsilon, z_j\right)$, then $\bar{E} \subset \bigcup_1^n B\left(2 \epsilon, z_j\right)$.
 
@@ -472,7 +422,8 @@ Every compact set is closed (by Proposition 0.24) and bounded; the converse is f
 
 > [!def equivalent metrics]
 > Two metrics $\rho_1$ and $\rho_2$ on a set $X$ are called equivalent if
-$$ C \rho_1 \leq \rho_2 \leq C^{\prime} \rho_1 \text { for some } C, C^{\prime}>0 . $$
+> 
+> $$C \rho_1 \leq \rho_2 \leq C^{\prime} \rho_1 \text { for some } C, C^{\prime}>0 .$$
 
 It is easily verified that equivalent metrics define the same open, closed, and compact sets, the same convergent and Cauchy sequences, and the same continuous and uniformly continuous mappings. Consequently, most results concerning metric spaces depend not on the particular metric chosen but only on its equivalence class.
 
