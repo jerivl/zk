@@ -16,8 +16,8 @@ tags:
   \mathcal{P}(X) = \{E: E \subset X\} $$
 
  > [!def union and intersection of sets]
->
  > If $\mathcal{E}$ is a family of sets, we can form the **union and intersection** of its members:
+ > 
 >  $$\begin{aligned} & \bigcup_{E \in \mathcal{E}} E=\{x: x \in E \text { for some } E \in \mathcal{E}\}, \\ & \bigcap_{E \in \mathcal{E}} E=\{x: x \in E \text { for all } E \in \mathcal{E}\} . \end{aligned}$$
 
  > [!def disjoint sets]
