@@ -1,7 +1,7 @@
 ---
 aliases: [0.1  The language of set theory]
 created: 2023-10-01T14:51:47-07:00
-modified: 2023-10-12T10:06:20-07:00
+modified: 2023-10-14T18:34:53-07:00
 tags: 
 ---
 # 0.1  The language of set theory
@@ -18,47 +18,34 @@ tags:
  > [!def union and intersection of sets]
 >
  > If $\mathcal{E}$ is a family of sets, we can form the **union and intersection** of its members:
->  $$\begin{aligned} & \bigcup_{E \in \mathcal{E}} E=\{x: x \in E \text { for some } E \in \mathcal{E}\}, \\ & \bigcap_{E \in \mathcal{E}} E=\{x: x \in E \text { for all } E \in \mathcal{E}\} . \end{aligned}$$
+>  $\begin{aligned} & \bigcup_{E \in \mathcal{E}} E=\{x: x \in E \text { for some } E \in \mathcal{E}\}, \\ & \bigcap_{E \in \mathcal{E}} E=\{x: x \in E \text { for all } E \in \mathcal{E}\} . \end{aligned}$
 
  > [!def disjoint sets]
  > If $E_\alpha \cap E_\beta=\varnothing$ whenever $\alpha \neq \beta$, the sets $E_\alpha$ are called **disjoint**.
 
-- When considering families of sets indexed by $\mathbb{N}$, our usual notation will be
-$$
-
- \left\{E_n\right\}_{n=1}^{\infty} \text { or }\left\{E_n\right\}_1^{\infty},
-
-$$
-
-and likewise for unions and intersections. In this situation, the notions of limit superior and limit inferior are sometimes useful:
+- When considering families of sets indexed by $\mathbb{N}$, our usual notation will be $\left\{E_n\right\}_{n=1}^{\infty} \text { or }\left\{E_n\right\}_1^{\infty}$ and likewise for unions and intersections. In this situation, the notions of limit superior and limit inferior are sometimes useful:
 
 > [!def limit superior / inferior]
->
-> $$
->  \lim \sup E_n=\bigcap_{k=1}^{\infty} \bigcup_{n=k}^{\infty} E_n, \quad \liminf E_n=\bigcup_{k=1}^{\infty} \bigcap_{n=k}^{\infty} E_n . 
-> $$
+> $$\lim \sup E_n=\bigcap_{k=1}^{\infty} \bigcup_{n=k}^{\infty} E_n, \quad \liminf E_n=\bigcup_{k=1}^{\infty} \bigcap_{n=k}^{\infty} E_n$$
 
  The reader may verify that
 
- $$ \begin{aligned} \lim \sup E_n & =\left\{x: x \in E_n \text { for infinitely many } n\right\} \\ \liminf E_n & =\left\{x: x \in E_n \text { for all but finitely many } n\right\} \end{aligned} $$
+ $\begin{aligned} \lim \sup E_n & =\left\{x: x \in E_n \text { for infinitely many } n\right\} \\ \liminf E_n & =\left\{x: x \in E_n \text { for all but finitely many } n\right\} \end{aligned}$
 
 - Page 3
 > [!def differences of sets]
 > If $E$ and $F$ are sets, we denote their difference by $E \backslash F$ :
->
-> $$
->  E \backslash F=\{x: x \in E \text { and } x \notin F\}, $$
-> and their symmetric difference by $E \triangle F$ :$$ E \Delta F=(E \backslash F) \cup(F \backslash E) .$$
+> $E \backslash F=\{x: x \in E \text { and } x \notin F\},$
+and their symmetric difference by
+> $E \triangle F$ :$E \Delta F=(E \backslash F) \cup(F \backslash E)$
 
 > [!def complement of a set]
 >
-> When it is clearly understood that all sets in question are subsets of a fixed set $X$, we define the complement $E^c$ of a set $E$ (in $X$ ): $$ E^c=X \backslash E . $$
+> When it is clearly understood that all sets in question are subsets of a fixed set $X$, we define the complement $E^c$ of a set $E$ (in $X$ ): $E^c=X \backslash E$
 
 
 > [!lemma deMorgan's laws]
->
-> $$ \left(\bigcup_{\alpha \in A} E_\alpha\right)^c=\bigcap_{\alpha \in A} E_\alpha^c, \quad\left(\bigcap_{\alpha \in A} E_\alpha\right)^c=\bigcup_{\alpha \in A} E_\alpha^c .  $$
->
+> $$\left(\bigcup_{\alpha \in A} E_\alpha\right)^c=\bigcap_{\alpha \in A} E_\alpha^c, \quad\left(\bigcap_{\alpha \in A} E_\alpha\right)^c=\bigcup_{\alpha \in A} E_\alpha^c$$
 
 > [!def cartesian product of two sets / relations]
 >  If $X$ and $Y$ are sets, their Cartesian product $X \times Y$ is the set of all ordered pairs $(x, y)$ such that $x \in X$ and $y \in Y$. A relation from $X$ to $Y$ is a subset of $X \times Y$. (If $Y=X$, we speak of a relation on $X$.) If $R$ is a relation from $X$ to $Y$, we shall sometimes write $x R y$ to mean that $(x, y) \in R$.
