@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature/folland1999real-Ch1.md",
+                "file": "literature/folland1999real.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/folland1999real-Ch1.md",
+                "file": "literature/folland1999real.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/folland1999real-Ch1.md",
+                "file": "literature/folland1999real.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/folland1999real-Ch1.md"
+                "file": "literature/folland1999real.md"
               }
             }
           }
@@ -179,22 +179,21 @@
   "active": "c231eb600817353d",
   "lastOpenFiles": [
     ".git/index.lock",
+    "literature/folland1999real-Ch1.md",
+    ".git/objects/72/9212ccd485fadd8dab2e4ca52035e92b66510b",
+    ".git/objects/f0/1a4a59a9756df154b25de741eba043a8e42886",
+    ".git/objects/93/3dcba07dbfc98a422a8d80831ed499fa7f4220",
+    ".git/objects/2b/049e9a3c57f0b765021b760c619ed930b3b050",
+    ".git/objects/f2/0b282f470d5ff9c92f41f475a1249fe2d1ef4d",
+    ".git/objects/9f",
+    ".git/objects/9f/6177ae58b0087989a43b1adb013390439e76a4",
     ".git/objects/d0/76e090297be2c8f4655716a7f7aa99a8cfa12b",
     ".git/objects/49/7d165db9984e18a37fcbc0777b25d5dbd11a01",
-    ".git/objects/63",
-    ".git/objects/63/7cf2f8344faffaa0d53d7fd2d7a2035beca115",
-    ".git/objects/29/93b6763d8cf5711d928abc648d592845f4cb77",
-    ".git/objects/20",
-    ".git/objects/20/c2f83da8a439f4e15ef078c11fb9064955954a",
-    ".git/objects/e5",
-    ".git/objects/e5/c0668f4935b2a7eafb74ef064357cc268a35bb",
-    ".git/objects/a3/32e938ab3244bc236cd44f055f0d7e0c497c9f",
     "literature/folland1999real.md",
     "literature/folland1999real-Ch0.md",
     ".private/synthesis/Democratizing academic research.md",
     "atomic/Bochner's Theorem.md",
     "atomic/BM Decomposition.md",
-    "literature/folland1999real-Ch1.md",
     "literature/README.md",
     "README.md",
     "Pasted image 20231001151958.png",
