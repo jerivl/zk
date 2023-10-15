@@ -59,7 +59,7 @@ The most important types of relations are the following:
 > [!def Equivalence relations]
 >  An **equivalence relation** on $X$ is a relation $R$ on $X$ such that
 >
-> $$  \begin{aligned} & x R x \text { for all } x \in X, \\ & x R y \text { iff } y R x, \\ & x R z \text { whenever } x R y \text { and } y R z \text { for some } y . \end{aligned}  $$
+> $$\begin{aligned} & x R x \text { for all } x \in X, \\ & x R y \text { iff } y R x, \\ & x R z \text { whenever } x R y \text { and } y R z \text { for some } y . \end{aligned}$$
 > 
 > The equivalence class of an element $x$ is $\{y \in X: x R y\} . X$ is the disjoint union of these equivalence classes.
 
@@ -69,11 +69,11 @@ The most important types of relations are the following:
 > [!def composition of mappings / inverse image of a mapping]
 > If $f: X \rightarrow Y$ and $g: Y \rightarrow Z$ are mappings, we denote by **$g \circ f$ their composition**:
 >
-> $$ g \circ f: X \rightarrow Z, \quad g \circ f(x)=g(f(x)) . $$ 
+> $$g \circ f: X \rightarrow Z, \quad g \circ f(x)=g(f(x)) .$$ 
 >
 > If $D \subset X$ and $E \subset Y$, we define the **image of $D$ and the inverse image of $E$ under a mapping $f: X \rightarrow Y$** by
 >
-> $$ f(D)=\{f(x): x \in D\}, \quad f^{-1}(E)=\{x: f(x) \in E\} . $$
+> $$f(D)=\{f(x): x \in D\}, \quad f^{-1}(E)=\{x: f(x) \in E\} .$$
 
 Page 4
 
