@@ -1,22 +1,5 @@
 [
   {
-    "fileName": "README",
-    "relativePath": "literature/README.md"
-  },
-  {
-    "fileName": "README",
-    "relativePath": "blog/README.md"
-  },
-  {
-    "fileName": "README",
-    "relativePath": "atomic/README.md",
-    "frontmatter": {
-      "created": "2023-07-30T20:41:42-05:00",
-      "modified": "2023-07-30T21:36:59-05:00",
-      "tags": null
-    }
-  },
-  {
     "fileName": "Bochner's Theorem",
     "relativePath": "atomic/Bochner's Theorem.md",
     "tags": [
@@ -25,8 +8,8 @@
       "fourieranalysis"
     ],
     "frontmatter": {
-      "created": "2023-01-23T19:59:04-06:00",
-      "modified": "2023-07-30T21:36:59-05:00"
+      "created": "2023-01-23T17:59:04-08:00",
+      "modified": "2023-10-01T15:28:58-07:00"
     },
     "aliases": [
       "20230123120500"
@@ -36,6 +19,24 @@
         "link": "Li_2020_Random-Fourier-Features"
       }
     ]
+  },
+  {
+    "fileName": "BM Decomposition",
+    "relativePath": "atomic/BM Decomposition.md",
+    "frontmatter": {
+      "created": "2023-09-28T11:52:47-07:00",
+      "modified": "2023-09-30T15:59:34-07:00",
+      "tags": null
+    }
+  },
+  {
+    "fileName": "README",
+    "relativePath": "atomic/README.md",
+    "frontmatter": {
+      "created": "2023-07-30T20:41:42-05:00",
+      "modified": "2023-07-30T21:36:59-05:00",
+      "tags": null
+    }
   },
   {
     "fileName": "README",
@@ -90,5 +91,133 @@
         "level": 1
       }
     ]
+  },
+  {
+    "fileName": "folland1999real",
+    "relativePath": "literature/folland1999real.md",
+    "headings": [
+      {
+        "heading": "This book is a graduate-level analysis text covering core material from measure and integration theory, point set topology, and functional analysis, as well as other branches of analysis, requiring knowledge of classical theory of functions of a real variable, complex numbers, elementary set theory, and linear algebra, with exercises to aid in understanding.",
+        "level": 1
+      },
+      {
+        "heading": "Bibliography",
+        "level": 2
+      },
+      {
+        "heading": "Chapters",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "folland1999real-Ch0",
+        "relativePath": "literature/folland1999real-Ch0.md"
+      },
+      {
+        "link": "folland1999real-Ch1",
+        "relativePath": "literature/folland1999real-Ch1.md"
+      }
+    ]
+  },
+  {
+    "fileName": "folland1999real-Ch0",
+    "relativePath": "literature/folland1999real-Ch0.md",
+    "frontmatter": {
+      "created": "2023-10-01T14:51:47-07:00",
+      "modified": "2023-10-12T10:06:20-07:00",
+      "tags": null
+    },
+    "aliases": [
+      "0.1  The language of set theory"
+    ],
+    "headings": [
+      {
+        "heading": "0.1  The language of set theory",
+        "level": 1
+      },
+      {
+        "heading": "0.2 Orderings",
+        "level": 1
+      },
+      {
+        "heading": "0.3 Cardinality",
+        "level": 1
+      },
+      {
+        "heading": "0.4 More about well ordered sets",
+        "level": 1
+      },
+      {
+        "heading": "0.5 The extended real number system",
+        "level": 1
+      },
+      {
+        "heading": "0.6 Metric spaces",
+        "level": 1
+      },
+      {
+        "heading": "0.7 Notes and References",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "folland1999real",
+        "link": "folland1999real-Ch0",
+        "relativePath": "literature/folland1999real.md"
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "literature/README.md",
+    "frontmatter": {
+      "created": "2023-07-30T18:41:55-07:00",
+      "modified": "2023-09-28T11:43:17-07:00",
+      "tags": null
+    }
+  },
+  {
+    "fileName": "folland1999real-Ch1",
+    "relativePath": "literature/folland1999real-Ch1.md",
+    "frontmatter": {
+      "created": "2023-10-01T15:10:49-07:00",
+      "modified": "2023-10-12T00:49:01-07:00",
+      "tags": null
+    },
+    "aliases": [
+      "1 Measures"
+    ],
+    "headings": [
+      {
+        "heading": "1 Measures",
+        "level": 1
+      },
+      {
+        "heading": "1.1 Introduction - the impossibility of ideal properties of a measure over $\\mathbb{R}$",
+        "level": 1
+      },
+      {
+        "heading": "1.2 $\\sigma$-algebras",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "folland1999real",
+        "link": "folland1999real-Ch1",
+        "relativePath": "literature/folland1999real.md"
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "blog/README.md",
+    "frontmatter": {
+      "created": "2023-07-30T18:41:51-07:00",
+      "modified": "2023-09-28T11:39:36-07:00",
+      "tags": null
+    }
   }
 ]

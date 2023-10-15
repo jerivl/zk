@@ -1,7 +1,7 @@
 ---
 aliases: [1 Measures]
 created: 2023-10-01T15:10:49-07:00
-modified: 2023-10-12T00:49:01-07:00
+modified: 2023-10-14T18:18:46-07:00
 tags: 
 ---
 # 1 Measures
@@ -14,7 +14,7 @@ We want to measure sizes of subsets of a metric space. Ideally we would have the
 
 i. If $E_1, E_2, \ldots$ is a finite or infinite sequence of disjoint sets, then
 
-$$ \mu\left(E_1 \cup E_2 \cup \cdots\right)=\mu\left(E_1\right)+\mu\left(E_2\right)+\cdots .  $$
+$\mu\left(E_1 \cup E_2 \cup \cdots\right)=\mu\left(E_1\right)+\mu\left(E_2\right)+\cdots$
 
 ii. If $E$ is congruent to $F$ (that is, if $E$ can be transformed into $F$ by translations, rotations, and reflections), then $\mu(E)=\mu(F)$.
 
@@ -51,8 +51,8 @@ If $\mathcal{A}$ is a algebra over $X$ then, $X, \emptyset \in \mathcal{A}.$ and
 Some examples of $\sigma$-algebras: If $X$ is any set, $\mathcal{P}(X)$ and $\{\varnothing, X\}$ are $\sigma$-algebras. For uncountable $X$,  the $\sigma$-algebra of countable or co-countable sets
 
 > [!def $\sigma$ algebra of countable or co-countable sets]
-> If $X$ is uncountable, then 
-> $$ \mathcal{A}=\left\{E \subset X: E \text { is countable or } E^c \text { is countable }\right\} $$ 
+> If $X$ is uncountable, then
+> $$ \mathcal{A}=\left\{E \subset X: E \text { is countable or } E^c \text { is countable }\right\} $$
 > is a $\sigma$-algebra, called the $\sigma$-algebra of countable or co-countable sets. (The point here is that if $\left\{E_j\right\}_1^{\infty} \subset \mathcal{A}$, then $\bigcup_1^{\infty} E_j$ is countable if all $E_j$ are countable and is co-countable otherwise.)
 
 Verify that the intersection of any family of $\sigma$-algebras on $X$ is a $\sigma$-algebra.
