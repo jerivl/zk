@@ -1,7 +1,7 @@
 ---
 aliases: [1 Measures]
 created: 2023-10-01T15:10:49-07:00
-modified: 2023-10-14T18:30:31-07:00
+modified: 2023-11-13T20:51:00-08:00
 tags: 
 ---
 # 1 Measures
@@ -140,3 +140,131 @@ $\mu$ is finite $\implies$ $\mu$ is $\sigma$-finite $\implies$ $\mu$ is semifini
 Most practical measures are $\sigma$-finite, and non-$\sigma$-finite measures exhibit pathological behavior
 
 Several examples of measures
+
+>[!Prop: Any positive function defines a measure through a pointwise sum]
+>- Let $X$ be any nonempty set, $\mathcal{M}=\mathcal{P}(X)$, and $f$ any function from $X$ to $[0, \infty]$. Then $f$ determines a measure $\mu$ on $\mathcal{M}$ by the formula $\mu(E)=\sum_{x \in E} f(x)$. (For the definition of such possibly uncountable sums, see $\S 0.5$.)
+>- The reader may verify that $\mu$ is semifinite iff $f(x)<\infty$ for every $x \in X$, and $\mu$ is $\sigma$-finite iff $\mu$ is semifinite and $\{x: f(x)>0\}$ is countable.
+
+Two special cases are of this property are
+
+>[!def counting measure]
+> If $f(x)=1$ for all $x, \mu$ is called counting measure;
+
+>[!Def dirac measure]
+>If, for some $x_0 \in X, f$ is defined by $f\left(x_0\right)=1$ and $f(x)=0$ for $x \neq x_0$, $\mu$ is called the point mass or Dirac measure at $x_0$.
+
+> [!theorem 1.8]
+> 1.8 Theorem. Let $(X, \mathcal{M}, \mu)$ be a measure space.
+> a. (Monotonicity) If $E, F \in \mathcal{M}$ and $E \subset F$, then $\mu(E) \leq \mu(F)$.
+> b. (Subadditivity) If $\left\{E_j\right\}_1^{\infty} \subset \mathcal{M}$, then $\mu\left(\bigcup_1^{\infty} E_j\right) \leq \sum_1^{\infty} \mu\left(E_j\right)$
+> c. (Continuity from below) If $\left\{E_j\right\}_1^{\infty} \subset \mathcal{M}$ and $E_1 \subset E_2 \subset \cdots$, then $\mu\left(\bigcup_1^{\infty} E_j\right)=\lim _{j \rightarrow \infty} \mu\left(E_j\right)$.
+> d. (Continuity from above) If $\left\{E_j\right\}_1^{\infty} \subset \mathcal{M}, E_1 \supset E_2 \supset \cdots$, and $\mu\left(E_1\right)<\infty$, then $\mu\left(\bigcap_1^{\infty} E_j\right)=\lim _{j \rightarrow \infty} \mu\left(E_j\right)$.
+
+>[!def null set]
+>If $(X, \mathcal{M}, \mu)$ is a measure space, a set $E \in \mathcal{M}$ such that $\mu(E)=0$ is called a null set.
+
+By subadditivity, note that any countable union of null sets is a null set.
+
+>[!def almost everywhere]
+>If a statement about points $x \in X$ is true except for $x$ in some null set, we say that it is true almost everywhere (abbreviated a.e.), or for almost every $x$. (If more precision is needed, we shall speak of a $\boldsymbol{\mu}$-null set, or $\boldsymbol{\mu}$-almost everywhere).
+
+> [!def complete measure]
+> A measure whose domain includes all subsets of null sets is called complete
+
+Completeness of measures can often reduce technical issues related to existence of sets in a measurable space. This can always be done by enlarging the domain of $\mu$.
+
+> [!theorem 1.9 any measure can be completed by adding all of the null sets to the measurable space]
+> 1.9 Theorem. Suppose that $(X, \mathcal{M}, \mu)$ is a measure space. Let $\mathcal{N}=\{N \in \mathcal{\mathcal { M }} |\; \mu(N)=0\}$ and $\overline{\mathcal{M}}=\{E \cup F: E \in \mathcal{M}$ and $F \subset N$ for some $N \in \mathcal{N}\}$. Then $\overline{\mathcal{M}}$ is a $\sigma$-algebra, and there is a unique extension $\bar{\mu}$ of $\mu$ to a complete measure on $\overline{\mathcal{M}}$.
+
+>[!def completion of measure/ completion of measurable space w.r.t. a measure]
+>The measure $\bar{\mu}$ in Theorem 1.9 is called the completion of $\mu$, and $\overline{\mathcal{M}}$ is called the completion of $\mathcal{M}$ with respect to $\mu$.
+
+# 1.4 Outer Measures
+> [!def outer measure]
+> An outer measure on a nonempty set $X$ is a function $\mu^*: \mathcal{P}(X) \rightarrow[0, \infty]$ that satisfies
+> - $\mu^*(\varnothing)=0$,
+> - $\mu^*(A) \leq \mu^*(B)$ if $A \subset B$,
+> - $\mu^*\left(\bigcup_1^{\infty} A_j\right) \leq \sum_1^{\infty} \mu^*\left(A_j\right)$.
+
+The most common way to obtain outer measures is to start with a family $\mathcal{E}$ of "elementary sets" on which a notion of measure is defined (such as rectangles in the plane) and then to approximate arbitrary sets "from the outside" by countable unions of members of $\mathcal{E}$. The precise construction is as follows.
+
+> [!1.10 Proposition]
+>  Let $\mathcal{E} \subset \mathcal{P}(X)$ and $\rho: \mathcal{E} \rightarrow[0, \infty]$ be such that $\varnothing \in \mathcal{E}, X \in \mathcal{E}$, and $\rho(\varnothing)=0$. For any $A \subset X$, define
+> $$\mu^*(A)=\inf \left\{\sum_1^{\infty} \mu\left(E_j\right): E_j \in \varepsilon \text { and } A \subset \bigcup_1^{\infty} E_j\right\}$$
+>
+> Then $\mu^*$ is an outer measure.
+
+>[!def $\mu^*$-measurability]
+>The fundamental step that leads from outer measures to measures is as follows. If $\mu^*$ is an outer measure on $X$, a set $A \subset X$ is called $\mu^{\star}$-measurable if
+>$$\mu^*(E)=\mu^*(E \cap A)+\mu^*\left(E \cap A^c\right) \text { for all } E \subset X$$
+>Of course, the inequality $\mu^*(E) \leq \mu^*(E \cap A)+\mu^*\left(E \cap A^c\right)$ holds for any $A$ and $E$, so to prove that $A$ is $\mu^*$-measurable, it suffices to prove the reverse inequality. The latter is trivial if $\mu^*(E)=\infty$, so we see that $A$ is $\mu^*$-measurable iff
+>$$\mu^*(E) \geq \mu^*(E \cap A)+\mu^*\left(E \cap A^c\right) \text { for all } E \subset X \text { such that } \mu^*(E)<\infty$$
+
+> [!1.11 Carathéodory's Theorem]
+> If $\mu^*$ is an outer measure on $X$, the collection $\mathcal{M}$ of $\mu^*$-measurable sets is a $\sigma$-algebra, and the restriction of $\mu^*$ to $\mathcal{M}$ is a complete measure.
+
+Our first applications of Carathéodory's theorem will be in the context of extending measures from algebras to $\sigma$-algebras.
+
+> [!def premeasure]
+>  if $\mathcal{A} \subset \mathcal{P}(X)$ is an algebra, a function $\mu_0: \mathcal{A} \rightarrow[0, \infty]$ will be called a premeasure if
+>- $\mu_0(\varnothing)=0$,
+>- if $\left\{A_j\right\}_1^{\infty}$ is a sequence of disjoint sets in $\mathcal{A}$ such that $\bigcup_1^{\infty} A_j \in \mathcal{A}$, then $\mu_0\left(\bigcup_1^{\infty} A_j\right)=\sum_1^{\infty} \mu_0\left(A_j\right)$.
+>
+>In particular, a premeasure is finitely additive since one can take $A_j=\varnothing$ for $j$ large. The notions of finite and $\sigma$-finite premeasures are defined just as for measures. If $\mu_0$
+>is a premeasure on $\mathcal{A} \subset \mathcal{P}(X)$, it induces an outer measure on $X$ in accordance with Proposition 1.10, namely,
+>$$\mu^*(E)=\inf \left\{\sum_1^{\infty} \mu_0\left(A_j\right): A_j \in \mathcal{A}, E \subset \bigcup_1^{\infty} A_j\right\}$$
+
+>[!1.13 Proposition]
+>If $\mu_0$ is a premeasure on $\mathcal{A}$ and $\mu^*$ is defined by (1.12), then
+>a. $\mu^* \mid \mathcal{A}=\mu_0 ;$
+>b. every set in $\mathcal{A}$ is $\mu^*$ measurable.
+
+> [!1.14 Theorem ]
+> Let $\mathcal{A} \subset \mathcal{P}(X)$ be an algebra, $\mu_0$ a premeasure on $\mathcal{A}$, and $\mathcal{M}$ the $\sigma$-algebra generated by $\mathcal{A}$. There exists a measure $\mu$ on $\mathcal{N}$ whose restriction to $\mathcal{A}$ is $\mu_0$ - namely, $\mu=\mu^* \mid \mathcal{M}$ where $\mu^*$ is given by (1.12). If $\nu$ is another measure on $\mathcal{N}$ that extends $\mu_0$, then $\nu(E) \leq \mu(E)$ for all $E \in \mathcal{N}$, with equality when $\mu(E)<\infty$. If $\mu_0$ is $\sigma$-finite, then $\mu$ is the unique extension of $\mu_0$ to a measure on $\mathcal{M}$.
+
+This allows us to extend premeasures to measures over sigma algebras with a notion of uniqueness that depends on whether whether $\mu$ is finite or $\sigma$-finite
+
+# 1.5 Borel Measures on the real line
+
+We generally want that the measure of an interval is its length.
+
+> [!def borel measures on the real line]
+> The family of measures on $\mathbb{R}$ whose domain is the Borel $\sigma$-algebra $\mathcal{B}_{\mathbb{R}}$  are called Borel measures on $\mathbb{R}$.
+
+>[!def distribution function from a finite borel measure]
+>$\mu$ is a finite Borel measure on $\mathbb{R}$, and let $F(x)=\mu((-\infty, x]).\quad F$ is sometimes called the distribution function of $\mu$.
+
+Then the distribution function $F$ is increasing by Theorem 1.8a and right continuous by Theorem $1.8 \mathrm{~d}$ since $(-\infty, x]=\bigcap_1^{\infty}\left(-\infty, x_n\right]$ whenever $x_n \searrow x$. (Recall the discussion of increasing functions in $\S 0.5$.) Moreover, if $b>a,(-\infty, b]=(-\infty, a] \cup(a, b]$, so $\mu((a, b])=$ $F(b)-F(a)$. Our procedure will be to turn this process around and construct a measure $\mu$ starting from an increasing, right-continuous function $F$. The special case $F(x)=x$ will yield the usual "length" measure.
+
+The building blocks for our theory will be the left-open, right-closed intervals in $\mathbb{R}$ - that is, sets of the form $(a, b]$ or $(a, \infty)$ or $\varnothing$, where $-\infty \leq a<b<\infty$. In this section we shall refer to such sets as h-intervals (h for "half-open"). Clearly the intersection of two h-intervals is an h-interval, and the complement of an h-interval is an h-interval or the disjoint union of two h-intervals. By Proposition 1.7, the collection $\mathcal{A}$ of finite disjoint unions of h-intervals is an algebra, and by Proposition 1.2 , the $\sigma$-algebra generated by $\mathcal{A}$ is $\mathcal{B}_{\mathbb{R}}$.
+
+> [!def h-intervals]
+> h-intervals ( $h$ for "half-open") the left-open, right-closed intervals in $\mathbb{R}$ - that is, sets of the form $(a, b]$ or $(a, \infty)$ or $\varnothing$, where $-\infty \leq a<b<\infty$. C
+
+Note that the intersection of two h-intervals is an h-interval, and the complement of an h-interval is an h-interval or the disjoint union of two h-intervals. By Proposition 1.7, the collection $\mathcal{A}$ of finite disjoint unions of h-intervals is an algebra, and by Proposition 1.2 , the $\sigma$-algebra generated by $\mathcal{A}$ is $\mathcal{B}_{\mathbb{R}}$.
+
+> [!1.15 Proposition]
+> Let $F: \mathbb{R} \rightarrow \mathbb{R}$ be increasing and right continuous. If $\left(a_j, b_j\right]$ $(j=1, \ldots, n)$ are disjoint $h$-intervals, let
+> $$\mu_0\left(\bigcup_1^n\left(a_j, b_j\right]\right)=\sum_1^n\left[F\left(b_j\right)-F\left(a_j\right)\right],$$
+> and let $\mu_0(\varnothing)=0$. Then $\mu_0$ is a premeasure on the algebra $\mathcal{A}$.
+
+This says that any such $F$ can be used to construct a premeasure over unions of h-intervals.
+
+## Proof 1.15
+---
+- Well defined since if there exists distinct finite sequences of h intervals $\{I_i\}_i^n, \{J_i\}_i^n$s.t.$(a,b] = \bigcup_1^nI_i = \bigcup_1^n J_i$ then by relabeling we get $$\sum_i \mu_0(I_i) = \sum_{i,j} \mu_0(I_i \cap J_i) = \sum_j \mu_0(J_i)$$
+- Showing the equality
+	- "$\geq$": Take $\bigcup I_i \in \mathcal{A}$ where $I_i$ are all h intervals. Then by compactness, there exists a finite subsequence of h-intervals that are contained in $I$ then by subadditivity $\mu_0(I)=\mu_0\left(\bigcup_1^n I_j\right)+\mu_0\left(I \backslash \bigcup_1^n I_j\right) \geq \mu_0\left(\bigcup_1^n I_j\right)=\sum_1^n \mu_0\left(I_j\right)$ so in the limit, $\mu_0(I) \geq \sum \mu_0\left(I_j\right)$
+	- "$\leq$": Use right continuity of $F$ open cover $(a_j, b_j + \delta_j)$ and finite subcover due to compactness of $I$ and give an epsilon of room $\mu_0(I) < F(b) - F(a + \delta) + \epsilon < \sum \mu(I_j) + 2\epsilon$ for in the limit $\epsilon \rightarrow 0$ $\mu_0(I) \leq \sum \mu(I_j)$. Also note edge cases $a = -\infty$ and $b = \infty$
+
+We can extend the premeasure construction to borel measure
+---
+> [!1.16 Theorem.]
+>  If $F: \mathbb{R} \rightarrow \mathbb{R}$ is any increasing, right continuous function, there is a unique Borel measure $\mu_F$ on $\mathbb{R}$ such that $\mu_F((a, b])=F(b)-F(a)$ for all $a, b$. If $G$ is another such function, we have $\mu_F=\mu_G$ iff $F-G$ is constant. Conversely, if $\mu$ is a Borel measure on $\mathbb{R}$ that is finite on all bounded Borel sets and we define
+> $$F(x)= \begin{cases}\mu((0, x]) & \text { if } x>0, \\ 0 & \text { if } x=0, \\ -\mu((-x, 0]) & \text { if } x<0,\end{cases}$$
+> then $F$ is increasing and right continuous, and $\mu=\mu_F$.
+
+## Proof 1.16
+- $F$ induces a premeasure on $\mathcal{A}$ by thrm 1.15. Then the borel sets generated by $\mathcal{A}$ have a $\sigma$-finite premeasure so by thrm 1.14 have uniqueness $\mu_F((a,b]) = F(b) - F(a)$ for all $a,b$.
+- For converse use monotonicity of $\mu$ and continuity from above and below  for $F$ increasng and right continuous. Uniqueness from thrm 1.14
+

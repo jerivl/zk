@@ -5,8 +5,8 @@ aliases:
   - Bibliography
   - Chapters
   - folland1999real
-created: 1623-09-01T09:06:04-07:52
-modified: 2023-10-14T18:28:29-07:00
+created: 1623-09-01T08:45:46-07:52
+modified: 2023-11-18T15:13:09-08:00
 citeKey: folland1999real
 authors:
   - Folland, Gerald
@@ -28,3 +28,5 @@ bibliography:
 [[folland1999real-Ch0]]
 
 [[folland1999real-Ch1]]
+
+[[folland1999real-Ch2]]

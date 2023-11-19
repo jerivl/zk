@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "4bfa3a25cdfb5d01",
+            "id": "8916d7c19590befc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature/folland1999real-Ch1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c231eb600817353d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "literature/folland1999real-Ch0.md",
+                "file": "literature/folland1999real-Ch2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2c0009862f3d9fb4",
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature/folland1999real-Ch0.md",
+                "file": "literature/folland1999real-Ch2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature/folland1999real-Ch0.md",
+                "file": "literature/folland1999real-Ch2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,12 +140,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/folland1999real-Ch0.md"
+                "file": "literature/folland1999real-Ch2.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,44 +162,43 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c231eb600817353d",
+  "active": "8916d7c19590befc",
   "lastOpenFiles": [
     ".git/index.lock",
-    ".git/objects/94/14b2d5ee1f074e58b652d5ca63176db6aa46e0",
-    ".git/objects/2d/857584c00366cc227220da9e07c334b8f69c15",
-    ".git/objects/eb/055340764a0ad82c890c81a2583183c79c3344",
-    ".git/objects/07/d6f0c074ec7cdfbfda550d98514697cc5696a2",
-    ".git/objects/29/f9638826dc0c275c64b7c1e7a714abafc49e8a",
-    ".git/objects/0a/a1f65619ee13a2ddcee44aa82d080dec8f840c",
-    ".private/.git/index.lock",
-    ".git/objects/03/e7d06b89d041a43907dcb09ffc4f09efe9458e",
-    ".git/objects/12",
-    ".git/objects/12/d40946749a465eeaee7bdde323e52e7cfa935b",
     "literature/folland1999real-Ch1.md",
-    "literature/README.md",
-    "literature/folland1999real-Ch0.md",
+    "literature/folland1999real-Ch2.md",
+    "literature/tao2011measure.md",
+    "literature/rudin1953principals.md",
     "literature/folland1999real.md",
-    ".private/synthesis/Democratizing academic research.md",
-    "atomic/Bochner's Theorem.md",
-    "atomic/BM Decomposition.md",
-    "README.md",
-    "Pasted image 20231001151958.png",
-    "blog/README.md",
+    "literature/folland1999real-Ch0.md",
+    ".obsidian/plugins/metadata-extractor/.git/index.lock",
+    "literature/chatterjee2023gap.md",
+    "literature/chung2006spectral.md",
+    "literature/README.md",
+    "atomic/README.md",
+    ".private/daily/20231117003739.md",
+    ".private/daily/tutorial infiniband.md",
     ".private/daily/Untitled.md",
-    ".private/daily/using NVIDIA Pytorch docker.md",
-    ".private/daily/20230420020123.md",
-    ".private/daily/20230418121100.md",
-    ".private/daily/20230418110900.md",
-    ".private/daily/20230418094500.md",
-    ".private/daily/20230417164700.md",
-    ".private/daily/20230417163700.md",
-    ".private/daily/20221217104400.md",
-    ".private/daily/20221201170000.md",
-    ".private/daily/20221029131600.md",
-    ".private/daily/20220916121600.md",
-    ".private/daily/20220716180700.md",
-    ".private/daily/20220523161100.md",
-    ".private/daily/20220517144900.md",
-    ".private/daily/20220511202300.md"
+    ".private/daily/todo/20191025205846.md",
+    ".private/daily/Untitled 1.md",
+    ".private/.git/index.lock",
+    ".private/synthesis/Democratizing academic research.md",
+    ".private/synthesis/kuramoto-paper-outline.md",
+    ".private/daily/20210218200154.md",
+    ".private/daily/20210218200153.md",
+    ".private/daily/20210122190342.md",
+    ".private/daily/20210122182521.md",
+    ".private/daily/20201106010738.md",
+    ".private/daily/20201106153040.md",
+    ".private/daily/20201029134413.md",
+    ".private/daily/20200929202453.md",
+    ".git/objects/4e/4e26c9f40867f6ecb50165405c85733f94c34a",
+    ".git/objects/f3/dbd4847b7906a1227a3506e9149085d9d7a663",
+    ".git/objects/ac/7d7d2d7a73fcfe00b59739baf78391dcae65f8",
+    ".git/objects/95/b1d1e82fae404b3dbc67eef303280a5e0a3520",
+    ".git/objects/f4/15639c6bcc2d36bddc2d508ca361739682a556",
+    ".git/objects/72/78b17da019eb47963dbbc4dd1e605a39749cec",
+    ".git/objects/94/14b2d5ee1f074e58b652d5ca63176db6aa46e0",
+    "Pasted image 20231001151958.png"
   ]
 }

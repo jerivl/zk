@@ -1,44 +1,5 @@
 [
   {
-    "fileName": "Bochner's Theorem",
-    "relativePath": "atomic/Bochner's Theorem.md",
-    "tags": [
-      "functionalanalysis",
-      "harmonicanalysis",
-      "fourieranalysis"
-    ],
-    "frontmatter": {
-      "created": "2023-01-23T17:59:04-08:00",
-      "modified": "2023-10-01T15:28:58-07:00"
-    },
-    "aliases": [
-      "20230123120500"
-    ],
-    "links": [
-      {
-        "link": "Li_2020_Random-Fourier-Features"
-      }
-    ]
-  },
-  {
-    "fileName": "BM Decomposition",
-    "relativePath": "atomic/BM Decomposition.md",
-    "frontmatter": {
-      "created": "2023-09-28T11:52:47-07:00",
-      "modified": "2023-09-30T15:59:34-07:00",
-      "tags": null
-    }
-  },
-  {
-    "fileName": "README",
-    "relativePath": "atomic/README.md",
-    "frontmatter": {
-      "created": "2023-07-30T20:41:42-05:00",
-      "modified": "2023-07-30T21:36:59-05:00",
-      "tags": null
-    }
-  },
-  {
     "fileName": "README",
     "relativePath": "README.md",
     "frontmatter": {
@@ -93,16 +54,40 @@
     ]
   },
   {
+    "fileName": "README",
+    "relativePath": "blog/README.md",
+    "frontmatter": {
+      "created": "2023-07-30T18:41:51-07:00",
+      "modified": "2023-09-28T11:39:36-07:00",
+      "tags": null
+    }
+  },
+  {
     "fileName": "folland1999real",
     "relativePath": "literature/folland1999real.md",
+    "tags": [
+      "literature"
+    ],
+    "frontmatter": {
+      "created": "1623-09-01T09:01:14-07:52",
+      "modified": "2023-11-01T18:26:01-07:00",
+      "citeKey": "folland1999real",
+      "authors": [
+        "Folland, Gerald"
+      ],
+      "year": 1999,
+      "lastRead": "2023-09-30",
+      "bibliography": null
+    },
+    "aliases": [
+      "Bibliography",
+      "Chapters",
+      "folland1999real"
+    ],
     "headings": [
       {
-        "heading": "This book is a graduate-level analysis text covering core material from measure and integration theory, point set topology, and functional analysis, as well as other branches of analysis, requiring knowledge of classical theory of functions of a real variable, complex numbers, elementary set theory, and linear algebra, with exercises to aid in understanding.",
-        "level": 1
-      },
-      {
         "heading": "Bibliography",
-        "level": 2
+        "level": 1
       },
       {
         "heading": "Chapters",
@@ -121,11 +106,52 @@
     ]
   },
   {
+    "fileName": "folland1999real-Ch1",
+    "relativePath": "literature/folland1999real-Ch1.md",
+    "frontmatter": {
+      "created": "2023-10-01T15:10:49-07:00",
+      "modified": "2023-10-29T13:17:08-07:00",
+      "tags": null
+    },
+    "aliases": [
+      "1 Measures"
+    ],
+    "headings": [
+      {
+        "heading": "1 Measures",
+        "level": 1
+      },
+      {
+        "heading": "1.1 Introduction - the impossibility of ideal properties of a measure over $\\mathbb{R}$",
+        "level": 1
+      },
+      {
+        "heading": "1.2 $\\sigma$-algebras",
+        "level": 1
+      },
+      {
+        "heading": "1.4 Outer Measures",
+        "level": 1
+      },
+      {
+        "heading": "1.5 Borel Measures on the real line",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "folland1999real",
+        "link": "folland1999real-Ch1",
+        "relativePath": "literature/folland1999real.md"
+      }
+    ]
+  },
+  {
     "fileName": "folland1999real-Ch0",
     "relativePath": "literature/folland1999real-Ch0.md",
     "frontmatter": {
       "created": "2023-10-01T14:51:47-07:00",
-      "modified": "2023-10-12T10:06:20-07:00",
+      "modified": "2023-10-14T19:12:24-07:00",
       "tags": null
     },
     "aliases": [
@@ -179,45 +205,42 @@
     }
   },
   {
-    "fileName": "folland1999real-Ch1",
-    "relativePath": "literature/folland1999real-Ch1.md",
+    "fileName": "BM Decomposition",
+    "relativePath": "atomic/BM Decomposition.md",
     "frontmatter": {
-      "created": "2023-10-01T15:10:49-07:00",
-      "modified": "2023-10-12T00:49:01-07:00",
+      "created": "2023-09-28T11:52:47-07:00",
+      "modified": "2023-09-30T15:59:34-07:00",
       "tags": null
-    },
-    "aliases": [
-      "1 Measures"
-    ],
-    "headings": [
-      {
-        "heading": "1 Measures",
-        "level": 1
-      },
-      {
-        "heading": "1.1 Introduction - the impossibility of ideal properties of a measure over $\\mathbb{R}$",
-        "level": 1
-      },
-      {
-        "heading": "1.2 $\\sigma$-algebras",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "folland1999real",
-        "link": "folland1999real-Ch1",
-        "relativePath": "literature/folland1999real.md"
-      }
-    ]
+    }
   },
   {
     "fileName": "README",
-    "relativePath": "blog/README.md",
+    "relativePath": "atomic/README.md",
     "frontmatter": {
-      "created": "2023-07-30T18:41:51-07:00",
-      "modified": "2023-09-28T11:39:36-07:00",
+      "created": "2023-07-30T18:41:42-07:00",
+      "modified": "2023-11-01T18:25:27-07:00",
       "tags": null
     }
+  },
+  {
+    "fileName": "Bochner's Theorem",
+    "relativePath": "atomic/Bochner's Theorem.md",
+    "tags": [
+      "functionalanalysis",
+      "harmonicanalysis",
+      "fourieranalysis"
+    ],
+    "frontmatter": {
+      "created": "2023-01-23T17:59:04-08:00",
+      "modified": "2023-10-01T15:28:58-07:00"
+    },
+    "aliases": [
+      "20230123120500"
+    ],
+    "links": [
+      {
+        "link": "Li_2020_Random-Fourier-Features"
+      }
+    ]
   }
 ]

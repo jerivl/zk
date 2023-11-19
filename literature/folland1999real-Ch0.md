@@ -1,7 +1,7 @@
 ---
 aliases: [0.1  The language of set theory]
 created: 2023-10-01T14:51:47-07:00
-modified: 2023-10-14T18:34:53-07:00
+modified: 2023-10-14T19:12:24-07:00
 tags: 
 ---
 # 0.1  The language of set theory
@@ -17,7 +17,7 @@ tags:
 
  > [!def union and intersection of sets]
  > If $\mathcal{E}$ is a family of sets, we can form the **union and intersection** of its members:
- > 
+ >
 >  $$\begin{aligned} & \bigcup_{E \in \mathcal{E}} E=\{x: x \in E \text { for some } E \in \mathcal{E}\}, \\ & \bigcap_{E \in \mathcal{E}} E=\{x: x \in E \text { for all } E \in \mathcal{E}\} . \end{aligned}$$
 
  > [!def disjoint sets]
@@ -60,7 +60,7 @@ The most important types of relations are the following:
 >  An **equivalence relation** on $X$ is a relation $R$ on $X$ such that
 >
 > $$\begin{aligned} & x R x \text { for all } x \in X, \\ & x R y \text { iff } y R x, \\ & x R z \text { whenever } x R y \text { and } y R z \text { for some } y . \end{aligned}$$
-> 
+>
 > The equivalence class of an element $x$ is $\{y \in X: x R y\} . X$ is the disjoint union of these equivalence classes.
 
 > [!def Mappings]
@@ -69,7 +69,7 @@ The most important types of relations are the following:
 > [!def composition of mappings / inverse image of a mapping]
 > If $f: X \rightarrow Y$ and $g: Y \rightarrow Z$ are mappings, we denote by **$g \circ f$ their composition**:
 >
-> $$g \circ f: X \rightarrow Z, \quad g \circ f(x)=g(f(x)) .$$ 
+> $$g \circ f: X \rightarrow Z, \quad g \circ f(x)=g(f(x)) .$$
 >
 > If $D \subset X$ and $E \subset Y$, we define the **image of $D$ and the inverse image of $E$ under a mapping $f: X \rightarrow Y$** by
 >
@@ -90,8 +90,8 @@ $\begin{gathered} f^{-1}\left(\bigcup_{\alpha \in A} E_\alpha\right)=\bigcup_{\a
 > $f$ is said to be injective if $f\left(x_1\right)=f\left(x_2\right)$ only when $x_1=x_2$, surjective if $f(X)=Y$, and bijective if it is both injective and surjective. If $f$ is bijective, it has an inverse $f^{-1}: Y \rightarrow X$ such that $f^{-1} \circ f$ and $f \circ f^{-1}$ are the identity mappings on $X$ and $Y$, respectively.
 
 > [!Notation restriction of a function to a subset of a domain]
-> If $A \subset X$, we denote by $f \mid A$ the restriction of $f$ to $A$ : 
-> 
+> If $A \subset X$, we denote by $f \mid A$ the restriction of $f$ to $A$ :
+>
 > $$(f \mid A): A \rightarrow Y, \quad(f \mid A)(x)=f(x) \text { for } x \in A .$$
 
 > [!def sequence / subsequence]
@@ -251,7 +251,7 @@ Page 11
 
 > [!def limit superior / inferior of a sequence]
 > The limit superior and limit inferior for a sequence $\{x_n\} \in \overline{\mathbb{R}}$ is defined as
-> 
+>
 > $$\limsup x_n=\inf _{k \geq 1}\left(\sup _{n \geq k} x_n\right), \quad \liminf x_n=\sup _{k \geq 1}\left(\inf _{n \geq k} x_n\right)$$
 
 > [!lemma]
@@ -342,7 +342,7 @@ These, however, are equivalent to the product metric in the sense that we shall 
 > [!open ball in a metric space]
 >
 > Let $(X, \rho)$ be a metric space. If $x \in X$ and $r>0$, the (open) ball of radius $r$ about $x$ is
-> 
+>
 > $$B(r, x)=\{y \in X: \rho(x, y)<r\} \text {. }$$
 
 > [!def open / closed sets in a metric space]
@@ -390,7 +390,7 @@ Page 15
 
 > [!def distance between a point and a set / distance between sets]
 > In a metric space $(X, \rho)$ we can define the distance from a point to a set and the distance between two sets. Namely, if $x \in X$ and $E, F \subset X$,
-> 
+>
 > $$\begin{gathered} \rho(x, E)=\inf \{\rho(x, y): y \in E\}, \\ \rho(E, F)=\inf \{\rho(x, y): x \in E, y \in F\}=\inf \{\rho(x, F): x \in E\} . \end{gathered}$$
 
 Observe that, by Proposition $0.22, \rho(x, E)=0$ iff $x \in \bar{E}$.
@@ -432,7 +432,7 @@ Every compact set is closed (by Proposition 0.24) and bounded; the converse is f
 
 > [!def equivalent metrics]
 > Two metrics $\rho_1$ and $\rho_2$ on a set $X$ are called equivalent if
-> 
+>
 > $$C \rho_1 \leq \rho_2 \leq C^{\prime} \rho_1 \text { for some } C, C^{\prime}>0 .$$
 
 It is easily verified that equivalent metrics define the same open, closed, and compact sets, the same convergent and Cauchy sequences, and the same continuous and uniformly continuous mappings. Consequently, most results concerning metric spaces depend not on the particular metric chosen but only on its equivalence class.
